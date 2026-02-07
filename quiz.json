@@ -1,0 +1,242 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "date": "2026-01-01",
+      "question": "En quelle année se déroule la première édition du Tour de France ?",
+      "choices": [
+        "1893",
+        "1903",
+        "1913",
+        "1923"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le premier Tour de France part le 1er juillet 1903 de Montgeron (Essonne) et comprend six étapes.",
+      "category": "Sport"
+    },
+    {
+      "id": 2,
+      "date": "2026-01-02",
+      "question": "En 1967, Muhammad Ali est déchu de son titre de champion du monde de boxe parce qu’il…",
+      "choices": [
+        "refuse de combattre au Vietnam",
+        "est gravement blessé",
+        "milite en faveur de la cause noire",
+        "a critiqué la fédération de boxe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il refuse de combattre au Vietnam.",
+      "category": "Sport"
+    },
+    {
+      "id": 3,
+      "date": "2026-01-03",
+      "question": "Quel sport collectif venu du Quebec se joue avec un ballon de 1m22 ?",
+      "choices": [
+        "Le spike ball",
+        "Le kin-ball",
+        "L'airsoft",
+        "Le slam ball"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un ballon de 1,22 mètres de diamètre sera posé au centre du terrain et 3 équipes de 4 joueurs devront s’affronter. Le but du jeu est relativement simple, les joueurs devront attraper le ballon avec n’importe quelle partie du corps afin d’éviter qu'il ne touche le sol.",
+      "category": "Sport"
+    },
+    {
+      "id": 4,
+      "date": "2026-01-04",
+      "question": "Quel est le sport proche du hockey sur glace mais se jouant en intérieur ?",
+      "choices": [
+        "Le boulingrin",
+        "La ringuette",
+        "Le gouret de salon",
+        "Le bandy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le gouret de salon (ou hockey de salon) est un sport collectif récréatif d'intérieur qui est un proche parent du hockey sur glace.",
+      "category": "Sport"
+    },
+    {
+      "id": 5,
+      "date": "2026-01-05",
+      "question": "Qui est surnommé « l’Eternel Second » du Tour de France ?",
+      "choices": [
+        "Raymond Poulidor",
+        "Bernard Hinault",
+        "Eddy Merckx",
+        "Laurent Fignon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Raymond Poulidor a beau avoir remporté de nombreuses victoires, le Tour de France lui a toujours résisté. Il a terminé deuxième à trois reprises, en 1964, 1965 et 1974.",
+      "category": "Sport"
+    },
+    {
+      "id": 6,
+      "date": "2026-01-06",
+      "question": "Qu'est ce que le steeple ?",
+      "choices": [
+        "Un art martial",
+        "Un sport équestre",
+        "Une course d'obstacles",
+        "Un sport nautique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le steeple est une course sur piste durant laquelle les athlètes franchissent de larges barrières fixes et des fosses remplies d'eau (« rivières »).",
+      "category": "Sport"
+    },
+    {
+      "id": 7,
+      "date": "2026-01-07",
+      "question": "Quel sport équestre argentin est le sport national ?",
+      "choices": [
+        "Le polo",
+        "Le pato",
+        "Le horse-ball",
+        "Le boulingrin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le pato est un sport équestre originaire d'Argentine et déclaré « sport national » en 1953.",
+      "category": "Sport"
+    },
+    {
+      "id": 8,
+      "date": "2026-01-08",
+      "question": "Quel club a le plus remporté la Ligue des champions ?",
+      "choices": [
+        "Milan AC",
+        "Real Madrid",
+        "FC Barcelone",
+        "Bayern Munich"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Real Madrid domine le palmarès de la compétition avec 15 titres. Le club espagnol est également celui qui a disputé le plus de finales (18)",
+      "category": "Sport"
+    },
+    {
+      "id": 9,
+      "date": "2026-01-09",
+      "question": "Quel est le club le plus titré de la Ligue des champions féminine ?",
+      "choices": [
+        "Olympique lyonnais",
+        "FC Barcelone",
+        "FFC Francfort",
+        "PSG"
+      ],
+      "correctIndex": 0,
+      "explanation": "L’OL a remporté huit fois ce titre depuis sa création en 2001, avec 5 victoires d’affilée entre 2016 et 2020.",
+      "category": "Sport"
+    },
+    {
+      "id": 10,
+      "date": "2026-01-10",
+      "question": "Quel est le meilleur buteur de l’histoire de la Ligue des champions ?",
+      "choices": [
+        "Lionel Messi",
+        "Kylian Mbappé",
+        "Karim Benzema",
+        "Cristiano Ronaldo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cristiano Ronaldo est le meilleur buteur de tous les temps en Champions League",
+      "category": "Sport"
+    },
+    {
+      "id": 11,
+      "date": "2026-01-11",
+      "question": "Quel entraîneur est le plus titré en Ligue des champions ?",
+      "choices": [
+        "Pep Guardiola",
+        "Luis Enrique",
+        "Zinédine Zidane",
+        "Carlo Ancelotti"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carlo Ancelotti a remporté 5 fois la coupe (avec l'AC Milan en 2003 et 2007 puis avec le Real Madrid en 2014, 2022 et 2024)",
+      "category": "Sport"
+    },
+    {
+      "id": 12,
+      "date": "2026-01-12",
+      "question": "Quel club a réussi l'exploit de remporter tous ses matchs lors d'une édition de la Ligue des champions ?",
+      "choices": [
+        "Milan AC",
+        "Real Madrid",
+        "FC Barcelone",
+        "Bayern Munich"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le Bayern Munich est le seul club de l’histoire à avoir remporté la Ligue des champions en gagnant tous ses matchs lors de la saison 2019-2020.",
+      "category": "Sport"
+    },
+    {
+      "id": 13,
+      "date": "2026-01-13",
+      "question": "Quel match de la Ligue des champions, surnommé la remontada, a marqué l’histoire du football ?",
+      "choices": [
+        "Liverpool-FC Barcelone",
+        "PSG-Manchester United",
+        "FC Barcelone–PSG",
+        "Real Madrid–PSG"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le 8 mars 2017, le FC Barcelone, battu 4-0 par le Paris Saint-Germain lors du match aller, sort vainqueur de ces huitièmes de finale en battant le Paris Saint-Germain 6-1.",
+      "category": "Sport"
+    },
+    {
+      "id": 14,
+      "date": "2026-01-14",
+      "question": "Combien de fois la France a-t-elle accueilli les Jeux olympiques ?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cela fait 6 fois que la France accueille les JO : 3 fois ceux d’été (Paris en 1900, 1924 et 2024) et 3 fois ceux d’hiver (Chamonix en 1924, Grenoble en 1968 et Albertville en 1992). Juste derrière les USA avec 8 JO.",
+      "category": "Sport"
+    },
+    {
+      "id": 15,
+      "date": "2026-01-15",
+      "question": "Dans quel sport la France a-t-elle remportée le plus grand nombre de médailles olympiques ?",
+      "choices": [
+        "Escrime",
+        "Judo",
+        "Natation",
+        "Cyclisme"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'escrime est le sport français ayant remporté le plus grand nombre de médailles aux Jeux Olympiques avec un total de 130 médailles.",
+      "category": "Sport"
+    },
+    {
+      "id": 16,
+      "date": "2026-01-16",
+      "question": "Quel sportif français possède le record de titres olympiques ?",
+      "choices": [
+        "Teddy Riner",
+        "Laura Flessel",
+        "Marie-Jo Perec",
+        "Martin Fourcade"
+      ],
+      "correctIndex": 3,
+      "explanation": "Il est le français le plus médaillé de l'histoire aux Jeux Olympiques d'Hiver avec 7 médailles, dont 5 d'or remportées en individuel.",
+      "category": "Sport"
+    },
+    {
+      "id": 17,
+      "date": "2026-01-28",
+      "question": "Dans quel sport nautique, Tony Estanguet a-t-il remporté 3 titres olympiques ?",
+      "choices": [
+        "Aviron",
+        "Canoë-kayak",
+        "Natation",
+        "Hockey Subaquatique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tony Estanguet est devenu une légende olympique en remportant trois médailles d'or consécutives aux Jeux de Sydney, Athènes et Londres. Après sa carrière sportive, il s'est investi dans l'organisation des Jeux de Paris 2024.",
+      "category": "Sport"
+    }
+  ]
+}
