@@ -1,50 +1,22 @@
 {
-  "quiz": [
+  "quizz": [
     {
       "id": 1,
       "date": "2026-01-01",
-      "question": "En quelle année se déroule la première édition du Tour de France ?",
+      "question": "A quel créateur doit-on les légendaires seins en cône ?",
       "choices": [
-        "1893",
-        "1903",
-        "1913",
-        "1923"
+        "Karl Lagarfeld",
+        "Marc Jacobs",
+        "Jean-Paul Gaultier",
+        "Coco Chanel"
       ],
-      "correctIndex": 1,
-      "explanation": "Le premier Tour de France part le 1er juillet 1903 de Montgeron (Essonne) et comprend six étapes.",
-      "category": "Sport"
+      "correctIndex": 2,
+      "explanation": "Jean Paul Gaultier a créé ces iconiques et légendaires seins en cône portés notamment par Madonna en 1990 pour son « Blond Ambition Tour ».",
+      "category": "Mode"
     },
     {
       "id": 2,
       "date": "2026-01-02",
-      "question": "En 1967, Muhammad Ali est déchu de son titre de champion du monde de boxe parce qu’il…",
-      "choices": [
-        "refuse de combattre au Vietnam",
-        "est gravement blessé",
-        "milite en faveur de la cause noire",
-        "a critiqué la fédération de boxe"
-      ],
-      "correctIndex": 0,
-      "explanation": "Il refuse de combattre au Vietnam.",
-      "category": "Sport"
-    },
-    {
-      "id": 3,
-      "date": "2026-01-03",
-      "question": "Quel sport collectif venu du Quebec se joue avec un ballon de 1m22 ?",
-      "choices": [
-        "Le spike ball",
-        "Le kin-ball",
-        "L'airsoft",
-        "Le slam ball"
-      ],
-      "correctIndex": 1,
-      "explanation": "Un ballon de 1,22 mètres de diamètre sera posé au centre du terrain et 3 équipes de 4 joueurs devront s’affronter. Le but du jeu est relativement simple, les joueurs devront attraper le ballon avec n’importe quelle partie du corps afin d’éviter qu'il ne touche le sol.",
-      "category": "Sport"
-    },
-    {
-      "id": 4,
-      "date": "2026-01-04",
       "question": "Quel est le sport proche du hockey sur glace mais se jouant en intérieur ?",
       "choices": [
         "Le boulingrin",
@@ -57,8 +29,78 @@
       "category": "Sport"
     },
     {
+      "id": 3,
+      "date": "2026-01-03",
+      "question": "La préhistoire se termine",
+      "choices": [
+        "à la naissance de Jésus",
+        "à l'invention de la roue",
+        "à l'invention de l'écriture",
+        "à l'invention de l'agriculture"
+      ],
+      "correctIndex": 2,
+      "explanation": "La Préhistoire est la période qui s'étend de l'apparition de l'Homme, il y a 2,8 millions d'années, à l'invention de l'écriture, vers 3300 avant J.C. C'est donc, jusqu'à aujourd'hui, la plus longue période de l'histoire de l'humanité.",
+      "category": "Histoire"
+    },
+    {
+      "id": 4,
+      "date": "2026-01-04",
+      "question": "Grâce à quel métal l'acier inoxydable (inox) résiste-il à la corrosion ?",
+      "choices": [
+        "L'étain",
+        "Le zinc",
+        "Le cuivre",
+        "Le chrome"
+      ],
+      "correctIndex": 3,
+      "explanation": "L'inox (ou acier inoxidable) est un alliage de fer, de carbone et de chrome. Le chrome a la propriété d'être peu sensible à la corrosion et de ne pas rouiller. ",
+      "category": "Sciences"
+    },
+    {
       "id": 5,
       "date": "2026-01-05",
+      "question": "Quelle proposition est correcte ?",
+      "choices": [
+        "En son for intérieur",
+        "En son fort intérieur",
+        "En son fore intérieur",
+        "En son fors intérieur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le nom « for » ne subsistant plus que dans l’expression « for intérieur », on a tendance à lui donner l’orthographe de « fort ».",
+      "category": "Orthographe"
+    },
+    {
+      "id": 6,
+      "date": "2026-01-06",
+      "question": "Quel groupe sangin est donneur universel ?",
+      "choices": [
+        "AB+",
+        "O-",
+        "O+",
+        "A-"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il existe huit combinaisons combinaisons de groupes sanguins : A, B, O et AB avec soit avec un facteur Rhésus (+) ou (-). Le groupe O- est destiné à tout le monde et on l'appelle « donneur universel ». Il représente environ 6% en France.",
+      "category": "Sciences"
+    },
+    {
+      "id": 7,
+      "date": "2026-01-07",
+      "question": "Qui a percé le mystère des hiéroglyphes ? ",
+      "choices": [
+        "Champollion",
+        "Carnot",
+        "Howard Carter",
+        "Napoléon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le secret des hiéroglyphes fut percé par Jean-François Champollion grâce à la pierre de Rosette, en s'appuyant sur les travaux d'autres chercheurs.",
+      "category": "Histoire"
+    },
+    {
+      "id": 8,
+      "date": "2026-01-08",
       "question": "Qui est surnommé « l’Eternel Second » du Tour de France ?",
       "choices": [
         "Raymond Poulidor",
@@ -71,134 +113,64 @@
       "category": "Sport"
     },
     {
-      "id": 6,
-      "date": "2026-01-06",
-      "question": "Qu'est ce que le steeple ?",
-      "choices": [
-        "Un art martial",
-        "Un sport équestre",
-        "Une course d'obstacles",
-        "Un sport nautique"
-      ],
-      "correctIndex": 2,
-      "explanation": "Le steeple est une course sur piste durant laquelle les athlètes franchissent de larges barrières fixes et des fosses remplies d'eau (« rivières »).",
-      "category": "Sport"
-    },
-    {
-      "id": 7,
-      "date": "2026-01-07",
-      "question": "Quel sport équestre argentin est le sport national ?",
-      "choices": [
-        "Le polo",
-        "Le pato",
-        "Le horse-ball",
-        "Le boulingrin"
-      ],
-      "correctIndex": 1,
-      "explanation": "Le pato est un sport équestre originaire d'Argentine et déclaré « sport national » en 1953.",
-      "category": "Sport"
-    },
-    {
-      "id": 8,
-      "date": "2026-01-08",
-      "question": "Quel club a le plus remporté la Ligue des champions ?",
-      "choices": [
-        "Milan AC",
-        "Real Madrid",
-        "FC Barcelone",
-        "Bayern Munich"
-      ],
-      "correctIndex": 1,
-      "explanation": "Le Real Madrid domine le palmarès de la compétition avec 15 titres. Le club espagnol est également celui qui a disputé le plus de finales (18)",
-      "category": "Sport"
-    },
-    {
       "id": 9,
       "date": "2026-01-09",
-      "question": "Quel est le club le plus titré de la Ligue des champions féminine ?",
+      "question": "Comment l’archipel comptant les îles de Rhodes, de Kalmynos ou de Leros se nomme-t-il ?",
       "choices": [
-        "Olympique lyonnais",
-        "FC Barcelone",
-        "FFC Francfort",
-        "PSG"
+        "Les îles Ioniennes",
+        "Les Cyclades",
+        "Les îles Sporades",
+        "Le Dodécanèse"
       ],
-      "correctIndex": 0,
-      "explanation": "L’OL a remporté huit fois ce titre depuis sa création en 2001, avec 5 victoires d’affilée entre 2016 et 2020.",
-      "category": "Sport"
+      "correctIndex": 3,
+      "explanation": "Le Dodécanèse est un groupe d'îles grecques dans le sud-est de la mer Égée. Le mot Dodécanèse vient du grec ancien et signifie « douze îles ». Ainsi, on parle souvent de douze îles principales, mais au total, l'archipel compte environ 160 îles.",
+      "category": "Géo"
     },
     {
       "id": 10,
       "date": "2026-01-10",
-      "question": "Quel est le meilleur buteur de l’histoire de la Ligue des champions ?",
+      "question": "Qui est célèbre pour avoir introduit la mini jupe dans les années 60 ?",
       "choices": [
-        "Lionel Messi",
-        "Kylian Mbappé",
-        "Karim Benzema",
-        "Cristiano Ronaldo"
+        "Yves Saint Laurent",
+        "Pierre Cardin",
+        "André Courrèges",
+        "Mary Quant"
       ],
       "correctIndex": 3,
-      "explanation": "Cristiano Ronaldo est le meilleur buteur de tous les temps en Champions League",
-      "category": "Sport"
+      "explanation": "En 1965, le couturier André Courrèges présente en défilé une jupe courte qui fait sensation. Pourtant, c'est Mary Quant, jeune styliste du Swinging London qui en est à l'origine.",
+      "category": "Mode"
     },
     {
       "id": 11,
       "date": "2026-01-11",
-      "question": "Quel entraîneur est le plus titré en Ligue des champions ?",
+      "question": "Qui est André Malraux ?",
       "choices": [
-        "Pep Guardiola",
-        "Luis Enrique",
-        "Zinédine Zidane",
-        "Carlo Ancelotti"
+        "Un écrivain et homme politique",
+        "Un dramaturge",
+        "Un musicien",
+        "Un peintre"
       ],
-      "correctIndex": 3,
-      "explanation": "Carlo Ancelotti a remporté 5 fois la coupe (avec l'AC Milan en 2003 et 2007 puis avec le Real Madrid en 2014, 2022 et 2024)",
-      "category": "Sport"
+      "correctIndex": 0,
+      "explanation": "André Malraux est un écrivain, critique d'art et homme politique. Il joue un rôle important dans la culture française du XXe siècle. Il croit que l'art doit être accessible à tous les citoyens, indépendamment de leur classe sociale ou de leur éducation.",
+      "category": "Histoire"
     },
     {
       "id": 12,
       "date": "2026-01-12",
-      "question": "Quel club a réussi l'exploit de remporter tous ses matchs lors d'une édition de la Ligue des champions ?",
+      "question": "Quelle créatrice de mode a imaginé la tenue de la cavalière d'argent aux JO de Paris 2024 ?",
       "choices": [
-        "Milan AC",
-        "Real Madrid",
-        "FC Barcelone",
-        "Bayern Munich"
+        "Marine Serre",
+        "Morgane Sézalory",
+        "Jeanne Friot",
+        "Isabel Marant"
       ],
-      "correctIndex": 3,
-      "explanation": "Le Bayern Munich est le seul club de l’histoire à avoir remporté la Ligue des champions en gagnant tous ses matchs lors de la saison 2019-2020.",
-      "category": "Sport"
+      "correctIndex": 2,
+      "explanation": "Jeanne Friot a créé l'une des silhouettes les plus marquantes de la cérémonie d'ouverture des JO de Paris.",
+      "category": "Mode"
     },
     {
       "id": 13,
       "date": "2026-01-13",
-      "question": "Quel match de la Ligue des champions, surnommé la remontada, a marqué l’histoire du football ?",
-      "choices": [
-        "Liverpool-FC Barcelone",
-        "PSG-Manchester United",
-        "FC Barcelone–PSG",
-        "Real Madrid–PSG"
-      ],
-      "correctIndex": 2,
-      "explanation": "Le 8 mars 2017, le FC Barcelone, battu 4-0 par le Paris Saint-Germain lors du match aller, sort vainqueur de ces huitièmes de finale en battant le Paris Saint-Germain 6-1.",
-      "category": "Sport"
-    },
-    {
-      "id": 14,
-      "date": "2026-01-14",
-      "question": "Combien de fois la France a-t-elle accueilli les Jeux olympiques ?",
-      "choices": [
-        "4",
-        "6",
-        "8",
-        "2"
-      ],
-      "correctIndex": 2,
-      "explanation": "Cela fait 6 fois que la France accueille les JO : 3 fois ceux d’été (Paris en 1900, 1924 et 2024) et 3 fois ceux d’hiver (Chamonix en 1924, Grenoble en 1968 et Albertville en 1992). Juste derrière les USA avec 8 JO.",
-      "category": "Sport"
-    },
-    {
-      "id": 15,
-      "date": "2026-01-15",
       "question": "Dans quel sport la France a-t-elle remportée le plus grand nombre de médailles olympiques ?",
       "choices": [
         "Escrime",
@@ -211,8 +183,680 @@
       "category": "Sport"
     },
     {
+      "id": 14,
+      "date": "2026-01-14",
+      "question": "Quelles sont les trois salles officielles parisiennes qui accueillent le théâtre des Lumières, au XVIIIe siècle ? ",
+      "choices": [
+        "La Comédie-Française, l'Odéon et l'Opéra",
+        "Le Théâtre des Champs-Élysées, l'Odéon et l'Opéra",
+        "Le Théâtre du Châtelet, le thétare de la Renaissance et l'Opéra",
+        "L'Opéra de Bastille, le théatre de la Renaissance et le théatre du Palais Royal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les représentations ont lieu dans des foires ou dans des institutions comme la Comédie-Française, l'Odeon et l'Opera. Le Théâtre des Champs-Élysées a été construit en 1913 et celui du Châtelet en 1860.",
+      "category": "Histoire"
+    },
+    {
+      "id": 15,
+      "date": "2026-01-15",
+      "question": "Quelle institution fonde de Gaulle pour promouvoir l'art ?",
+      "choices": [
+        "Le Musée d'Orsay",
+        "Le ministère de la Culture",
+        "La fondation pour l'Art",
+        "La pyramide du Louvre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Créé en 1959, le ministère de la Culture est confié à André Malraux et a pour ambition de rendre accessibles les œuvres capitales de l'humanité à tous les Français.",
+      "category": "Histoire"
+    },
+    {
       "id": 16,
       "date": "2026-01-16",
+      "question": "Quelles sont les quatre principales villes dans lesquelles se déroulent des Fashion Week ?",
+      "choices": [
+        "New York, Londres, Milan et Paris",
+        "New York, Paris, Rome et Londres",
+        "Paris, Londres, Los Angeles et Milan",
+        NaN
+      ],
+      "correctIndex": 0,
+      "explanation": "Les quatre grandes villes sont dans l'ordre New York, Londres, Milan et Paris",
+      "category": "Mode"
+    },
+    {
+      "id": 17,
+      "date": "2026-01-17",
+      "question": "Quel est l'autre nom du Néolithique ? Âge de la ...",
+      "choices": [
+        "pierre taillée",
+        "pierre polie",
+        "pierre sculptée",
+        "pierre peinte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Défini comme «l'âge de la pierre polie », il est principalement caractérisé actuellement par la domestication de certaines plantes et animaux et le début de l'agriculture.",
+      "category": "Histoire"
+    },
+    {
+      "id": 18,
+      "date": "2026-01-18",
+      "question": "Quel créateur s'est mis à la réalisation avec « A single man » ?",
+      "choices": [
+        "Tom Ford",
+        "Azzedine Alaia",
+        "Marc Jacobs",
+        "Simon Jacquemus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Connu comme directeur artistique de Gucci avant de lancer sa marque éponyme, Tom Ford se lance ensuite dans le cinéma. Il a écrit et réalisé les films A Single Man (2009) et Nocturnal Animals (2016).",
+      "category": "Mode"
+    },
+    {
+      "id": 19,
+      "date": "2026-01-19",
+      "question": "Dans quelle chaine de montagne se trouve le K2 ?",
+      "choices": [
+        "Himalaya",
+        "Karakoram",
+        "Cordillère des andes",
+        "Chaine d'Alaska"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le K2 est un sommet du massif du Karakoram ou Karakorum. Avec une altitude officielle de 8 611 m, c'est le deuxième sommet du monde après l'Everest. Il est surnommé « montagne Sauvage » en raison de la difficulté de son ascension, ou « montagne sans pitié ».",
+      "category": "Géo"
+    },
+    {
+      "id": 20,
+      "date": "2026-01-20",
+      "question": "Quelle pierre a permis de déchiffrer l'écriture égyptienne ?",
+      "choices": [
+        "Pierre de Rosette",
+        "Pierre de Josette",
+        "Pierre de Rose",
+        "Pierre d'Alexandrie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Découverte lors de l'expédition d'Égypte de Napoléon Bonaparte, la pierre de Rosette a permis à Jean-François Champollion de déchiffrer pour la première fois les hiéroglyphes, perçant ainsi le mystère de cette écriture égyptienne",
+      "category": "Histoire"
+    },
+    {
+      "id": 21,
+      "date": "2026-01-21",
+      "question": "Quel sport collectif venu du Quebec se joue avec un ballon de 1m22 ?",
+      "choices": [
+        "Le spike ball",
+        "Le kin-ball",
+        "L'airsoft",
+        "Le slam ball"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un ballon de 1,22 mètres de diamètre sera posé au centre du terrain et 3 équipes de 4 joueurs devront s’affronter. Le but du jeu est relativement simple, les joueurs devront attraper le ballon avec n’importe quelle partie du corps afin d’éviter qu'il ne touche le sol.",
+      "category": "Sport"
+    },
+    {
+      "id": 22,
+      "date": "2026-01-22",
+      "question": "Clovis a été Baptisé :",
+      "choices": [
+        "à Paris",
+        "à Reims",
+        "à Blois",
+        "à Avignon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clovis se fait baptiser à Reims. Il le fait pour des raisons politiques car les francs ont besoin du soutien de l'église. Il devient un roi chrétien, personne ne peut plus contester son pouvoir divin. Ce qui va lui permettre de conquérir le reste de la Gaule.",
+      "category": "Histoire"
+    },
+    {
+      "id": 23,
+      "date": "2026-01-23",
+      "question": "Qui a rédigé la célèbre Une de L'Aurore \"J'accuse ...!\" ?",
+      "choices": [
+        "Victor Hugo",
+        "Emile Zola",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zola a défendu Dreyfus dans son célèbre « J'accuse…! » à la une de L'Aurore du 13 janvier 1898.",
+      "category": "Littérature"
+    },
+    {
+      "id": 24,
+      "date": "2026-01-24",
+      "question": "Dans quel département se situe la côte de granit rose ?",
+      "choices": [
+        "Côtes-d'Armor",
+        "Le Finistère",
+        "La Martinique",
+        "Le calvados"
+      ],
+      "correctIndex": 0,
+      "explanation": "La Côte de Granit Rose s'étend sur 30 km entre Perros-Guirec et Trébeurden dans les Côtes d'Armor.",
+      "category": "Géo"
+    },
+    {
+      "id": 25,
+      "date": "2026-01-25",
+      "question": "Quel groupe sangin est receveur universel ?",
+      "choices": [
+        "AB+",
+        "O-",
+        "O+",
+        "A-"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il existe huit combinaisons combinaisons de groupes sanguins : A, B, O et AB avec soit avec un facteur Rhésus (+) ou (-). Le groupe AB+ peut recevoir du sang de tous les groupes sanguins et on l'appelle « receveur universel ». Il représente environ 3% en France.",
+      "category": "Sciences"
+    },
+    {
+      "id": 26,
+      "date": "2026-01-26",
+      "question": "Qui est la première femme directrice artistique de Dior ?",
+      "choices": [
+        "Maria Grazia Chiuri",
+        "Stella McCartney",
+        "Phoebe Philo",
+        "Madeleine Vionnet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria Grazia Chiuri, née à Rome en février 1964, est une styliste italienne. Après Fendi, elle passe dix-sept ans chez Valentino avant d'être nommée directrice artistique de Dior en 2017, jusqu'à son départ en 2025.",
+      "category": "Mode"
+    },
+    {
+      "id": 27,
+      "date": "2026-01-27",
+      "question": "Qui est la créatrice de la « petite robe noire » devenue iconique ?",
+      "choices": [
+        "Elsa Schiaparelli",
+        "Jeanne Lanvin",
+        "Madeleine Vionnet",
+        "Coco Chanel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Coco Chanel popularise la petite robe noire dans les années 1920, symbole d’élégance intemporelle, de modernité et de libération du corps féminin.",
+      "category": "Mode"
+    },
+    {
+      "id": 28,
+      "date": "2026-01-28",
+      "question": "Combien de fois la France a-t-elle accueilli les Jeux olympiques ?",
+      "choices": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cela fait 6 fois que la France accueille les JO : 3 fois ceux d’été (Paris en 1900, 1924 et 2024) et 3 fois ceux d’hiver (Chamonix en 1924, Grenoble en 1968 et Albertville en 1992). Juste derrière les USA avec 8 JO.",
+      "category": "Sport"
+    },
+    {
+      "id": 29,
+      "date": "2026-01-29",
+      "question": "Quel est le club le plus titré de la Ligue des champions féminine ?",
+      "choices": [
+        "Olympique lyonnais",
+        "FC Barcelone",
+        "FFC Francfort",
+        "PSG"
+      ],
+      "correctIndex": 0,
+      "explanation": "L’OL a remporté huit fois ce titre depuis sa création en 2001, avec 5 victoires d’affilée entre 2016 et 2020.",
+      "category": "Sport"
+    },
+    {
+      "id": 30,
+      "date": "2026-01-30",
+      "question": "Quelle styliste est associée au style punk dans la mode ?",
+      "choices": [
+        "Stella McCartney",
+        "Vivienne Westwood",
+        "Sonia Rykiel",
+        "Agnès b."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vivienne Westwood révolutionne la mode en intégrant l’esthétique punk, mêlant provocation, politique et créativité et influençant durablement la culture fashion.",
+      "category": "Mode"
+    },
+    {
+      "id": 31,
+      "date": "2026-01-31",
+      "question": "En quelle année se déroule la première édition du Tour de France ?",
+      "choices": [
+        "1893",
+        "1903",
+        "1913",
+        "1923"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le premier Tour de France part le 1er juillet 1903 de Montgeron (Essonne) et comprend six étapes.",
+      "category": "Sport"
+    },
+    {
+      "id": 32,
+      "date": "2026-02-01",
+      "question": "Quelle est la capitale de la Suisse ?",
+      "choices": [
+        "Zurich",
+        "Genève",
+        "Berne",
+        "Lausanne"
+      ],
+      "correctIndex": 2,
+      "explanation": "Berne est la capitale de la Suisse mais est seulement la 5ème ville la plus peuplée de Suisse après Zurich, Genève, Bâle et Lausanne.",
+      "category": "Géo"
+    },
+    {
+      "id": 33,
+      "date": "2026-02-02",
+      "question": "Quel sport équestre argentin est le sport national ?",
+      "choices": [
+        "Le polo",
+        "Le pato",
+        "Le horse-ball",
+        "Le boulingrin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le pato est un sport équestre originaire d'Argentine et déclaré « sport national » en 1953.",
+      "category": "Sport"
+    },
+    {
+      "id": 34,
+      "date": "2026-02-03",
+      "question": "Quel mot est de genre masculin ?",
+      "choices": [
+        "Anagramme",
+        "Abysse",
+        "Aspirine",
+        "Octave"
+      ],
+      "correctIndex": 1,
+      "explanation": "On dit bien une anagramme, une aspirine, une octave et un abysse.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 35,
+      "date": "2026-02-04",
+      "question": "Avec quel pays la France partage-t-elle sa plus longue frontière terrestre ?",
+      "choices": [
+        "Suriname",
+        "Suisse",
+        "Espagne",
+        "Brésil"
+      ],
+      "correctIndex": 3,
+      "explanation": "La France et le Brésil partagent une frontière de plus de 730 km, ce qui constitue la plus longue frontière terrestre française.",
+      "category": "Géo"
+    },
+    {
+      "id": 36,
+      "date": "2026-02-05",
+      "question": "Quel créateur star a été le directeur artistique de Christian Dior pendant presque 15 ans ?",
+      "choices": [
+        "Marc Jacobs",
+        "Tom Ford",
+        "Karl Lagarfeld",
+        "John Galliano"
+      ],
+      "correctIndex": 3,
+      "explanation": "En 1996, la maison Christian Dior nomme un nouveau directeur artistique pour ses lignes prêt-à-porter et Haute Couture : John Galliano.",
+      "category": "Mode"
+    },
+    {
+      "id": 37,
+      "date": "2026-02-06",
+      "question": "Comment appelle-t-on ces fêtes bretonnes durant lesquelles on pratique danses et chants traditionnels ?",
+      "choices": [
+        "Le bagad",
+        "Le biniou",
+        "Le kastell",
+        "Le fest-noz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le fest-noz est un rassemblement festif basé sur la pratique collective des danses traditionnelles de Bretagne, accompagnées de chants ou musiques instrumentales.",
+      "category": "Géo"
+    },
+    {
+      "id": 38,
+      "date": "2026-02-07",
+      "question": "Quelle femme est surnommée « la reine du tricot » ?",
+      "choices": [
+        "Maria Grazia Chiuri",
+        "Donatella Versace",
+        "Sonia Rykiel",
+        "Phoebe Philo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sonia Rykiel révolutionne le tricot en le rendant sexy et confortable, libérant le corps féminin et imposant un style décontracté et intellectuel.",
+      "category": "Mode"
+    },
+    {
+      "id": 39,
+      "date": "2026-02-08",
+      "question": "Considérée comme une papesse de la mode, comment s'appelle la rédactrice en chef du Vogue US ?",
+      "choices": [
+        "Suzy Menkes",
+        "Carine Roitfeld",
+        "Emmanuelle Alt",
+        "Anna Wintour"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anna Wintour, à 75 ans, se retire de son poste de patronne de Vogue après 37 ans de service. Cette position a fait d'elle l'une des femmes les plus influentes au monde. Elle a notamment inspiré le rôle de Miranda Priestly dans le film Le Diable s'habille en Prada, incarné par Meryl Streep.",
+      "category": "Mode"
+    },
+    {
+      "id": 40,
+      "date": "2026-02-09",
+      "question": "Quel était le prénom de Balenciaga, fondateur de la marque éponyme ?",
+      "choices": [
+        "Cristobal",
+        "Paolo",
+        "Esteban",
+        "Rafael"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cristobal Balenciaga fut l'un des plus grands couturiers, unanimement reconnu par ses pairs et surnommé « le maître » ou encore « le couturier des couturiers ».",
+      "category": "Mode"
+    },
+    {
+      "id": 41,
+      "date": "2026-02-10",
+      "question": "Quel est le plus grand département d'Outre Mer (superficie) ?",
+      "choices": [
+        "La Martinique",
+        "La Réunion",
+        "La Guyane",
+        "La Guadeloupe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Située au nord-est du continent américain à 7 000 km de Paris, la Guyane est bordée par le Brésil et le Suriname. Avec une superficie de 84 000 km2 (soit 16 % du territoire métropolitain), c'est le plus vaste département français d'outre-mer.",
+      "category": "Géo"
+    },
+    {
+      "id": 42,
+      "date": "2026-02-11",
+      "question": "Quelle proposition est incorrecte ?",
+      "choices": [
+        "Les arrières-boutiques",
+        "Les nouveaux-nés",
+        "Les derniers-nés",
+        "Les après-midi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les nouveau-nés.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 43,
+      "date": "2026-02-12",
+      "question": "Quel mot est de genre féminin ?",
+      "choices": [
+        "Entracte",
+        "Armistice",
+        "Aromate",
+        "éphéméride"
+      ],
+      "correctIndex": 3,
+      "explanation": "Une éphéméride.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 44,
+      "date": "2026-02-13",
+      "question": "Quelle pays possède la plus superficie forestière du monde ?",
+      "choices": [
+        "Russie ",
+        "Canada",
+        "Brésil",
+        "Chine"
+      ],
+      "correctIndex": 0,
+      "explanation": "La Russie abrite la plus grande superficie forestière au monde, couvrant plus de 815 millions d’hectares, soit près de 20 % de la superficie forestière totale de la planète.",
+      "category": "Géo"
+    },
+    {
+      "id": 45,
+      "date": "2026-02-14",
+      "question": "Selon l'Article 1er de la Constitution. « La France est une république indivisible, laïque, démocratique et ... »",
+      "choices": [
+        "Morale",
+        "Libérale",
+        "Libre",
+        "Sociale"
+      ],
+      "correctIndex": 3,
+      "explanation": "La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion.",
+      "category": "Politique"
+    },
+    {
+      "id": 46,
+      "date": "2026-02-15",
+      "question": "A part Chanel et ses propres marques, de quelle marque Karl Lagerfeld a-t-il été le directeur artistique ?",
+      "choices": [
+        "Gucci",
+        "Fendi",
+        "Dior",
+        "Prada"
+      ],
+      "correctIndex": 1,
+      "explanation": "Karl Lagerfeld a été à la tête de Fendi pendant 54 ans. ",
+      "category": "Mode"
+    },
+    {
+      "id": 47,
+      "date": "2026-02-16",
+      "question": "Le feu a été découvert par ...",
+      "choices": [
+        "L'homme de Cro-Magnon",
+        "L'Homo erectus",
+        "L'Homo sapiens",
+        "L'homo habilis"
+      ],
+      "correctIndex": 1,
+      "explanation": "La découverte du feu est un tournant majeur dans l'Histoire de l'humanité. Difficile à dater, elle s'est faite de manière progressive à plusieurs endroits à la fois. On sait qu'Homo erectus le domestiquait vers 400.000 ans avant notre ère, et qu'Homo sapiens a développé son usage.",
+      "category": "Histoire"
+    },
+    {
+      "id": 48,
+      "date": "2026-02-17",
+      "question": "Quel est le meilleur buteur de l’histoire de la Ligue des champions ?",
+      "choices": [
+        "Lionel Messi",
+        "Kylian Mbappé",
+        "Karim Benzema",
+        "Cristiano Ronaldo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cristiano Ronaldo est le meilleur buteur de tous les temps en Champions League",
+      "category": "Sport"
+    },
+    {
+      "id": 49,
+      "date": "2026-02-18",
+      "question": "Quel dramaturge s'illustre particulièrement dans la comédie au XVIIIe siècle ? ",
+      "choices": [
+        "Molière",
+        "Marivaux",
+        "Corneille",
+        "Racine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le 18e siècle se passionne pour le théâtre avec une production très abondante. Un nouveau genre apparaît entre la tragédie et la comédie : le drame bourgeois. Marivaux est surtout connu pour ses pièces qui traitent de \"la métaphysique du coeur\", ce qu'on a appelé le marivaudage : La Surprise de l'amour (1722), la Double Inconstance (1723), le Jeu de l'amour et du hasard (1730), les Fausses confidences (1737).",
+      "category": "Histoire"
+    },
+    {
+      "id": 50,
+      "date": "2026-02-19",
+      "question": "Quelle proposition est incorrecte ?",
+      "choices": [
+        "Hormis",
+        "Volontiers",
+        "Malgrés",
+        "Certes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Malgré.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 51,
+      "date": "2026-02-20",
+      "question": "Quel entraîneur est le plus titré en Ligue des champions ?",
+      "choices": [
+        "Pep Guardiola",
+        "Luis Enrique",
+        "Zinédine Zidane",
+        "Carlo Ancelotti"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carlo Ancelotti a remporté 5 fois la coupe (avec l'AC Milan en 2003 et 2007 puis avec le Real Madrid en 2014, 2022 et 2024)",
+      "category": "Sport"
+    },
+    {
+      "id": 52,
+      "date": "2026-02-21",
+      "question": "Quelle styliste est connue pour ses créations écologiques et sans cuir ?",
+      "choices": [
+        "Carolina Herrera",
+        "Isabel Marant",
+        "Stella McCartney",
+        "Victoria Beckham"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stella McCartney est la pionnière de la mode eco-friendly en lançant sa maison éponyme en 2001 et en refusant d'utiliser cuir, fourrure, plumes ou aucun autre tissu animal.",
+      "category": "Mode"
+    },
+    {
+      "id": 53,
+      "date": "2026-02-22",
+      "question": "De quelle marque française une calèche est-elle le logo ?",
+      "choices": [
+        "Dior",
+        "Hermes",
+        "Chanel",
+        "Longchamp"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hermès a choisi le logo du cheval et de la calèche pour se représenter comme l'une des marques les plus luxueuses au monde.",
+      "category": "Mode"
+    },
+    {
+      "id": 54,
+      "date": "2026-02-23",
+      "question": "Quel match de la Ligue des champions, surnommé la remontada, a marqué l’histoire du football ?",
+      "choices": [
+        "Liverpool-FC Barcelone",
+        "PSG-Manchester United",
+        "FC Barcelone–PSG",
+        "Real Madrid–PSG"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le 8 mars 2017, le FC Barcelone, battu 4-0 par le Paris Saint-Germain lors du match aller, sort vainqueur de ces huitièmes de finale en battant le Paris Saint-Germain 6-1.",
+      "category": "Sport"
+    },
+    {
+      "id": 55,
+      "date": "2026-02-24",
+      "question": "Qu'est ce que le steeple ?",
+      "choices": [
+        "Un art martial",
+        "Un sport équestre",
+        "Une course d'obstacles",
+        "Un sport nautique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le steeple est une course sur piste durant laquelle les athlètes franchissent de larges barrières fixes et des fosses remplies d'eau (« rivières »).",
+      "category": "Sport"
+    },
+    {
+      "id": 56,
+      "date": "2026-02-25",
+      "question": "Quel club a réussi l'exploit de remporter tous ses matchs lors d'une édition de la Ligue des champions ?",
+      "choices": [
+        "Milan AC",
+        "Real Madrid",
+        "FC Barcelone",
+        "Bayern Munich"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le Bayern Munich est le seul club de l’histoire à avoir remporté la Ligue des champions en gagnant tous ses matchs lors de la saison 2019-2020.",
+      "category": "Sport"
+    },
+    {
+      "id": 57,
+      "date": "2026-02-26",
+      "question": "En 1967, Muhammad Ali est déchu de son titre de champion du monde de boxe parce qu’il…",
+      "choices": [
+        "refuse de combattre au Vietnam",
+        "est gravement blessé",
+        "milite en faveur de la cause noire",
+        "a critiqué la fédération de boxe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il refuse de combattre au Vietnam.",
+      "category": "Sport"
+    },
+    {
+      "id": 58,
+      "date": "2026-02-27",
+      "question": "Parmi ces métaux, quel fut le premier a être utilisé ?",
+      "choices": [
+        "Cuivre",
+        "Bronze",
+        "Fer",
+        "Or"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le cuivre fut probablement le premier métal extrait et travaillé par l'homme.",
+      "category": "Histoire"
+    },
+    {
+      "id": 59,
+      "date": "2026-02-28",
+      "question": "Quel club a le plus remporté la Ligue des champions ?",
+      "choices": [
+        "Milan AC",
+        "Real Madrid",
+        "FC Barcelone",
+        "Bayern Munich"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Real Madrid domine le palmarès de la compétition avec 15 titres. Le club espagnol est également celui qui a disputé le plus de finales (18)",
+      "category": "Sport"
+    },
+    {
+      "id": 60,
+      "date": "2026-03-01",
+      "question": "Lequel de ces pays n'est pas un état fédéral ?",
+      "choices": [
+        "Allemagne",
+        "Nouvelle-Zélande",
+        "Brésil",
+        "Canada"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Nouvelle-Zélande est un état unitaire.",
+      "category": "Géo"
+    },
+    {
+      "id": 61,
+      "date": "2026-03-02",
+      "question": "Comment s'appelait la place publique chez les Athéniens ?",
+      "choices": [
+        "L'acropole",
+        "Le forum",
+        "Le temple",
+        "L'agora"
+      ],
+      "correctIndex": 3,
+      "explanation": "​L'Agora d'Athènes est le lieu de rencontre et de discussion des citoyens de la cité.",
+      "category": "Histoire"
+    },
+    {
+      "id": 62,
+      "date": "2026-03-03",
       "question": "Quel sportif français possède le record de titres olympiques ?",
       "choices": [
         "Teddy Riner",
@@ -225,9 +869,9 @@
       "category": "Sport"
     },
     {
-      "id": 17,
-      "date": "2026-02-08",
-      "question": "Dev - Dans quel sport nautique, Tony Estanguet a-t-il remporté 3 titres olympiques ?",
+      "id": 63,
+      "date": "2026-03-04",
+      "question": "Dans quel sport nautique, Tony Estanguet a-t-il remporté 3 titres olympiques ?",
       "choices": [
         "Aviron",
         "Canoë-kayak",
@@ -237,6 +881,20 @@
       "correctIndex": 1,
       "explanation": "Tony Estanguet est devenu une légende olympique en remportant trois médailles d'or consécutives aux Jeux de Sydney, Athènes et Londres. Après sa carrière sportive, il s'est investi dans l'organisation des Jeux de Paris 2024.",
       "category": "Sport"
+    },
+    {
+      "id": 64,
+      "date": "2026-03-05",
+      "question": "Quel est le siècle des Lumières ?",
+      "choices": [
+        "Xe siècle",
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le mouvement des Lumières tire son nom de la volonté des philosophes européens du XVIIIe siècle de combattre les ténèbres de l'ignorance par la diffusion du savoir. ",
+      "category": "Histoire"
     }
   ]
 }
