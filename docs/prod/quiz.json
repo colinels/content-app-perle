@@ -218,7 +218,7 @@
         "New York, Londres, Milan et Paris",
         "New York, Paris, Rome et Londres",
         "Paris, Londres, Los Angeles et Milan",
-        NaN
+        "Paris, Rome, Madrid et Londres"
       ],
       "correctIndex": 0,
       "explanation": "Les quatre grandes villes sont dans l'ordre New York, Londres, Milan et Paris",
