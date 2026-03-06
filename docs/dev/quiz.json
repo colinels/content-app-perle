@@ -895,6 +895,34 @@
       "correctIndex": 3,
       "explanation": "Le mouvement des Lumières tire son nom de la volonté des philosophes européens du XVIIIe siècle de combattre les ténèbres de l'ignorance par la diffusion du savoir. ",
       "category": "Histoire"
+    },
+    {
+      "id": 65,
+      "date": "2026-03-06",
+      "question": "Quels pays se partagent le lac Léman ?",
+      "choices": [
+        "L'Italie et la France",
+        "La Suisse et l'Italie",
+        "La Suisse et la France",
+        "La Suisse, la France et l'Italie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le lac Léman est un lac 580 km² situé entre la France et la Suisse et dominé par les Alpes. Côté Suisse, on retouve la célèbre ville de Genève et du côté français, se trouve la ville thermale et station balnéaire d'Évian-les-Bains.",
+      "category": "Géo"
+    },
+    {
+      "id": 66,
+      "date": "2026-03-07",
+      "question": "Quel est le nom du personnage principal du film Gladiator réalisé par Ridley Scott ?",
+      "choices": [
+        "Marc-Aurèle",
+        "Commode",
+        "Proximo",
+        "Maximus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Maximus Decimus Meridius est le personnage principal de Gladiator.",
+      "category": "Cinéma"
     }
   ]
 }
