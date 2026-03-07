@@ -925,8 +925,36 @@
       "category": "Cinéma"
     },
     {
-      "id": 66,
+      "id": 67,
       "date": "2026-03-08",
+      "question": "Que célèbre t-on le 8 mars ?",
+      "choices": [
+        "La fête des femmes",
+        "La journée internationale des droits des femmes",
+        "L'anniversaire de la loi Veil",
+        "La fête des mères"
+      ],
+      "correctIndex": 1,
+      "explanation": "Depuis 1982, la France reconnaît officiellement le 8 mars comme Journée internationale des droits des femmes. Lors du 8 mars, on ne célèbre pas les femmes : on combat les inégalités. Le 8 mars n’est pas une fête commerciale, ni l’équivalent d’une fête des mères. C’est une journée politique, née de luttes sociales, qui vise à : dénoncer les discriminations et violences faites aux femmes, rendre visibles les inégalités persistantes, exiger des avancées concrètes, rappeler que l’égalité n’est toujours pas réalisée. Transformer le 8 mars en « fête des femmes » reviendrait à enlever la journée de son sens et à invisibiliser les combats.",
+      "category": "Les droits des femmes"
+    },
+    {
+      "id": 68,
+      "date": "2026-03-09",
+      "question": "Quel pays a pour capitale Bamako ?",
+      "choices": [
+        "Mali",
+        "Sénégal",
+        "Cameroun",
+        "Côte d'Ivoire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bamako est la plus grande ville du Mali et sa capitale depuis 1960.",
+      "category": "Géo"
+    },
+    {
+      "id": 69,
+      "date": "2026-03-10",
       "question": "Quelle dynastie a fait bâtir la partie la plus visible et la plus connue de la Grande Muraille de Chine ?",
       "choices": [
         "Dynastie Xin",
@@ -939,18 +967,900 @@
       "category": "Histoire"
     },
     {
-      "id": 67,
-      "date": "2026-03-09",
-      "question": "Quel pays a pour capitale Bamako ?",
+      "id": 70,
+      "date": "2026-03-11",
+      "question": "Quel acteur a joué le plus de fois le rôle du célèbre 007 (James Bond) ?",
       "choices": [
-        "Mali",
-        "Sénégal",
-        "Cameroun",
-        "Côte d'Ivoire"
+        "Daniel Craig",
+        "Pierce Brosnan",
+        "Roger Moore",
+        "Sean Connery"
+      ],
+      "correctIndex": 2,
+      "explanation": "Roger Moore a joué James Bond 7 fois, Sean Connery 6 fois, Daniel Craig 5 et Pierce Brosnan 4.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 71,
+      "date": "2026-03-12",
+      "question": "Depuis quand les femmes peuvent-elles gérer leurs biens propres et exercer une activité professionnelle sans le consentement de leur mari ?",
+      "choices": [
+        "8 juillet 1936",
+        "12 juin 1944",
+        "15 mai 1956",
+        "13 juillet 1965"
       ],
       "correctIndex": 3,
-      "explanation": "Bamako est la plus grande ville du Mali et sa capitale depuis 1960.",
+      "explanation": "La loi du 13 juillet 1965 portant réforme des régimes matrimoniaux accorde aux femmes le droit d’ouvrir un compte en banque et d’exercer une profession sans le consentement de leur mari. Il faut attendre 1985 pour que l’égalité des époux dans la gestion des biens de la famille et des enfants soit reconnue.",
+      "category": "Les droits des femmes"
+    },
+    {
+      "id": 72,
+      "date": "2026-03-13",
+      "question": "En France, qui remplace le président de la République en cas de décès, de démission ou de destitution ?",
+      "choices": [
+        "Le président de l'Assemblée Nationale",
+        "Le président du Sénat",
+        "Le Premier Ministre",
+        "Le ministre de l'Intérieur"
+      ],
+      "correctIndex": 1,
+      "explanation": "C'est le président du Sénat qui est chargé de l'intérim.",
+      "category": "Culture G"
+    },
+    {
+      "id": 73,
+      "date": "2026-03-14",
+      "question": "Qui a créé le personnage de Frankenstein en 1818 ?",
+      "choices": [
+        "Oscar Wilde",
+        "Jane Austen",
+        "Mary Shelley",
+        "Georges Orwell"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mary Shelley n'avait que 19 ans quand elle a écrit ce chef-d’œuvre de la littérature : «Frankenstein ou le Prométhée moderne». Il est considéré comme le premier roman de science-fiction au monde.",
+      "category": "Littérature"
+    },
+    {
+      "id": 74,
+      "date": "2026-03-15",
+      "question": "Quel est le fruit du hêtre ?",
+      "choices": [
+        "La faine",
+        "La caroube",
+        "Le disamare",
+        "Le gland"
+      ],
+      "correctIndex": 0,
+      "explanation": "Peu connue, la faine est le fruit du hêtre. Elle a un petit goût de noisette.",
+      "category": "Nature"
+    },
+    {
+      "id": 75,
+      "date": "2026-03-16",
+      "question": "Quelle forme d’art peut-on voir dans une pinacothèque ?",
+      "choices": [
+        "Des statues",
+        "Des mosaïques",
+        "Des tableaux",
+        "Des fresques"
+      ],
+      "correctIndex": 2,
+      "explanation": "La racine de ce terme vient du latin pinacotheca, qui veut dire « salle qui contient une collection de tableaux ».",
+      "category": "Art"
+    },
+    {
+      "id": 76,
+      "date": "2026-03-17",
+      "question": "Quel pilote a remporté le plus de championnat du monde de Formule 1 à partir de l'année 2000 ?",
+      "choices": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Michael Schumacher",
+        "Fernando Alonso"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lewis Hamilton a remporté 7 fois le titre, Michael Schumacher 5 fois (même si au total 7 fois également), Max Verstappen 4 fois et Alonso 2 fois.",
+      "category": "Sport"
+    },
+    {
+      "id": 77,
+      "date": "2026-03-18",
+      "question": "Quelle est la bonne orthographe ?",
+      "choices": [
+        "Obnubiler",
+        "Obnibuler",
+        "Omnubiler",
+        "Omnibuler"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pas facile ! Obnubiler signifie être obsédé par quelque chose.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 78,
+      "date": "2026-03-19",
+      "question": "Quelle ville actuelle se faisait appeler Byzance ?",
+      "choices": [
+        "Rome",
+        "Athènes",
+        "Istanbul",
+        "Bagdad"
+      ],
+      "correctIndex": 2,
+      "explanation": "La cité grecque de Byzance a été créée vers 667 avant notre ère, au carrefour de l'Europe et de l'Asie. Cette ville a ensuite porté le nom de Constantinople. Elle a été à la tête de l'Empire byzantin, puis de l'Empire ottoman, avant d'être nommée Istanbul en 1930.",
+      "category": "Histoire"
+    },
+    {
+      "id": 79,
+      "date": "2026-03-20",
+      "question": "Dans quel pays d'Europe se trouve la Principauté des Asturies ?",
+      "choices": [
+        "Italie",
+        "Espagne",
+        "Grèce",
+        "Autriche"
+      ],
+      "correctIndex": 2,
+      "explanation": "La principauté des Asturies est une communauté autonome d’Espagne depuis 1982. Elle est située au nord-ouest de l'Espagne et elle est connue pour sa côte accidentée, ses montagnes et son architecture médiévale.",
       "category": "Géo"
+    },
+    {
+      "id": 80,
+      "date": "2026-03-21",
+      "question": "Quel est le nom du mélange de 7 épices originaire du Liban ?",
+      "choices": [
+        "Le zaatar",
+        "Le dukkah ",
+        "Le colombo",
+        "Le ras el hanout"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le Zaatar, désormais connu de tous grâce à Loulou Kitchen, est un mélange libanais. Les ingrédients principaux sont le thym, le sumac et les graines de sésame grillées, mais il peut également contenir d'autres herbes telles que l'origan, la marjolaine et la sarriette.",
+      "category": "Cuisine"
+    },
+    {
+      "id": 81,
+      "date": "2026-03-22",
+      "question": "A partir de quelle température, l’or commence-t-il à fondre ?",
+      "choices": [
+        "564° C",
+        "1064° C",
+        "1564° C",
+        "2064° C"
+      ],
+      "correctIndex": 1,
+      "explanation": "le point de fusion de l'or pur se situe à 1064 degrés Celsius.",
+      "category": "Sciences"
+    },
+    {
+      "id": 82,
+      "date": "2026-03-23",
+      "question": "Quel pays a pour capitale Kinshasa ?",
+      "choices": [
+        "République démocratique du Congo",
+        "Gabon",
+        "Togo",
+        "Nigeria"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kinshasa est la capitale et la plus grande ville de la république démocratique du Congo et l'une des plus peuplées d'Afrique. À ne pas confondre avec la République du Congo dont la capitale est Brazzaville.",
+      "category": "Geo"
+    },
+    {
+      "id": 83,
+      "date": "2026-03-24",
+      "question": "D'où est originaire le chanteur Bad Bunny ?",
+      "choices": [
+        "Puerto Rico",
+        "Jamaique",
+        "Bahamas",
+        "Cuba"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le rappeur, de son vrai nom Benito Antonio Martínez Ocasio, est originaire de Puerto Rico (ou Porto Rico), un territoire non incorporé des États-Unis.",
+      "category": "Musique"
+    },
+    {
+      "id": 84,
+      "date": "2026-03-25",
+      "question": "Au théâtre, qu’est-ce qu’une didascalie ?",
+      "choices": [
+        "Une indication textuelle donnée par l’auteur de la pièce sur la mise en scène",
+        "L’endroit où se déroule une action qui est en dehors du champ visuel du public",
+        "Une conversation qu’un personnage a à haute voix avec lui-même",
+        "Un long monologue"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une didascalie au théâtre est une indication de l'auteur sur la façon dont le texte doit être joué. Elle peut porter sur les déplacements des comédiens, les émotions, la mise en scène ou encore les décors.",
+      "category": "Théatre"
+    },
+    {
+      "id": 85,
+      "date": "2026-03-26",
+      "question": "Quel réalisateur français a réalisé Les Poupées Russes et l'Auberge Espagnole ?",
+      "choices": [
+        "Cédric Klapisch",
+        "François Ozon",
+        "Jacques Audiard",
+        "Jean-Pierre Jeunet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les Poupées Russes et l'Auberge Espagnole ont été réalisés par Cédric Klapisch.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 86,
+      "date": "2026-03-27",
+      "question": "Quel ministère est couramment appelé «La place Beauvau» ?",
+      "choices": [
+        "Ministère de la Justice",
+        "Ministère de la Santé",
+        "Ministère de l'Éducation",
+        "Ministère de l'Intérieur"
+      ],
+      "correctIndex": 3,
+      "explanation": "Par métonymie, la Place Beauvau désigne le Ministère de l’Intérieur, qui est installé à l'hôtel de Beauvau.",
+      "category": "Culture G"
+    },
+    {
+      "id": 87,
+      "date": "2026-03-28",
+      "question": "Quel est l'intrus ?",
+      "choices": [
+        "La Reine Margot",
+        "Les Trois Mousquetaires",
+        "Le Comte de Monte-Cristo",
+        "La Dame aux camélias"
+      ],
+      "correctIndex": 3,
+      "explanation": "La Reine Margot, Les Trois Mousquetaires et Le Comte de Monte-Cristo ont été écrits par Alexandre Dumas (Père) alors que La Dame aux camélias a été écrit par Alexandre Dumas fils. Le moins qu'on puisse dire, c'est qu'il y avait du talent dans la famille.",
+      "category": "Littérature"
+    },
+    {
+      "id": 88,
+      "date": "2026-03-29",
+      "question": "Quel est le temps record féminin pour courir les 42 km d’un marathon ?",
+      "choices": [
+        "2 heures 1 minute et 9 secondes",
+        "2 heures 9 minutes et 56 secondes",
+        "2 heures 17 minutes et 38 secondes",
+        "2 heures 29 minutes et 5 secondes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le 13 octobre 2024, dans les rues de Chicago, Ruth Chepngetich 30 ans à l'époque explosait le record du monde du marathon en 2h09'56.",
+      "category": "Sport"
+    },
+    {
+      "id": 89,
+      "date": "2026-03-30",
+      "question": "Quelle est la seule proposition bien orthographiée ?",
+      "choices": [
+        "Des cravates rouges et blanches",
+        "Des cravates rouges et blancs",
+        "Des cravates rouge et blanche",
+        "Des cravates rouge et blanc"
+      ],
+      "correctIndex": 3,
+      "explanation": "La règle de grammaire française veut que quand un objet possède plusieurs couleurs, elles ne sont pas accordées. On dirait : «Les cravates blanches» quand il n'y a qu'une couleur et «Les cravates rouge et blanc» sans accorder lorsqu'il y a deux couleurs.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 90,
+      "date": "2026-03-31",
+      "question": "Combien de temps dura la guerre de Sécession ?",
+      "choices": [
+        "90 jours",
+        "2 ans",
+        "4 ans",
+        "12 ans"
+      ],
+      "correctIndex": 2,
+      "explanation": "La guerre de Sécession est une guerre civile opposant le gouvernement fédéral des États-Unis d'Amérique, dirigés par le président des États-Unis Abraham Lincoln, et les États du Sud confédérés d'Amérique, qui eux étaient esclavagistes.",
+      "category": "Histoire"
+    },
+    {
+      "id": 91,
+      "date": "2026-04-01",
+      "question": "Quels pays se partagent le lac Léman ?",
+      "choices": [
+        "L'Italie et la France",
+        "La Suisse et l'Italie",
+        "La Suisse et la France",
+        "La Suisse, la France et l'Italie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le lac Léman est un lac 580 km² situé entre la France et la Suisse et dominé par les Alpes. Côté Suisse, on retouve la célèbre ville de Genève et du côté français, se trouve la ville thermale et station balnéaire d'Évian-les-Bains.",
+      "category": "Géo"
+    },
+    {
+      "id": 92,
+      "date": "2026-04-02",
+      "question": "Quelle est la formule pour calculer le périmètre d’un cercle ?",
+      "choices": [
+        "2 x π x Rayon",
+        "(Diamètre / 2) x π",
+        "π",
+        "2 x sin(π) x Diamètre"
+      ],
+      "correctIndex": 0,
+      "explanation": "La formule est : 2 x π x Rayon.",
+      "category": "Sciences"
+    },
+    {
+      "id": 93,
+      "date": "2026-04-03",
+      "question": "Combien de pays appartiennent à l'Union Africaine ?",
+      "choices": [
+        "48 pays",
+        "50 pays",
+        "54 pays",
+        "55 pays"
+      ],
+      "correctIndex": 3,
+      "explanation": "L'UA est composé de 55 États membre. Ses 55 membres sont donc l’intégralité des 54 États africains dont quatre insulaires (Cap-Vert, Comores, Madagascar, Maurice) auxquels s’ajoute la République arabe sahraouie, non reconnue par la communauté internationale.",
+      "category": "Geo"
+    },
+    {
+      "id": 94,
+      "date": "2026-04-04",
+      "question": "De quel groupe de rock Chris Martin est-il le chanteur ?",
+      "choices": [
+        "Radiohead",
+        "U2",
+        "Muse",
+        "Coldplay"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chris Martin est le leader du groupe Coldplay depuis leur premier album en 2000.",
+      "category": "Musique"
+    },
+    {
+      "id": 95,
+      "date": "2026-04-05",
+      "question": "Quel navire a une malédiction selon le premier volet de la saga Pirates des Caraïbes ?",
+      "choices": [
+        "Le Royal Fortune",
+        "Le Hollandais Volant",
+        "L'Adventure Galley",
+        "Le Black Pearl"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le premier fil s'intitude «Pirates des Caraïbes : La Malédiction du Black Pearl».",
+      "category": "Cinéma"
+    },
+    {
+      "id": 96,
+      "date": "2026-04-06",
+      "question": "En Asie, quel astre est célébré durant la fête de la mi-automne ?",
+      "choices": [
+        "Mars",
+        "La Lune",
+        "Vénus",
+        "Le Soleil"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fête de la mi-automne ou fête de la Lune célèbre la Lune quand elle la plus brillante. C'est aussi le moment où les familles se retrouvent autour d’un festin.",
+      "category": "Culture G"
+    },
+    {
+      "id": 97,
+      "date": "2026-04-07",
+      "question": "Quelle femme Napoléon Iᵉʳ épouse-t-il le 9 mars 1796 ?",
+      "choices": [
+        "Joséphine de Beauharnais",
+        "Hortense de Beauharnais",
+        "Marie-Louise d'Autriche",
+        "Eugénie de Montijo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marie Josèphe Rose Tascher de La Pagerie, dite Joséphine de Beauharnais, est la première épouse de l’empereur Napoléon Iᵉʳ de 1796 à 1809. Il épousera ensuite Marie-Louise d'Autriche.",
+      "category": "Histoire"
+    },
+    {
+      "id": 98,
+      "date": "2026-04-08",
+      "question": "Dans quel département se trouve la ville de Vannes ?",
+      "choices": [
+        "Le Finistere",
+        "Le Morbihan",
+        "L'Ile et Vilaine",
+        "Les Côtes d'Armor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vannes est une ville fortifiée située en Bretagne et préfecture du Morbihan. Elle est célèbre pour son port, ses remparts et le golfe du Morbihan.",
+      "category": "Géo"
+    },
+    {
+      "id": 99,
+      "date": "2026-04-09",
+      "question": "Quelle est la ville la plus basse du monde par rapport au niveau de la mer ?",
+      "choices": [
+        "Bakou",
+        "Mumbai",
+        "Jericho",
+        "Puerto Toro"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jericho, en Cisjordanie, est située à -270 mètres sous le niveau de la mer.",
+      "category": "Geo"
+    },
+    {
+      "id": 100,
+      "date": "2026-04-10",
+      "question": "Lequel de ces films a remporté la Palme d’Or au festival de Cannes ?",
+      "choices": [
+        "Pulp Fiction",
+        "Mommy",
+        "Interstellar",
+        "Il faut sauver le soldat Ryan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quentin Tarantino décroche la Palme d’or pour son deuxième Pulp Fiction, sous les huées des spectateurs.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 101,
+      "date": "2026-04-11",
+      "question": "Quelle quantité d’air une personne adulte consomme en moyenne chaque jour ?",
+      "choices": [
+        "5 000 litres",
+        "8 000 litres",
+        "12 000 litres",
+        "20 000 litres"
+      ],
+      "correctIndex": 2,
+      "explanation": "En moyenne, un adulte respire 12 000 litres d'air chaque jour.",
+      "category": "Culture G"
+    },
+    {
+      "id": 102,
+      "date": "2026-04-12",
+      "question": "Sur combien d’années s’étend le Moyen Âge occidental ?",
+      "choices": [
+        "400 ans",
+        "800 ans",
+        "1000 ans",
+        "1200 ans"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le Moyen Âge occidental est l'époque de l'histoire située après l'Antiquité, soit entre 476 (fin de l'Empire romain d'Occident) et 1492 (« re-découverte » des Amériques).",
+      "category": "Histoire"
+    },
+    {
+      "id": 103,
+      "date": "2026-04-13",
+      "question": "Où a été observée la plus grosse vague du monde ?",
+      "choices": [
+        "À Nazaré au Portugal",
+        "À Teahupo’o à Tahiti",
+        "À Bidart au Pays-Basque",
+        "À Jaws à Hawaï"
+      ],
+      "correctIndex": 0,
+      "explanation": "En décembre 2014, la vague de Nazaré a atteint 33 mètres soit la hauteur d’un immeuble de 10 étages. La Praia do Norte de Nazaré est connue pour ses vagues adorées des surfeurs.",
+      "category": "Géo"
+    },
+    {
+      "id": 104,
+      "date": "2026-04-14",
+      "question": "Quelles sont les 2 langues officielles de la Finlande ?",
+      "choices": [
+        "Le finnois et l’anglais",
+        "Le finnois et le norvégien",
+        "Le finnois et le suédois",
+        "Le finnois et le russe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le finnois et le suédois sont les deux langues officielles.",
+      "category": "Geo"
+    },
+    {
+      "id": 105,
+      "date": "2026-04-15",
+      "question": "Dans quel film peut-on entendre : «Où sont les poulardes ? J'ai faim !» ?",
+      "choices": [
+        "Les tontons flingueurs",
+        "Les visiteurs",
+        "La folie des grandeurs",
+        "Le clan des siciliens"
+      ],
+      "correctIndex": 1,
+      "explanation": "C’est une réplique culte des Visiteurs : «Où sont les poulardes ? J'ai faim ! Où sont les veaux, les rôtis, les saucisses ? Où sont les fèves, les pâtés de cerf ?»",
+      "category": "Cinéma"
+    },
+    {
+      "id": 106,
+      "date": "2026-04-16",
+      "question": "Quel est le premier Empereur romain ?",
+      "choices": [
+        "Jules César",
+        "Auguste",
+        "Neron",
+        "Hadrien"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ce n'est pas Jules César mais bien l'empereur Auguste (né environ en 63 av. J.-C. et mort en 14 ap. J.-C) qui est véritablement le premier empereur romain.",
+      "category": "Culture G"
+    },
+    {
+      "id": 107,
+      "date": "2026-04-17",
+      "question": "Quelle capitale européenne a été anéantie par un terrible séisme en 1755 ?",
+      "choices": [
+        "Madrid",
+        "Lisbonne",
+        "Athènes",
+        "Rome"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le séisme de Lisbonne, survenu le 1er novembre 1755 , est une catastrophe qui fit entre 50 000 et 70 000 morts parmi les 275 000 habitants de Lisbonne.",
+      "category": "Histoire"
+    },
+    {
+      "id": 108,
+      "date": "2026-04-18",
+      "question": "Dans quel département se trouve la ville de Schœlcher ?",
+      "choices": [
+        "La Haute-Vienne",
+        "La Martinique",
+        "L'Alsace",
+        "La Lorraine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Schœlcher est une commune française, située dans le département de la Martinique. Elle est nommée en hommage à Victor Schœlcher (1804-1893), initiateur de l'abolition définitive de l'esclavage en France et dans ses colonies. ",
+      "category": "Géo"
+    },
+    {
+      "id": 109,
+      "date": "2026-04-19",
+      "question": "Quelle est la superficie du continent africain ?",
+      "choices": [
+        "10 millions km²",
+        "20 millions km²",
+        "30 millions km²",
+        "40 millions km²"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'Afrique est un continent qui couvre 6 % de la surface de la Terre et 20 % de la surface des terres émergées. Sa superficie est exactement de 30 415 873 km2 avec les îles, ce qui en fait la troisième mondiale si l'on compte l'Amérique comme un seul continent.",
+      "category": "Geo"
+    },
+    {
+      "id": 110,
+      "date": "2026-04-20",
+      "question": "Quelle actrice était préssentie pour jouer Diamants sur Canapé avant Audrey Hepburn ?",
+      "choices": [
+        "Katharine Hepburn",
+        "Ava Gardner",
+        "Sharon Tate",
+        "Marilyn Monroe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Diamants sur canapé signera le début de la grande carrière d'Audrey Hepburn mais c'est à Marilyn Monroe que pensait Truman Capote quand il a écrit sa nouvelle. C'est donc Marilyn qui était d'abord préssentie pour le rôle, qu'elle a décliné.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 111,
+      "date": "2026-04-21",
+      "question": "Dans le film d’animation japonais «Le voyage de Chihiro» de 2001, en quels animaux la sorcière Yubaba transforme-t-elle les parents de Chihiro ?",
+      "choices": [
+        "Serpents",
+        "Vaches",
+        "Cafards",
+        "Cochons"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dans «Le voyage de Chihiro», les parents de Chihiro se transforment en cochons après avoir goûté aux mets raffinés d’un restaurant vide sans y avoir été invités.",
+      "category": "Culture G"
+    },
+    {
+      "id": 112,
+      "date": "2026-04-22",
+      "question": "De quelle dynastie Charlemagne fait-il partie ?",
+      "choices": [
+        "Les Mérovingiens",
+        "Les Capétiens",
+        "Les Bourbons",
+        "Les Carolingiens"
+      ],
+      "correctIndex": 3,
+      "explanation": "Il appartient à la dynastie des Carolingiens. Dans l'ordre : Mérovingiens, Carolingiens, Capétiens, Valois.",
+      "category": "Histoire"
+    },
+    {
+      "id": 113,
+      "date": "2026-04-23",
+      "question": "Sur combien de ces continents trouve-t-on des territoires français ?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "En plus de l'Europe, on retrouve des territoires français en Amérique, Océanie, Afrique et Antarctique (Terre Adélie).",
+      "category": "Géo"
+    },
+    {
+      "id": 114,
+      "date": "2026-04-24",
+      "question": "Combien d'entrées a réalisé le film «Astérix et Obélix : Mission Cléopâtre» en France ?",
+      "choices": [
+        "5,5 millions",
+        "8,5 millions",
+        "12,5 millions",
+        "14,5 millions"
+      ],
+      "correctIndex": 3,
+      "explanation": "En 2002, Astérix et Obélix : Mission Cléopâtre a explosé les compteurs avec plus de 14,5 millions d'entrées. À ce jour, il occupe la huitième place dans le box office français (et quatrième place pour un film français).",
+      "category": "Cinéma"
+    },
+    {
+      "id": 115,
+      "date": "2026-04-25",
+      "question": "Quel est le prénom du premier enfant de Kate et William, futur Roi d'Angleterre ?",
+      "choices": [
+        "Alfred",
+        "Georges",
+        "Louis",
+        "Archie"
+      ],
+      "correctIndex": 1,
+      "explanation": "George Alexander Louis, né en 2013, est la premier enfant du couple et est 2ème dans l'ordre de succession au trône.",
+      "category": "Culture G"
+    },
+    {
+      "id": 116,
+      "date": "2026-04-26",
+      "question": "Qui a été la seconde épouse du roi Louis XIV ?",
+      "choices": [
+        "Marie-Thérèse d'Autriche",
+        "Madame de Maintenon",
+        "Madame de Montespan",
+        "Madame du Barry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Louis XIV a été marié 2 fois, d'abord avec la reine Marie-Thérèse puis avec Madame de Maintenon (de son vrai nom Françoise d'Aubigné).",
+      "category": "Histoire"
+    },
+    {
+      "id": 117,
+      "date": "2026-04-27",
+      "question": "Quel tropique traverse le golfe du Mexique et le Mali ?",
+      "choices": [
+        "Tropique du Bélier",
+        "Tropique du Capricorne",
+        "Tropique du Scorpion",
+        "Tropique du Cancer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Les tropiques sont des cercles imaginaires, parallèles à l'équateur. Celui de l'hémisphère Nord s'appelle le tropique du Cancer et celui de l'hémisphère Sud, le tropique du Capricorne.",
+      "category": "Géo"
+    },
+    {
+      "id": 118,
+      "date": "2026-04-28",
+      "question": "Quelle réalisatrice a réalisé Anatomie d'une chute, Palme d'Or du Festival de Cannes 2023 ?",
+      "choices": [
+        "Rebecca Zlotowski",
+        "Jeanne Herry",
+        "Justine Triet",
+        "Valérie Donzelli"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les Poupées Russes et l'Auberge Espagnole ont été réalisés par Cédric Klapisch.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 119,
+      "date": "2026-04-29",
+      "question": "Le pic d'Aneto est un point culminant, mais de quelle chaîne de montagne ?",
+      "choices": [
+        "Les Pyrénées",
+        "L'Atlas",
+        "L’Oural",
+        "Les Rocheuses"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le pic d'Aneto est le point culminant de la chaîne des Pyrénées avec une altitude de 3 404 m. Il se situe en Espagne.",
+      "category": "Culture G"
+    },
+    {
+      "id": 120,
+      "date": "2026-04-30",
+      "question": "Quelle est la longueur de la frontière entre la France et l'Espagne ?",
+      "choices": [
+        "223 km",
+        "423 km",
+        "623 km",
+        "823 km"
+      ],
+      "correctIndex": 1,
+      "explanation": "La frontière terrestre franco-espagnole s'étend sur 623 kilomètres, au sud-ouest de la France et au nord-est de l'Espagne.",
+      "category": "Géo"
+    },
+    {
+      "id": 121,
+      "date": "2026-05-01",
+      "question": "Quel est le vrai nom de la Mariée cherchant à se venger dans les films «Kill Bill» de Quentin Tarantino ?",
+      "choices": [
+        "Beatrix Kiddo",
+        "Sofie Fatale",
+        "Elle Driver",
+        "Vernita Green"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans les deux volets, sortis en 2004 et 2005, Uma Thurman incarne Beatrix Kiddo, alias la Mariée et Black Mamba. Son nom n'est révélé que dans le deuxième volet.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 122,
+      "date": "2026-05-02",
+      "question": "Quelle ville est surnommée «La ville Ocre» ?",
+      "choices": [
+        "Pékin",
+        "Amman",
+        "Marrakech",
+        "Toulouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "La ville de Marrakech est surnommée « la ville rouge » ou la « ville ocre » en référence à la couleur rouge d'une grande partie de ses immeubles et de ses maisons.",
+      "category": "Culture G"
+    },
+    {
+      "id": 123,
+      "date": "2026-05-03",
+      "question": "Dans quel pays se trouve Ushuaïa ?",
+      "choices": [
+        "Argentine",
+        "Chili",
+        "Paraguay",
+        "Bolivie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ushuaïa est une ville touristique argentine. Elle est située sur l'archipel de la Terre de Feu, la pointe la plus méridionale de l'Amérique du Sud, surnommée le bout du monde.",
+      "category": "Géo"
+    },
+    {
+      "id": 124,
+      "date": "2026-05-04",
+      "question": "Lors du tournage de Titanic, qui était en train de dessiner Kate Winslet ?",
+      "choices": [
+        "Leonardo Di Caprio",
+        "James Cameron",
+        "Billy Zane (qui jouait Cal)",
+        "Kathryn Bigelow (la femme de Cameron)"
+      ],
+      "correctIndex": 1,
+      "explanation": "James Cameron est également un excellent dessinateur. On lui doit les dessins de Rose dans le carnet de croquis de Jack.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 125,
+      "date": "2026-05-05",
+      "question": "Qui a écrit les paroles de La Marseillaise ?",
+      "choices": [
+        "Paul Paray",
+        "Rouget de Lisle",
+        "Hector Berlioz",
+        "Victor Hugo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les six premiers couplets ont été écrits par Rouget de Lisle sous le titre de Chant de guerre pour l'armée du Rhin à Strasbourg en 1792.",
+      "category": "Culture G"
+    },
+    {
+      "id": 126,
+      "date": "2026-05-06",
+      "question": "Quelle actrice ne joue pas dans Huit Femmes de François Ozon ?",
+      "choices": [
+        "Firmine Richard",
+        "Catherine Deneuve",
+        "Isabelle Huppert",
+        "Isabelle Adjani"
+      ],
+      "correctIndex": 3,
+      "explanation": "Casting 5 étoiles pour ce film culte qui réunit de grandes actrices françaises : Catherine Deneuve, Isabelle Huppert, Firmine Richard, Fanny Ardant, Emmanuelle Béart, Virginie Ledoyen, Ludivine Sagnier et Danielle Darrieux.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 127,
+      "date": "2026-05-07",
+      "question": "Qui était opposé à Nicolas Sarkozy au second tour de l'élection présidentielle française de 2007 ?",
+      "choices": [
+        "Lionel Jospin",
+        "François Hollande",
+        "Ségolène Royal",
+        "Emmanuel Macron"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le candidat de l'UMP, Nicolas Sarkozy, l'emporte au second tour avec 53,06 % des suffrages exprimés, contre 46,94 % pour Ségolène Royal, candidate du Parti socialiste. Il succède ainsi à Jacques Chirac.",
+      "category": "Culture G"
+    },
+    {
+      "id": 128,
+      "date": "2026-05-08",
+      "question": "Parmi ces fruits et légumes, lequel ne fait pas partie la famille des cucurbitacées ?",
+      "choices": [
+        "Aubergine",
+        "Cornichon",
+        "Concombre",
+        "Pastèque"
+      ],
+      "correctIndex": 0,
+      "explanation": "L’aubergine fait partie de la famille des solanacées au même titre que les tomates et les poivrons. Alors que le cornichon, la pastèque et le concombre sont des cucurbitacées, originaires pour la plupart des régions tropicales et subtropicales. Il existe plus de 800 espèces !",
+      "category": "Culture G"
+    },
+    {
+      "id": 129,
+      "date": "2026-05-09",
+      "question": "Que signifie la dernière lettre du sigle : NASA ?",
+      "choices": [
+        "Administration",
+        "Aeronautics",
+        "American",
+        "Authority"
+      ],
+      "correctIndex": 0,
+      "explanation": "La signification est National Aeronautics and Space Administration.",
+      "category": "Culture G"
+    },
+    {
+      "id": 130,
+      "date": "2026-05-10",
+      "question": "Quel ministère est couramment appelé «Le Quai d’Orsay» ?",
+      "choices": [
+        "Ministère de la Justice",
+        "Ministère des Affaires Étrangères",
+        "Ministère de la Culture",
+        "Ministère de l'Économie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Ministère de l'Europe et des Affaires étrangères (MEAE) est souvent surnommé le « Quai d'Orsay » en référence à son emplacement historique.",
+      "category": "Culture G"
+    },
+    {
+      "id": 131,
+      "date": "2026-05-11",
+      "question": "La première pizzeria française a ouvert à Paris en :",
+      "choices": [
+        "1936",
+        "1945",
+        "1950",
+        "1952"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bartolo Memola a ouvert la première pizzéria à Paris en 1950.",
+      "category": "Culture G"
+    },
+    {
+      "id": 132,
+      "date": "2026-05-12",
+      "question": "Pourquoi Mstislav Rostropovitch est-il connu ?",
+      "choices": [
+        "Il a joué du violoncelle au pied du mur de Berlin lors de sa chute en 1989",
+        "Né en URRS, il a demandé la nationalité américaine durant la Guerre Froide",
+        "Il est le premier musicien à se produire seul dans le théâtre Bolchoï",
+        "Il a joué du violoncelle dans l'espace"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le récital du violoncelliste et chef d'orchestre Mstislav Rostropovitch au pied du mur de Berlin est l'un des symboles du moment historique en 1989.",
+      "category": "Culture G"
+    },
+    {
+      "id": 133,
+      "date": "2026-05-13",
+      "question": "Dans Titanic, qu'apprend Jack à Rose ?",
+      "choices": [
+        "À cracher comme un homme",
+        "À danser",
+        "À fumer",
+        "À dessiner"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jack apprend bien evidemment à cracher comme un homme.",
+      "category": "Culture G"
     }
   ]
 }
