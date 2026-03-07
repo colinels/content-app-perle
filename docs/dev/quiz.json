@@ -923,6 +923,34 @@
       "correctIndex": 3,
       "explanation": "Maximus Decimus Meridius est le personnage principal de Gladiator.",
       "category": "Cinéma"
+    },
+    {
+      "id": 66,
+      "date": "2026-03-08",
+      "question": "Quelle dynastie a fait bâtir la partie la plus visible et la plus connue de la Grande Muraille de Chine ?",
+      "choices": [
+        "Dynastie Xin",
+        "Dynastie Tang",
+        "Dynastie Qin",
+        "Dynastie Ming"
+      ],
+      "correctIndex": 3,
+      "explanation": "La Grande Muraille Ming construite sous la dynastie Ming (1368-1644), forme aujourd'hui la partie la plus visible et la plus connue de la grande muraille de Chine.",
+      "category": "Histoire"
+    },
+    {
+      "id": 67,
+      "date": "2026-03-09",
+      "question": "Quel pays a pour capitale Bamako ?",
+      "choices": [
+        "Mali",
+        "Sénégal",
+        "Cameroun",
+        "Côte d'Ivoire"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bamako est la plus grande ville du Mali et sa capitale depuis 1960.",
+      "category": "Géo"
     }
   ]
 }
