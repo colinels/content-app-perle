@@ -1006,6 +1006,13 @@
         "Je te veux coco câline, Je te veux, prends-moi",
         "Je te veux coco câline, Je te veux, prends-moi"
       ],
+      "choices": [
+        "Johnny Hallyday",
+        "Julien Doré",
+        "Eddy Mitchell",
+        "Françoise Hardy"
+      ],
+      "correctIndex": 1,
       "date": "2026-03-25"
     },
     {
