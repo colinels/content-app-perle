@@ -1087,6 +1087,13 @@
         "There she stood in the doorway, I heard the mission bell",
         "And I was thinkin' to myself, \"This could be Heaven or this could be Hell\""
       ],
+      "choices": [
+        "Supertramp",
+        "The Who",
+        "Oasis",
+        "Eagles"
+      ],
+      "correctIndex": 3,
       "date": "2026-03-30"
     },
     {
