@@ -2,164 +2,6 @@
   "words": [
     {
       "id": 1,
-      "date": "2026-03-20",
-      "word": "Samsara",
-      "type": "Nom masculin",
-      "definition": [
-        "Dans l'hindouisme et le bouddhisme, cycle de la vie, de la mort et de la renaissance."
-      ],
-      "example": "",
-      "synonyms": null,
-      "antonyms": null,
-      "phonetics": "sam.sa.ʁa"
-    },
-    {
-      "id": 2,
-      "date": "2026-03-21",
-      "word": "Prolixe",
-      "type": "Adjectif",
-      "definition": [
-        "Qui parle ou écrit de manière excessive et détaillée, manquant de concision."
-      ],
-      "example": "Un orateur, discours prolixe.",
-      "synonyms": "bavard, diffus, verbeux",
-      "antonyms": "court, bref, concis",
-      "phonetics": "pʁɔ.liks"
-    },
-    {
-      "id": 3,
-      "date": "2026-03-22",
-      "word": "Gageure",
-      "type": "Nom féminin",
-      "definition": [
-        "Action, projet peu croyables et ressemblant à un pari hasardeux.",
-        "Engagement mutuel entre personnes de remettre une somme ou un objet en cas de perte d'un pari."
-      ],
-      "example": "C'est une gageure de vouloir raisonner cet entêté.",
-      "synonyms": "pari, défi",
-      "antonyms": null,
-      "phonetics": "ɡa.ʒyʁ"
-    },
-    {
-      "id": 4,
-      "date": "2026-03-23",
-      "word": "Adjurer",
-      "type": "Verbe",
-      "definition": [
-        "Littéraire. Prier, supplier quelqu'un de faire quelque chose."
-      ],
-      "example": "Je vous adjure de dire la vérité.",
-      "synonyms": "conjurer, implorer, supplier",
-      "antonyms": null,
-      "phonetics": "ad.ʒy.ʁe"
-    },
-    {
-      "id": 5,
-      "date": "2026-03-24",
-      "word": "Féral",
-      "type": "Adjectif",
-      "definition": [
-        "Se dit d'une espèce domestique retournée à l'état sauvage."
-      ],
-      "example": "Chats férals.",
-      "synonyms": null,
-      "antonyms": null,
-      "phonetics": "fe.ʁal"
-    },
-    {
-      "id": 6,
-      "date": "2026-03-25",
-      "word": "Sédition",
-      "type": "Nom féminin",
-      "definition": [
-        "Révolte concertée contre l'autorité établie."
-      ],
-      "example": "Faire acte de sédition.",
-      "synonyms": "émeute, insurrection, mutinerie, rébellion, révolte",
-      "antonyms": null,
-      "phonetics": "se.di.sjɔ̃"
-    },
-    {
-      "id": 7,
-      "date": "2026-03-26",
-      "word": "Figulin",
-      "type": "Adjectif",
-      "definition": [
-        "Relatif à la fabrication ou à l'art de la poterie."
-      ],
-      "example": "Ces oeuvres figulines étaient sublimes.",
-      "synonyms": null,
-      "antonyms": null,
-      "phonetics": "fi.ɡy.lɛ̃"
-    },
-    {
-      "id": 8,
-      "date": "2026-03-27",
-      "word": "Skeuomorphe",
-      "type": "Adjectif",
-      "definition": [
-        "Se dit d'un objet ou d'une interface qui imite l'apparence d'un autre objet, généralement plus ancien, sans en avoir la fonction matérielle."
-      ],
-      "example": "L'icône de la corbeille sur nos écrans est un parfait exemple skeuomorphe : elle reproduit fidèlement la forme d'une poubelle en plastique que personne n'a jamais eu besoin de vider physiquement.",
-      "synonyms": null,
-      "antonyms": null,
-      "phonetics": "skø.ɔ.mɔʁf"
-    },
-    {
-      "id": 9,
-      "date": "2026-03-28",
-      "word": "Tapabor",
-      "type": "Nom masculin",
-      "definition": [
-        "Bonnet dont on peut rabattre les bords, pour se garantir de la pluie et du vent (également écrit tapabord)."
-      ],
-      "example": "Elle portait un tapabor qui lui cachait les yeux, mais la protégeait de ce vent glacial.",
-      "synonyms": null,
-      "antonyms": null,
-      "phonetics": "ta.pa.bɔʁ"
-    },
-    {
-      "id": 10,
-      "date": "2026-03-29",
-      "word": "Septentrion",
-      "type": "Nom masculin",
-      "definition": [
-        "Le nord ou les régions du Nord."
-      ],
-      "example": "Les armées venues du septentrion ont tout saccagé.",
-      "synonyms": "nord",
-      "antonyms": null,
-      "phonetics": "sɛp.tɑ̃.tʁi.jɔ̃"
-    },
-    {
-      "id": 11,
-      "date": "2026-03-30",
-      "word": "Zézayer",
-      "type": "Verbe",
-      "definition": [
-        "Prononcer z à la place de j ( ze veux pour je veux ) ou s à la place de ch."
-      ],
-      "example": "Cet enfant zézéyant était très mignon.",
-      "synonyms": "avoir un cheveu sur la langue, zozoter",
-      "antonyms": null,
-      "phonetics": "ze.ze.je"
-    },
-    {
-      "id": 12,
-      "date": "2026-03-31",
-      "word": "Factieux",
-      "type": "Adjectif et nom",
-      "definition": [
-        "Qui exerce contre le pouvoir établi une opposition violente tendant à provoquer des troubles.",
-        "Qui témoigne d'un esprit de sédition."
-      ],
-      "example": "Le chef des factieux.",
-      "synonyms": "agitateur, insurgé, rebelle, révolutionnaire, trublion",
-      "antonyms": "fidèle, obéissant, sujet",
-      "phonetics": "fak.sjø"
-    },
-    {
-      "id": 13,
       "date": "2026-04-01",
       "word": "Succédané",
       "type": "Nom masculin",
@@ -172,7 +14,7 @@
       "phonetics": "syk.se.da.ne"
     },
     {
-      "id": 14,
+      "id": 2,
       "date": "2026-04-02",
       "word": "Louvoyer",
       "type": "Verbe",
@@ -186,7 +28,7 @@
       "phonetics": "lu.vwa.je"
     },
     {
-      "id": 15,
+      "id": 3,
       "date": "2026-04-03",
       "word": "Contempteur",
       "type": "Nom masculin",
@@ -199,7 +41,7 @@
       "phonetics": "kɔ̃.tɑ̃p.tœʁ"
     },
     {
-      "id": 16,
+      "id": 4,
       "date": "2026-04-04",
       "word": "Caustique",
       "type": "Adjectif",
@@ -213,7 +55,7 @@
       "phonetics": "kos.tik"
     },
     {
-      "id": 17,
+      "id": 5,
       "date": "2026-04-05",
       "word": "Courroux",
       "type": "Nom masculin",
@@ -227,7 +69,7 @@
       "phonetics": "ku.ʁu"
     },
     {
-      "id": 18,
+      "id": 6,
       "date": "2026-04-06",
       "word": "Kana",
       "type": "Nom masculin invariable",
@@ -240,7 +82,7 @@
       "phonetics": "ka.na"
     },
     {
-      "id": 19,
+      "id": 7,
       "date": "2026-04-07",
       "word": "Harasser",
       "type": "Verbe",
@@ -253,7 +95,7 @@
       "phonetics": "a.ʁa.se"
     },
     {
-      "id": 20,
+      "id": 8,
       "date": "2026-04-08",
       "word": "Opiner",
       "type": "Verbe",
@@ -266,7 +108,7 @@
       "phonetics": "ɔ.pi.ne"
     },
     {
-      "id": 21,
+      "id": 9,
       "date": "2026-04-09",
       "word": "Aquilin",
       "type": "Adjectif",
@@ -280,7 +122,7 @@
       "phonetics": "a.ki.lɛ̃"
     },
     {
-      "id": 22,
+      "id": 10,
       "date": "2026-04-10",
       "word": "Autolyse",
       "type": "Nom féminin",
@@ -294,20 +136,20 @@
       "phonetics": "o.to.liz"
     },
     {
-      "id": 23,
+      "id": 11,
       "date": "2026-04-11",
       "word": "Miscellanées",
       "type": "Nom féminin pluriel",
       "definition": [
         "Recueil varié de textes littéraires ou scientifiques."
       ],
-      "example": "",
+      "example": "Dans ses miscellanées, l'autrice mêle anecdotes historiques et inventées.",
       "synonyms": "recueil, mélanges, variétés",
       "antonyms": null,
       "phonetics": "mi.sɛ.la.ne"
     },
     {
-      "id": 24,
+      "id": 12,
       "date": "2026-04-12",
       "word": "Coruscant",
       "type": "Adjectif",
@@ -320,7 +162,7 @@
       "phonetics": "kɔ.ʁys.kɑ̃"
     },
     {
-      "id": 25,
+      "id": 13,
       "date": "2026-04-13",
       "word": "Kyrielle",
       "type": "Nom féminin",
@@ -333,7 +175,7 @@
       "phonetics": "ki.ʁjɛl"
     },
     {
-      "id": 26,
+      "id": 14,
       "date": "2026-04-14",
       "word": "Prégnant",
       "type": "Adjectif",
@@ -346,7 +188,7 @@
       "phonetics": "pʁɛɡ.nɑ̃"
     },
     {
-      "id": 27,
+      "id": 15,
       "date": "2026-04-15",
       "word": "Insidieux",
       "type": "Adjectif",
@@ -360,7 +202,7 @@
       "phonetics": "ɛ̃.si.djø"
     },
     {
-      "id": 28,
+      "id": 16,
       "date": "2026-04-16",
       "word": "Diaprer",
       "type": "Verbe",
@@ -374,7 +216,7 @@
       "phonetics": "dja.pʁe"
     },
     {
-      "id": 29,
+      "id": 17,
       "date": "2026-04-17",
       "word": "Prédicant",
       "type": "Nom masculin",
@@ -388,7 +230,7 @@
       "phonetics": "pʁe.di.kɑ̃"
     },
     {
-      "id": 30,
+      "id": 18,
       "date": "2026-04-18",
       "word": "Épigraphe",
       "type": "Nom féminin",
@@ -402,7 +244,7 @@
       "phonetics": "e.pi.ɡʁaf"
     },
     {
-      "id": 31,
+      "id": 19,
       "date": "2026-04-19",
       "word": "Pantois",
       "type": "Adjectif",
@@ -415,7 +257,7 @@
       "phonetics": "pɑ̃.twa"
     },
     {
-      "id": 32,
+      "id": 20,
       "date": "2026-04-20",
       "word": "Dirimant",
       "type": "Adjectif",
@@ -429,7 +271,7 @@
       "phonetics": "di.ʁi.mɑ̃"
     },
     {
-      "id": 33,
+      "id": 21,
       "date": "2026-04-21",
       "word": "Sollicitude",
       "type": "Nom féminin",
@@ -443,7 +285,7 @@
       "phonetics": "sɔ.li.si.tyd"
     },
     {
-      "id": 34,
+      "id": 22,
       "date": "2026-04-22",
       "word": "Arcane",
       "type": "Nom masculin",
@@ -457,7 +299,7 @@
       "phonetics": "aʁ.kan"
     },
     {
-      "id": 35,
+      "id": 23,
       "date": "2026-04-23",
       "word": "Émerillonner",
       "type": "Verbe",
@@ -470,7 +312,7 @@
       "phonetics": "ɛm.ʁi.jo.ne"
     },
     {
-      "id": 36,
+      "id": 24,
       "date": "2026-04-24",
       "word": "Cossard",
       "type": "Adjectif et nom",
@@ -483,7 +325,7 @@
       "phonetics": "kɔ.saʁ"
     },
     {
-      "id": 37,
+      "id": 25,
       "date": "2026-04-25",
       "word": "Lipogramme",
       "type": "Nom masculin",
@@ -496,7 +338,7 @@
       "phonetics": "li.po.ɡʁam"
     },
     {
-      "id": 38,
+      "id": 26,
       "date": "2026-04-26",
       "word": "Permaner",
       "type": "Verbe",
@@ -509,7 +351,7 @@
       "phonetics": "pɛʁ.ma.ne"
     },
     {
-      "id": 39,
+      "id": 27,
       "date": "2026-04-27",
       "word": "Viatique",
       "type": "Nom masculin",
@@ -523,7 +365,7 @@
       "phonetics": "vja.tik"
     },
     {
-      "id": 40,
+      "id": 28,
       "date": "2026-04-28",
       "word": "Parémiologie",
       "type": "Nom féminin",
@@ -536,7 +378,7 @@
       "phonetics": "pa.ʁe.mjɔ.lɔ.ʒi"
     },
     {
-      "id": 41,
+      "id": 29,
       "date": "2026-04-29",
       "word": "Sybaritique",
       "type": "Adjectif",
@@ -549,7 +391,7 @@
       "phonetics": "si.ba.ʁi.tik"
     },
     {
-      "id": 42,
+      "id": 30,
       "date": "2026-04-30",
       "word": "Sourcilleux",
       "type": "Adjectif",
@@ -562,7 +404,7 @@
       "phonetics": "suʁ.si.jø"
     },
     {
-      "id": 43,
+      "id": 31,
       "date": "2026-05-01",
       "word": "Congruence",
       "type": "Nom féminin",
@@ -575,7 +417,7 @@
       "phonetics": "kɔ̃.ɡʁy.ɑ̃s"
     },
     {
-      "id": 44,
+      "id": 32,
       "date": "2026-05-02",
       "word": "Faraud",
       "type": "Adjectif et nom",
@@ -589,7 +431,7 @@
       "phonetics": "fa.ʁo"
     },
     {
-      "id": 45,
+      "id": 33,
       "date": "2026-05-03",
       "word": "Indigence",
       "type": "Nom féminin",
@@ -603,7 +445,7 @@
       "phonetics": "ɛ̃.di.ʒɑ̃s"
     },
     {
-      "id": 46,
+      "id": 34,
       "date": "2026-05-04",
       "word": "Sente",
       "type": "Nom féminin",
@@ -616,7 +458,7 @@
       "phonetics": "sɑ̃t"
     },
     {
-      "id": 47,
+      "id": 35,
       "date": "2026-05-05",
       "word": "Cespiteux",
       "type": "Adjectif",
@@ -629,7 +471,7 @@
       "phonetics": "sɛs.pi.tø"
     },
     {
-      "id": 48,
+      "id": 36,
       "date": "2026-05-06",
       "word": "Admonester",
       "type": "Verbe",
@@ -642,7 +484,7 @@
       "phonetics": "ad.mɔ.nɛs.te"
     },
     {
-      "id": 49,
+      "id": 37,
       "date": "2026-05-07",
       "word": "Ductile",
       "type": "Adjectif",
@@ -655,7 +497,7 @@
       "phonetics": "dyk.til"
     },
     {
-      "id": 50,
+      "id": 38,
       "date": "2026-05-08",
       "word": "Heuristique",
       "type": "Adjectif",
@@ -669,7 +511,7 @@
       "phonetics": "ø.ʁis.tik"
     },
     {
-      "id": 51,
+      "id": 39,
       "date": "2026-05-09",
       "word": "Antonomase",
       "type": "Nom féminin",
@@ -682,7 +524,7 @@
       "phonetics": "ɑ̃.tɔ.nɔ.maz"
     },
     {
-      "id": 52,
+      "id": 40,
       "date": "2026-05-10",
       "word": "Aptonyme",
       "type": "Nom masculin",
@@ -695,7 +537,7 @@
       "phonetics": "ap.tɔ.nim"
     },
     {
-      "id": 53,
+      "id": 41,
       "date": "2026-05-11",
       "word": "Éluder",
       "type": "Verbe",
@@ -708,7 +550,7 @@
       "phonetics": "e.ly.de"
     },
     {
-      "id": 54,
+      "id": 42,
       "date": "2026-05-12",
       "word": "Achopper",
       "type": "Verbe",
@@ -722,7 +564,7 @@
       "phonetics": "a.ʃɔ.pe"
     },
     {
-      "id": 55,
+      "id": 43,
       "date": "2026-05-13",
       "word": "Imbelle",
       "type": "Adjectif",
@@ -736,7 +578,7 @@
       "phonetics": "ɛ̃.bɛl"
     },
     {
-      "id": 56,
+      "id": 44,
       "date": "2026-05-14",
       "word": "Coruscation",
       "type": "Nom féminin",
@@ -749,7 +591,7 @@
       "phonetics": "kɔ.ʁys.ka.sjɔ̃"
     },
     {
-      "id": 57,
+      "id": 45,
       "date": "2026-05-15",
       "word": "Obduration",
       "type": "Nom féminin",
@@ -762,7 +604,7 @@
       "phonetics": "ɔb.dy.ʁa.sjɔ̃"
     },
     {
-      "id": 58,
+      "id": 46,
       "date": "2026-05-16",
       "word": "Vilipender",
       "type": "Verbe",
@@ -775,7 +617,7 @@
       "phonetics": "vi.li.pɑ̃.de"
     },
     {
-      "id": 59,
+      "id": 47,
       "date": "2026-05-17",
       "word": "Emboconner",
       "type": "Verbe",
@@ -788,7 +630,7 @@
       "phonetics": "ɑ̃.bɔ.kɔ.ne"
     },
     {
-      "id": 60,
+      "id": 48,
       "date": "2026-05-18",
       "word": "Muser",
       "type": "Verbe",
@@ -801,7 +643,7 @@
       "phonetics": "my.ze"
     },
     {
-      "id": 61,
+      "id": 49,
       "date": "2026-05-19",
       "word": "Anomique",
       "type": "Adjectif",
@@ -814,7 +656,7 @@
       "phonetics": "a.nɔ.mik"
     },
     {
-      "id": 62,
+      "id": 50,
       "date": "2026-05-20",
       "word": "Fadette",
       "type": "Nom féminin",
@@ -827,7 +669,7 @@
       "phonetics": "fa.dɛt"
     },
     {
-      "id": 63,
+      "id": 51,
       "date": "2026-05-21",
       "word": "Panteler",
       "type": "Verbe",
@@ -840,7 +682,7 @@
       "phonetics": "pɑ̃.tle"
     },
     {
-      "id": 64,
+      "id": 52,
       "date": "2026-05-22",
       "word": "poplité",
       "type": "Adjectif",
@@ -853,7 +695,7 @@
       "phonetics": "pɔ.pli.te"
     },
     {
-      "id": 65,
+      "id": 53,
       "date": "2026-05-23",
       "word": "Honnir",
       "type": "Verbe",
@@ -866,7 +708,7 @@
       "phonetics": "ɔ.niʁ"
     },
     {
-      "id": 66,
+      "id": 54,
       "date": "2026-05-24",
       "word": "Diaphorèse",
       "type": "Nom féminin",
@@ -879,7 +721,7 @@
       "phonetics": "dja.fɔ.ʁɛz"
     },
     {
-      "id": 67,
+      "id": 55,
       "date": "2026-05-25",
       "word": "Vélocité",
       "type": "Nom féminin",
@@ -894,7 +736,7 @@
       "phonetics": "ve.lɔ.si.te"
     },
     {
-      "id": 68,
+      "id": 56,
       "date": "2026-05-26",
       "word": "Atermoiement",
       "type": "Nom masculin",
@@ -908,7 +750,7 @@
       "phonetics": "a.tɛʁ.mwa.mɑ̃"
     },
     {
-      "id": 69,
+      "id": 57,
       "date": "2026-05-27",
       "word": "Dithyrambique",
       "type": "Adjectif",
@@ -921,7 +763,7 @@
       "phonetics": "di.ti.ʁɑ̃.bik"
     },
     {
-      "id": 70,
+      "id": 58,
       "date": "2026-05-28",
       "word": "Gougnafier",
       "type": "Nom masculin",
@@ -935,7 +777,7 @@
       "phonetics": null
     },
     {
-      "id": 71,
+      "id": 59,
       "date": "2026-05-29",
       "word": "Prophylaxie",
       "type": "Nom féminin",
@@ -948,7 +790,7 @@
       "phonetics": "pʁɔ.fi.la.ksi"
     },
     {
-      "id": 72,
+      "id": 60,
       "date": "2026-05-30",
       "word": "Lichouserie",
       "type": "Nom féminin",
@@ -961,7 +803,7 @@
       "phonetics": "li.ʃuz.ʁi"
     },
     {
-      "id": 73,
+      "id": 61,
       "date": "2026-05-31",
       "word": "Melliflu (ou Melliflue)",
       "type": "Adjectif",
@@ -975,7 +817,7 @@
       "phonetics": "mɛ.li.fly"
     },
     {
-      "id": 74,
+      "id": 62,
       "date": "2026-06-01",
       "word": "Péremptoire",
       "type": "Adjectif",
@@ -989,7 +831,7 @@
       "phonetics": "pe.ʁɑ̃p.twaʁ"
     },
     {
-      "id": 75,
+      "id": 63,
       "date": "2026-06-02",
       "word": "Flegme",
       "type": "Nom masculin",
@@ -1002,7 +844,7 @@
       "phonetics": "flɛɡm"
     },
     {
-      "id": 76,
+      "id": 64,
       "date": "2026-06-03",
       "word": "Malévole",
       "type": "Adjectif",
@@ -1015,7 +857,7 @@
       "phonetics": "ma.le.vɔl"
     },
     {
-      "id": 77,
+      "id": 65,
       "date": "2026-06-04",
       "word": "Truisme",
       "type": "Nom masculin",
@@ -1028,7 +870,7 @@
       "phonetics": "tʁy.ism"
     },
     {
-      "id": 78,
+      "id": 66,
       "date": "2026-06-05",
       "word": "Quinteux",
       "type": "Adjectif et nom",
@@ -1042,7 +884,7 @@
       "phonetics": "kɛ̃.tø"
     },
     {
-      "id": 79,
+      "id": 67,
       "date": "2026-06-06",
       "word": "Catachrèse",
       "type": "Nom féminin",
@@ -1056,7 +898,7 @@
       "phonetics": "ka.ta.kʁɛz"
     },
     {
-      "id": 80,
+      "id": 68,
       "date": "2026-06-07",
       "word": "Fuligineux",
       "type": "Adjectif",
@@ -1070,7 +912,7 @@
       "phonetics": "fy.li.ʒi.nø"
     },
     {
-      "id": 81,
+      "id": 69,
       "date": "2026-06-08",
       "word": "Janotisme",
       "type": "",
@@ -1083,7 +925,7 @@
       "phonetics": null
     },
     {
-      "id": 82,
+      "id": 70,
       "date": "2026-06-09",
       "word": "Éphélide",
       "type": "Nom féminin",
@@ -1096,7 +938,7 @@
       "phonetics": "e.fe.lid"
     },
     {
-      "id": 83,
+      "id": 71,
       "date": "2026-06-10",
       "word": "Flagrance",
       "type": "Nom féminin",
@@ -1109,7 +951,7 @@
       "phonetics": null
     },
     {
-      "id": 84,
+      "id": 72,
       "date": "2026-06-11",
       "word": "Subreptice",
       "type": "Adjectif",
@@ -1122,7 +964,7 @@
       "phonetics": "sy.bʁɛp.tis"
     },
     {
-      "id": 85,
+      "id": 73,
       "date": "2026-06-12",
       "word": "Philippique",
       "type": "Nom féminin",
@@ -1135,7 +977,7 @@
       "phonetics": "fi.li.pik"
     },
     {
-      "id": 86,
+      "id": 74,
       "date": "2026-06-13",
       "word": "Amnistie",
       "type": "Nom féminin",
@@ -1148,7 +990,7 @@
       "phonetics": "am.nis.ti"
     },
     {
-      "id": 87,
+      "id": 75,
       "date": "2026-06-14",
       "word": "Avanie",
       "type": "Nom féminin",
@@ -1161,7 +1003,7 @@
       "phonetics": "a.va.ni"
     },
     {
-      "id": 88,
+      "id": 76,
       "date": "2026-06-15",
       "word": "Dicacité",
       "type": "Nom féminin",
@@ -1174,7 +1016,7 @@
       "phonetics": "di.da.si.te"
     },
     {
-      "id": 89,
+      "id": 77,
       "date": "2026-06-16",
       "word": "Dessiccatif",
       "type": "Adjectif",
@@ -1188,7 +1030,7 @@
       "phonetics": null
     },
     {
-      "id": 90,
+      "id": 78,
       "date": "2026-06-17",
       "word": "Égrotant",
       "type": "Adjectif",
@@ -1201,7 +1043,7 @@
       "phonetics": "e.ɡʁɔ.tɑ̃"
     },
     {
-      "id": 91,
+      "id": 79,
       "date": "2026-06-18",
       "word": "Stupre",
       "type": "Nom masculin",
@@ -1214,7 +1056,7 @@
       "phonetics": "stypʁ"
     },
     {
-      "id": 92,
+      "id": 80,
       "date": "2026-06-19",
       "word": "Voluptuaire",
       "type": "Adjectif",
@@ -1227,7 +1069,7 @@
       "phonetics": null
     },
     {
-      "id": 93,
+      "id": 81,
       "date": "2026-06-20",
       "word": "Glabelle",
       "type": "Nom féminin",
@@ -1240,7 +1082,7 @@
       "phonetics": "ɡla.bɛl"
     },
     {
-      "id": 94,
+      "id": 82,
       "date": "2026-06-21",
       "word": "Débonnaire",
       "type": "Adjectif",
@@ -1253,7 +1095,7 @@
       "phonetics": "de.bɔ.nɛʁ"
     },
     {
-      "id": 95,
+      "id": 83,
       "date": "2026-06-22",
       "word": "Aglet",
       "type": "Nom masculin",
@@ -1266,7 +1108,7 @@
       "phonetics": "a.ɡlɛ"
     },
     {
-      "id": 96,
+      "id": 84,
       "date": "2026-06-23",
       "word": "Amphigourique",
       "type": "Adjectif",
@@ -1279,7 +1121,7 @@
       "phonetics": "ɑ̃.fi.ɡu.ʁik"
     },
     {
-      "id": 97,
+      "id": 85,
       "date": "2026-06-24",
       "word": "Supputer",
       "type": "Verbe",
@@ -1292,7 +1134,7 @@
       "phonetics": "sy.py.te"
     },
     {
-      "id": 98,
+      "id": 86,
       "date": "2026-06-25",
       "word": "Alambiqué",
       "type": "Adjectif",
@@ -1305,7 +1147,7 @@
       "phonetics": "a.lɑ̃.bi.ke"
     },
     {
-      "id": 99,
+      "id": 87,
       "date": "2026-06-26",
       "word": "Fraîchin",
       "type": "",
@@ -1318,7 +1160,7 @@
       "phonetics": null
     },
     {
-      "id": 100,
+      "id": 88,
       "date": "2026-06-27",
       "word": "Thébaïde",
       "type": "Nom féminin",
@@ -1331,7 +1173,7 @@
       "phonetics": "te.ba.id"
     },
     {
-      "id": 101,
+      "id": 89,
       "date": "2026-06-28",
       "word": "Viduité",
       "type": "Nom féminin",
@@ -1344,7 +1186,7 @@
       "phonetics": "vi.dɥi.te"
     },
     {
-      "id": 102,
+      "id": 90,
       "date": "2026-06-29",
       "word": "Fatuité",
       "type": "Nom féminin",
@@ -1357,7 +1199,7 @@
       "phonetics": "fa.tɥi.te"
     },
     {
-      "id": 103,
+      "id": 91,
       "date": "2026-06-30",
       "word": "Glabre",
       "type": "Adjectif",
@@ -1371,7 +1213,7 @@
       "phonetics": "ɡlɑbʁ"
     },
     {
-      "id": 104,
+      "id": 92,
       "date": "2026-07-01",
       "word": "Abscons",
       "type": "Adjectif",
@@ -1384,7 +1226,7 @@
       "phonetics": "ap.skɔ̃"
     },
     {
-      "id": 105,
+      "id": 93,
       "date": "2026-07-02",
       "word": "Hétéroclite",
       "type": "Adjectif",
@@ -1398,7 +1240,7 @@
       "phonetics": "e.te.ʁɔ.klit"
     },
     {
-      "id": 106,
+      "id": 94,
       "date": "2026-07-03",
       "word": "Lampadophore",
       "type": "Nom masculin",
@@ -1411,7 +1253,7 @@
       "phonetics": "lɑ̃.pa.dɔ.fɔʁ"
     },
     {
-      "id": 107,
+      "id": 95,
       "date": "2026-07-04",
       "word": "Billevesée",
       "type": "Nom féminin",
@@ -1424,7 +1266,7 @@
       "phonetics": "bil.və.ze"
     },
     {
-      "id": 108,
+      "id": 96,
       "date": "2026-07-05",
       "word": "Vésanie",
       "type": "Nom féminin",
@@ -1437,7 +1279,7 @@
       "phonetics": "ve.za.ni"
     },
     {
-      "id": 109,
+      "id": 97,
       "date": "2026-07-06",
       "word": "Torve",
       "type": "Adjectif",
@@ -1450,7 +1292,7 @@
       "phonetics": "tɔʁv"
     },
     {
-      "id": 110,
+      "id": 98,
       "date": "2026-07-07",
       "word": "Turpitude",
       "type": "Nom féminin",
@@ -1464,7 +1306,7 @@
       "phonetics": "tyʁ.pi.tyd"
     },
     {
-      "id": 111,
+      "id": 99,
       "date": "2026-07-08",
       "word": "Flaveur",
       "type": "Nom féminin",
@@ -1477,7 +1319,7 @@
       "phonetics": "fla.vœʁ"
     },
     {
-      "id": 112,
+      "id": 100,
       "date": "2026-07-09",
       "word": "Géminé",
       "type": "Verbe",
@@ -1490,7 +1332,7 @@
       "phonetics": "ʒe.mi.ne"
     },
     {
-      "id": 113,
+      "id": 101,
       "date": "2026-07-10",
       "word": "Spécieux",
       "type": "Adjectif",
@@ -1503,7 +1345,7 @@
       "phonetics": "spe.sjø"
     },
     {
-      "id": 114,
+      "id": 102,
       "date": "2026-07-11",
       "word": "Tépide",
       "type": "",
@@ -1516,7 +1358,7 @@
       "phonetics": null
     },
     {
-      "id": 115,
+      "id": 103,
       "date": "2026-07-12",
       "word": "Tintinnabulant",
       "type": "Verbe",
@@ -1529,7 +1371,7 @@
       "phonetics": "tɛ̃.ti.na.by.lɑ̃"
     },
     {
-      "id": 116,
+      "id": 104,
       "date": "2026-07-13",
       "word": "Ailurophobie",
       "type": "Nom féminin",
@@ -1542,7 +1384,7 @@
       "phonetics": "ɛ.ly.ʁo.fɔ.bi"
     },
     {
-      "id": 117,
+      "id": 105,
       "date": "2026-07-14",
       "word": "Objurgation",
       "type": "Nom féminin",
@@ -1555,7 +1397,7 @@
       "phonetics": "ɔb.ʒyʁ.ɡa.sjɔ̃"
     },
     {
-      "id": 118,
+      "id": 106,
       "date": "2026-07-15",
       "word": "Calinotade",
       "type": "Nom féminin",
@@ -1568,7 +1410,7 @@
       "phonetics": "ka.li.nɔ.tad"
     },
     {
-      "id": 119,
+      "id": 107,
       "date": "2026-07-16",
       "word": "Gentilé",
       "type": "Nom masculin",
@@ -1581,7 +1423,7 @@
       "phonetics": "ʒɑ̃.ti.le"
     },
     {
-      "id": 120,
+      "id": 108,
       "date": "2026-07-17",
       "word": "Interlope",
       "type": "Adjectif",
@@ -1595,7 +1437,7 @@
       "phonetics": "ɛ̃.tɛʁ.lɔp"
     },
     {
-      "id": 121,
+      "id": 109,
       "date": "2026-07-18",
       "word": "Pythonisse",
       "type": "Nom féminin",
@@ -1608,7 +1450,7 @@
       "phonetics": "pi.tɔ.nis"
     },
     {
-      "id": 122,
+      "id": 110,
       "date": "2026-07-19",
       "word": "Cordiforme",
       "type": "Adjectif",
@@ -1621,7 +1463,7 @@
       "phonetics": "kɔʁ.di.fɔʁm"
     },
     {
-      "id": 123,
+      "id": 111,
       "date": "2026-07-20",
       "word": "Patent",
       "type": "Adjectif",
@@ -1634,7 +1476,7 @@
       "phonetics": "pa.tɑ̃"
     },
     {
-      "id": 124,
+      "id": 112,
       "date": "2026-07-21",
       "word": "Acédie",
       "type": "Nom féminin",
@@ -1647,7 +1489,7 @@
       "phonetics": "a.se.di"
     },
     {
-      "id": 125,
+      "id": 113,
       "date": "2026-07-22",
       "word": "Entériner",
       "type": "Verbe",
@@ -1661,7 +1503,7 @@
       "phonetics": "ɑ̃.te.ʁi.ne"
     },
     {
-      "id": 126,
+      "id": 114,
       "date": "2026-07-23",
       "word": "Exorde",
       "type": "Nom masculin",
@@ -1674,7 +1516,7 @@
       "phonetics": "ɛɡ.zɔʁd"
     },
     {
-      "id": 127,
+      "id": 115,
       "date": "2026-07-24",
       "word": "Babilan",
       "type": "Nom masculin",
@@ -1687,7 +1529,7 @@
       "phonetics": null
     },
     {
-      "id": 128,
+      "id": 116,
       "date": "2026-07-25",
       "word": "Marasme",
       "type": "Nom masculin",
@@ -1702,7 +1544,7 @@
       "phonetics": "ma.ʁasm"
     },
     {
-      "id": 129,
+      "id": 117,
       "date": "2026-07-26",
       "word": "Sémillant",
       "type": "Adjectif",
@@ -1715,7 +1557,7 @@
       "phonetics": "se.mi.jɑ̃"
     },
     {
-      "id": 130,
+      "id": 118,
       "date": "2026-07-27",
       "word": "Comminatoire",
       "type": "Adjectif",
@@ -1729,7 +1571,7 @@
       "phonetics": "kɔ.mi.na.twaʁ"
     },
     {
-      "id": 131,
+      "id": 119,
       "date": "2026-07-28",
       "word": "Xénisme",
       "type": "Nom masculin",
@@ -1742,7 +1584,7 @@
       "phonetics": "ɡze.nism"
     },
     {
-      "id": 132,
+      "id": 120,
       "date": "2026-07-29",
       "word": "Piaculaire",
       "type": "Adjectif",
@@ -1755,7 +1597,7 @@
       "phonetics": null
     },
     {
-      "id": 133,
+      "id": 121,
       "date": "2026-07-30",
       "word": "Ascèse",
       "type": "Nom féminin",
@@ -1769,7 +1611,7 @@
       "phonetics": "a.sɛz"
     },
     {
-      "id": 134,
+      "id": 122,
       "date": "2026-07-31",
       "word": "Flagorner",
       "type": "Verbe",
@@ -1783,7 +1625,7 @@
       "phonetics": "fla.ɡɔʁ.ne"
     },
     {
-      "id": 135,
+      "id": 123,
       "date": "2026-08-01",
       "word": "Dénégation",
       "type": "Nom féminin",
@@ -1797,7 +1639,7 @@
       "phonetics": "de.ne.ɡa.sjɔ̃"
     },
     {
-      "id": 136,
+      "id": 124,
       "date": "2026-08-02",
       "word": "Oblong",
       "type": "Adjectif",
@@ -1810,7 +1652,7 @@
       "phonetics": "ɔ.blɔ̃"
     },
     {
-      "id": 137,
+      "id": 125,
       "date": "2026-08-03",
       "word": "Blandice",
       "type": "Nom féminin",
@@ -1823,7 +1665,7 @@
       "phonetics": "blɑ̃.dis"
     },
     {
-      "id": 138,
+      "id": 126,
       "date": "2026-08-04",
       "word": "Masure",
       "type": "Nom féminin",
@@ -1836,7 +1678,7 @@
       "phonetics": "ma.zyʁ"
     },
     {
-      "id": 139,
+      "id": 127,
       "date": "2026-08-05",
       "word": "aporie",
       "type": "Nom féminin",
@@ -1849,7 +1691,7 @@
       "phonetics": "a.pɔ.ʁi"
     },
     {
-      "id": 140,
+      "id": 128,
       "date": "2026-08-06",
       "word": "canthus",
       "type": "Nom masculin",
@@ -1862,7 +1704,7 @@
       "phonetics": "kɑ̃.tys"
     },
     {
-      "id": 141,
+      "id": 129,
       "date": "2026-08-07",
       "word": "Preux",
       "type": "Adjectif masculin",
@@ -1875,7 +1717,7 @@
       "phonetics": "pʁø"
     },
     {
-      "id": 142,
+      "id": 130,
       "date": "2026-08-08",
       "word": "Fortitude",
       "type": "Nom féminin",
@@ -1888,7 +1730,7 @@
       "phonetics": "fɔʁ.ti.tyd"
     },
     {
-      "id": 143,
+      "id": 131,
       "date": "2026-08-09",
       "word": "fovéa",
       "type": "Nom féminin",
@@ -1901,7 +1743,7 @@
       "phonetics": "fɔ.ve.a"
     },
     {
-      "id": 144,
+      "id": 132,
       "date": "2026-08-10",
       "word": "Parangon",
       "type": "Nom masculin",
@@ -1915,7 +1757,7 @@
       "phonetics": "pa.ʁɑ̃.ɡɔ̃"
     },
     {
-      "id": 145,
+      "id": 133,
       "date": "2026-08-11",
       "word": "philtrum",
       "type": "Nom masculin",
@@ -1928,7 +1770,7 @@
       "phonetics": "fil.tʁɔm"
     },
     {
-      "id": 146,
+      "id": 134,
       "date": "2026-08-12",
       "word": "Laudateur",
       "type": "Nom",
@@ -1941,7 +1783,7 @@
       "phonetics": "lo.da.tœʁ"
     },
     {
-      "id": 147,
+      "id": 135,
       "date": "2026-08-13",
       "word": "Roboratif",
       "type": "Adjectif",
@@ -1955,7 +1797,7 @@
       "phonetics": "ʁo.bo.ʁa.tif"
     },
     {
-      "id": 148,
+      "id": 136,
       "date": "2026-08-14",
       "word": "Incipit",
       "type": "Nom masculin invariable",
@@ -1968,7 +1810,7 @@
       "phonetics": "ɛ̃.si.pit"
     },
     {
-      "id": 149,
+      "id": 137,
       "date": "2026-08-15",
       "word": "Velléitaire",
       "type": "Adjectif et nom",
@@ -1981,7 +1823,7 @@
       "phonetics": "ve.le.i.tɛʁ"
     },
     {
-      "id": 150,
+      "id": 138,
       "date": "2026-08-16",
       "word": "Turgescent",
       "type": "Adjectif",
@@ -1994,7 +1836,7 @@
       "phonetics": "tyʁ.ʒɛ.sɑ̃"
     },
     {
-      "id": 151,
+      "id": 139,
       "date": "2026-08-17",
       "word": "Conspuer",
       "type": "Verbe",
@@ -2007,7 +1849,7 @@
       "phonetics": "kɔ̃s.pɥe"
     },
     {
-      "id": 152,
+      "id": 140,
       "date": "2026-08-18",
       "word": "Truchement",
       "type": "Nom masculin",
@@ -2020,7 +1862,7 @@
       "phonetics": "tʁyʃ.mɑ̃"
     },
     {
-      "id": 153,
+      "id": 141,
       "date": "2026-08-19",
       "word": "Délétère",
       "type": "Adjectif",
@@ -2034,7 +1876,7 @@
       "phonetics": "de.le.tɛʁ"
     },
     {
-      "id": 154,
+      "id": 142,
       "date": "2026-08-20",
       "word": "Gratulation",
       "type": "Nom féminin",
@@ -2047,7 +1889,7 @@
       "phonetics": "ɡʁa.ty.la.sjɔ̃"
     },
     {
-      "id": 155,
+      "id": 143,
       "date": "2026-08-21",
       "word": "Panacée",
       "type": "Nom féminin",
@@ -2060,7 +1902,7 @@
       "phonetics": "pa.na.se"
     },
     {
-      "id": 156,
+      "id": 144,
       "date": "2026-08-22",
       "word": "Sardonique",
       "type": "Adjectif",
@@ -2073,7 +1915,7 @@
       "phonetics": "saʁ.dɔ.nik"
     },
     {
-      "id": 157,
+      "id": 145,
       "date": "2026-08-23",
       "word": "Matutinal",
       "type": "Adjectif",
@@ -2086,7 +1928,7 @@
       "phonetics": "ma.ty.ti.nal"
     },
     {
-      "id": 158,
+      "id": 146,
       "date": "2026-08-24",
       "word": "Ailurophile",
       "type": "Adjectif et nom",
@@ -2099,7 +1941,7 @@
       "phonetics": "e.ly.ʁo.fil"
     },
     {
-      "id": 159,
+      "id": 147,
       "date": "2026-08-25",
       "word": "Captieux",
       "type": "Adjectif",
@@ -2112,7 +1954,7 @@
       "phonetics": "kap.sjø"
     },
     {
-      "id": 160,
+      "id": 148,
       "date": "2026-08-26",
       "word": "Pusillanime",
       "type": "Adjectif et nom",
@@ -2125,7 +1967,7 @@
       "phonetics": "py.zi.la.nim"
     },
     {
-      "id": 161,
+      "id": 149,
       "date": "2026-08-27",
       "word": "Cuistre",
       "type": "Nom masculin",
@@ -2138,7 +1980,7 @@
       "phonetics": "kɥistʁ"
     },
     {
-      "id": 162,
+      "id": 150,
       "date": "2026-08-28",
       "word": "Axiome",
       "type": "Nom masculin",
@@ -2151,7 +1993,7 @@
       "phonetics": null
     },
     {
-      "id": 163,
+      "id": 151,
       "date": "2026-08-29",
       "word": "Hiératique",
       "type": "Adjectif",
@@ -2165,7 +2007,7 @@
       "phonetics": "je.ʁa.tik"
     },
     {
-      "id": 164,
+      "id": 152,
       "date": "2026-08-30",
       "word": "Incurie",
       "type": "Nom féminin",
@@ -2178,7 +2020,7 @@
       "phonetics": "ɛ̃.ky.ʁi"
     },
     {
-      "id": 165,
+      "id": 153,
       "date": "2026-08-31",
       "word": "Poncif",
       "type": "Nom masculin",
@@ -2192,7 +2034,7 @@
       "phonetics": "pɔ̃.sif"
     },
     {
-      "id": 166,
+      "id": 154,
       "date": "2026-09-01",
       "word": "Fenaison",
       "type": "Nom féminin",
@@ -2206,7 +2048,7 @@
       "phonetics": "fə.nɛ.zɔ̃"
     },
     {
-      "id": 167,
+      "id": 155,
       "date": "2026-09-02",
       "word": "Pamphlet",
       "type": "Nom masculin",
@@ -2219,7 +2061,7 @@
       "phonetics": "pɑ̃.flɛ"
     },
     {
-      "id": 168,
+      "id": 156,
       "date": "2026-09-03",
       "word": "Accort",
       "type": "Adjectif",
@@ -2232,7 +2074,7 @@
       "phonetics": "a.kɔʁ"
     },
     {
-      "id": 169,
+      "id": 157,
       "date": "2026-09-04",
       "word": "Subodorer",
       "type": "Verbe",
@@ -2246,7 +2088,7 @@
       "phonetics": "sy.bɔ.dɔ.ʁe"
     },
     {
-      "id": 170,
+      "id": 158,
       "date": "2026-09-05",
       "word": "Gourmander",
       "type": "Verbe",
@@ -2259,7 +2101,7 @@
       "phonetics": "ɡuʁ.mɑ̃.de"
     },
     {
-      "id": 171,
+      "id": 159,
       "date": "2026-09-06",
       "word": "Embabouiner",
       "type": "Verbe",
@@ -2272,7 +2114,7 @@
       "phonetics": "ɑ̃.ba.bwi.ne"
     },
     {
-      "id": 172,
+      "id": 160,
       "date": "2026-09-07",
       "word": "Psittacisme",
       "type": "Nom masculin",
@@ -2285,7 +2127,7 @@
       "phonetics": "psi.ta.sism"
     },
     {
-      "id": 173,
+      "id": 161,
       "date": "2026-09-08",
       "word": "Calligramme",
       "type": "Nom masculin",
@@ -2298,7 +2140,7 @@
       "phonetics": "ka.li.ɡʁam"
     },
     {
-      "id": 174,
+      "id": 162,
       "date": "2026-09-09",
       "word": "Irréfragable",
       "type": "Adjectif",
@@ -2311,7 +2153,7 @@
       "phonetics": "i.ʁe.fʁa.ɡabl"
     },
     {
-      "id": 175,
+      "id": 163,
       "date": "2026-09-10",
       "word": "Céladon",
       "type": "Adjectif invariable et nom masculin",
@@ -2325,7 +2167,7 @@
       "phonetics": "se.la.dɔ̃"
     },
     {
-      "id": 176,
+      "id": 164,
       "date": "2026-09-11",
       "word": "Hucher",
       "type": "Verbe",
@@ -2339,7 +2181,7 @@
       "phonetics": "k"
     },
     {
-      "id": 177,
+      "id": 165,
       "date": "2026-09-12",
       "word": "Affine",
       "type": "Adjectif et nom",
@@ -2352,7 +2194,7 @@
       "phonetics": "a.fɛ̃"
     },
     {
-      "id": 178,
+      "id": 166,
       "date": "2026-09-13",
       "word": "Aliboron",
       "type": "Nom masculin",
@@ -2365,7 +2207,7 @@
       "phonetics": "a.li.bɔ.ʁɔ̃"
     },
     {
-      "id": 179,
+      "id": 167,
       "date": "2026-09-14",
       "word": "virga",
       "type": "Nom féminin",
@@ -2378,7 +2220,7 @@
       "phonetics": "viʁ.ɡa"
     },
     {
-      "id": 180,
+      "id": 168,
       "date": "2026-09-15",
       "word": "Essoriller",
       "type": "Verbe",
@@ -2391,7 +2233,7 @@
       "phonetics": "e.sɔ.ʁi.je"
     },
     {
-      "id": 181,
+      "id": 169,
       "date": "2026-09-16",
       "word": "Nivéal",
       "type": "Adjectif",
@@ -2404,7 +2246,7 @@
       "phonetics": "ni.ve.al"
     },
     {
-      "id": 182,
+      "id": 170,
       "date": "2026-09-17",
       "word": "Emoi",
       "type": "Nom masculin",
@@ -2418,7 +2260,7 @@
       "phonetics": null
     },
     {
-      "id": 183,
+      "id": 171,
       "date": "2026-09-18",
       "word": "Opprobre",
       "type": "Nom masculin",
@@ -2432,7 +2274,7 @@
       "phonetics": "ɔ.pʁɔbʁ"
     },
     {
-      "id": 184,
+      "id": 172,
       "date": "2026-09-19",
       "word": "Synecdoque",
       "type": "Nom féminin",
@@ -2445,7 +2287,7 @@
       "phonetics": "si.nɛk.dɔk"
     },
     {
-      "id": 185,
+      "id": 173,
       "date": "2026-09-20",
       "word": "Ceindre",
       "type": "Verbe",
@@ -2459,7 +2301,7 @@
       "phonetics": "sɛ̃dʁ"
     },
     {
-      "id": 186,
+      "id": 174,
       "date": "2026-09-21",
       "word": "Déchouquer",
       "type": "Verbe",
@@ -2473,7 +2315,7 @@
       "phonetics": "de.ʃu.ke"
     },
     {
-      "id": 187,
+      "id": 175,
       "date": "2026-09-22",
       "word": "Ichtyologie",
       "type": "Nom féminin",
@@ -2486,7 +2328,7 @@
       "phonetics": "ik.tjɔ.lɔ.ʒi"
     },
     {
-      "id": 188,
+      "id": 176,
       "date": "2026-09-23",
       "word": "Enchifrener",
       "type": "Verbe",
@@ -2499,7 +2341,7 @@
       "phonetics": "ɑ̃.ʃi.fʁə.ne"
     },
     {
-      "id": 189,
+      "id": 177,
       "date": "2026-09-24",
       "word": "Lantiponner",
       "type": "Verbe",
@@ -2512,7 +2354,7 @@
       "phonetics": "lɑ̃.ti.pɔ.ne"
     },
     {
-      "id": 190,
+      "id": 178,
       "date": "2026-09-25",
       "word": "garrulité",
       "type": "Nom féminin",
@@ -2525,7 +2367,7 @@
       "phonetics": "ɡa.ʁy.li.te"
     },
     {
-      "id": 191,
+      "id": 179,
       "date": "2026-09-26",
       "word": "Zélateur",
       "type": "Nom",
@@ -2538,7 +2380,7 @@
       "phonetics": "ze.la.tœʁ"
     },
     {
-      "id": 192,
+      "id": 180,
       "date": "2026-09-27",
       "word": "Obituaire",
       "type": "Nom masculin",
@@ -2551,7 +2393,7 @@
       "phonetics": "ɔ.bi.tɥɛʁ"
     },
     {
-      "id": 193,
+      "id": 181,
       "date": "2026-09-28",
       "word": "Nescience",
       "type": "Nom féminin",
@@ -2564,7 +2406,7 @@
       "phonetics": "nɛ.sjɑ̃s"
     },
     {
-      "id": 194,
+      "id": 182,
       "date": "2026-09-29",
       "word": "Amonceler",
       "type": "Verbe",
@@ -2578,7 +2420,7 @@
       "phonetics": "a.mɔ̃.sle"
     },
     {
-      "id": 195,
+      "id": 183,
       "date": "2026-09-30",
       "word": "Puîné",
       "type": "Adjectif et nom",
@@ -2591,7 +2433,7 @@
       "phonetics": "pɥi.ne"
     },
     {
-      "id": 196,
+      "id": 184,
       "date": "2026-10-01",
       "word": "Messeoir",
       "type": "Verbe",
@@ -2604,7 +2446,7 @@
       "phonetics": null
     },
     {
-      "id": 197,
+      "id": 185,
       "date": "2026-10-02",
       "word": "Nycthémère",
       "type": "Nom masculin",
@@ -2617,7 +2459,7 @@
       "phonetics": "nik.te.mɛʁ"
     },
     {
-      "id": 198,
+      "id": 186,
       "date": "2026-10-03",
       "word": "Se pâmer",
       "type": "Verbe",
@@ -2631,7 +2473,7 @@
       "phonetics": "sə pɑ.me"
     },
     {
-      "id": 199,
+      "id": 187,
       "date": "2026-10-04",
       "word": "Promptitude",
       "type": "Nom féminin",
@@ -2645,7 +2487,7 @@
       "phonetics": "pʁɔ̃p.ti.tyd"
     },
     {
-      "id": 200,
+      "id": 188,
       "date": "2026-10-05",
       "word": "Loquacité",
       "type": "Nom féminin",
@@ -2658,7 +2500,7 @@
       "phonetics": "lɔ.ka.si.te"
     },
     {
-      "id": 201,
+      "id": 189,
       "date": "2026-10-06",
       "word": "édénique",
       "type": "Adjectif",
@@ -2671,7 +2513,7 @@
       "phonetics": "e.de.nik"
     },
     {
-      "id": 202,
+      "id": 190,
       "date": "2026-10-07",
       "word": "Apanage",
       "type": "Nom masculin",
@@ -2685,7 +2527,7 @@
       "phonetics": "a.pa.naʒ"
     },
     {
-      "id": 203,
+      "id": 191,
       "date": "2026-10-08",
       "word": "Félonie",
       "type": "Nom féminin",
@@ -2698,7 +2540,7 @@
       "phonetics": "fe.lɔ.ni"
     },
     {
-      "id": 204,
+      "id": 192,
       "date": "2026-10-09",
       "word": "Bilieux",
       "type": "Adjectif",
@@ -2712,7 +2554,7 @@
       "phonetics": "bi.ljø"
     },
     {
-      "id": 205,
+      "id": 193,
       "date": "2026-10-10",
       "word": "Exérèse",
       "type": "Nom féminin",
@@ -2725,7 +2567,7 @@
       "phonetics": "ɛɡ.ze.ʁɛz"
     },
     {
-      "id": 206,
+      "id": 194,
       "date": "2026-10-11",
       "word": "Fifrelin",
       "type": "Nom masculin",
@@ -2739,7 +2581,7 @@
       "phonetics": "fi.fʁə.lɛ̃"
     },
     {
-      "id": 207,
+      "id": 195,
       "date": "2026-10-12",
       "word": "Ventricole",
       "type": "Nom masculin ou féminin",
@@ -2752,7 +2594,7 @@
       "phonetics": null
     },
     {
-      "id": 208,
+      "id": 196,
       "date": "2026-10-13",
       "word": "Rubicond",
       "type": "Adjectif",
@@ -2765,7 +2607,7 @@
       "phonetics": "ʁy.bi.kɔ̃"
     },
     {
-      "id": 209,
+      "id": 197,
       "date": "2026-10-14",
       "word": "Idiosyncrasie",
       "type": "Adjectif",
@@ -2778,7 +2620,7 @@
       "phonetics": "i.djo.sɛ̃.kʁa.zik"
     },
     {
-      "id": 210,
+      "id": 198,
       "date": "2026-10-15",
       "word": "Infrangible",
       "type": "Adjectif",
@@ -2791,7 +2633,7 @@
       "phonetics": "ɛ̃.fʁɑ̃.ʒibl"
     },
     {
-      "id": 211,
+      "id": 199,
       "date": "2026-10-16",
       "word": "Libation",
       "type": "Nom féminin",
@@ -2805,7 +2647,7 @@
       "phonetics": "li.ba.sjɔ̃"
     },
     {
-      "id": 212,
+      "id": 200,
       "date": "2026-10-17",
       "word": "Immarcescible",
       "type": "Adjectif",
@@ -2818,7 +2660,7 @@
       "phonetics": null
     },
     {
-      "id": 213,
+      "id": 201,
       "date": "2026-10-18",
       "word": "Matamore",
       "type": "Nom masculin",
@@ -2831,7 +2673,7 @@
       "phonetics": "ma.ta.mɔʁ"
     },
     {
-      "id": 214,
+      "id": 202,
       "date": "2026-10-19",
       "word": "Spoliation",
       "type": "Nom féminin",
@@ -2844,7 +2686,7 @@
       "phonetics": "spɔ.lja.sjɔ̃"
     },
     {
-      "id": 215,
+      "id": 203,
       "date": "2026-10-20",
       "word": "Quolibet",
       "type": "Nom masculin",
@@ -2857,7 +2699,7 @@
       "phonetics": "kɔ.li.bɛ"
     },
     {
-      "id": 216,
+      "id": 204,
       "date": "2026-10-21",
       "word": "Térébrer",
       "type": "Verbe",
@@ -2870,7 +2712,7 @@
       "phonetics": "te.ʁe.bʁe"
     },
     {
-      "id": 217,
+      "id": 205,
       "date": "2026-10-22",
       "word": "Subliminal",
       "type": "Adjectif",
@@ -2883,7 +2725,7 @@
       "phonetics": "sy.bli.mi.nal"
     },
     {
-      "id": 218,
+      "id": 206,
       "date": "2026-10-23",
       "word": "Faconde",
       "type": "Nom féminin",
@@ -2896,7 +2738,7 @@
       "phonetics": "fa.kɔ̃d"
     },
     {
-      "id": 219,
+      "id": 207,
       "date": "2026-10-24",
       "word": "Morosif",
       "type": "Adjectif",
@@ -2909,7 +2751,7 @@
       "phonetics": "mɔ.ʁo.zif"
     },
     {
-      "id": 220,
+      "id": 208,
       "date": "2026-10-25",
       "word": "Zoïle",
       "type": "Nom masculin",
@@ -2922,7 +2764,7 @@
       "phonetics": "zɔ.il"
     },
     {
-      "id": 221,
+      "id": 209,
       "date": "2026-10-26",
       "word": "Coudoyer",
       "type": "Verbe",
@@ -2936,7 +2778,7 @@
       "phonetics": "ku.dwa.je"
     },
     {
-      "id": 222,
+      "id": 210,
       "date": "2026-10-27",
       "word": "Exhalaison",
       "type": "Nom féminin",
@@ -2949,7 +2791,7 @@
       "phonetics": "ɛɡ.za.le.zɔ̃"
     },
     {
-      "id": 223,
+      "id": 211,
       "date": "2026-10-28",
       "word": "Cacochyme",
       "type": "Adjectif et nom",
@@ -2962,7 +2804,7 @@
       "phonetics": "ka.kɔ.ʃim"
     },
     {
-      "id": 224,
+      "id": 212,
       "date": "2026-10-29",
       "word": "inanité",
       "type": "Nom féminin",
@@ -2975,7 +2817,7 @@
       "phonetics": "i.na.ni.te"
     },
     {
-      "id": 225,
+      "id": 213,
       "date": "2026-10-30",
       "word": "Célérité",
       "type": "Nom féminin",
@@ -2989,7 +2831,7 @@
       "phonetics": "se.le.ʁi.te"
     },
     {
-      "id": 226,
+      "id": 214,
       "date": "2026-10-31",
       "word": "Sylphide",
       "type": "Nom féminin",
@@ -3002,7 +2844,7 @@
       "phonetics": "sil.fid"
     },
     {
-      "id": 227,
+      "id": 215,
       "date": "2026-11-01",
       "word": "Éclectique",
       "type": "Adjectif",
@@ -3015,7 +2857,7 @@
       "phonetics": "e.klɛk.tik"
     },
     {
-      "id": 228,
+      "id": 216,
       "date": "2026-11-02",
       "word": "Escampette",
       "type": "Nom féminin",
@@ -3028,7 +2870,7 @@
       "phonetics": "ɛs.kɑ̃.pɛt"
     },
     {
-      "id": 229,
+      "id": 217,
       "date": "2026-11-03",
       "word": "Cachexie",
       "type": "Nom féminin",
@@ -3041,7 +2883,7 @@
       "phonetics": "ka.ʃɛk.si"
     },
     {
-      "id": 230,
+      "id": 218,
       "date": "2026-11-04",
       "word": "Nyctalope",
       "type": "Adjectif et nom",
@@ -3054,7 +2896,7 @@
       "phonetics": "nik.ta.lɔp"
     },
     {
-      "id": 231,
+      "id": 219,
       "date": "2026-11-05",
       "word": "Guerdon",
       "type": "Nom masculin",
@@ -3067,7 +2909,7 @@
       "phonetics": "ɡɛʁ.dɔ̃"
     },
     {
-      "id": 232,
+      "id": 220,
       "date": "2026-11-06",
       "word": "Idiome",
       "type": "Nom masculin",
@@ -3081,7 +2923,7 @@
       "phonetics": "i.djom"
     },
     {
-      "id": 233,
+      "id": 221,
       "date": "2026-11-07",
       "word": "Scélérat",
       "type": "Adjectif",
@@ -3095,7 +2937,7 @@
       "phonetics": "se.le.ʁa"
     },
     {
-      "id": 234,
+      "id": 222,
       "date": "2026-11-08",
       "word": "Phagocyter",
       "type": "Verbe",
@@ -3109,7 +2951,7 @@
       "phonetics": "fa.ɡɔ.si.te"
     },
     {
-      "id": 235,
+      "id": 223,
       "date": "2026-11-09",
       "word": "Se prévaloir",
       "type": "Verbe",
@@ -3123,7 +2965,7 @@
       "phonetics": "sə pʁe.va.lwaʁ"
     },
     {
-      "id": 236,
+      "id": 224,
       "date": "2026-11-10",
       "word": "Équanimité",
       "type": "Nom féminin",
@@ -3136,7 +2978,7 @@
       "phonetics": "e.kwa.ni.mi.te"
     },
     {
-      "id": 237,
+      "id": 225,
       "date": "2026-11-11",
       "word": "Fantasmagorie",
       "type": "Nom féminin",
@@ -3151,7 +2993,7 @@
       "phonetics": "fɑ̃.tas.ma.ɡɔ.ʁi"
     },
     {
-      "id": 238,
+      "id": 226,
       "date": "2026-11-12",
       "word": "Turlupiner",
       "type": "Verbe",
@@ -3164,7 +3006,7 @@
       "phonetics": "tyʁ.ly.pi.ne"
     },
     {
-      "id": 239,
+      "id": 227,
       "date": "2026-11-13",
       "word": "Superfétatoire",
       "type": "Adjectif",
@@ -3177,7 +3019,7 @@
       "phonetics": "sy.pɛʁ.fe.ta.twaʁ"
     },
     {
-      "id": 240,
+      "id": 228,
       "date": "2026-11-14",
       "word": "Ratiocination",
       "type": "Nom féminin",
@@ -3190,7 +3032,7 @@
       "phonetics": "ʁa.sjɔ.si.na.sjɔ̃"
     },
     {
-      "id": 241,
+      "id": 229,
       "date": "2026-11-15",
       "word": "Exécrer",
       "type": "Verbe",
@@ -3204,7 +3046,7 @@
       "phonetics": "ɛɡ.ze.kʁe"
     },
     {
-      "id": 242,
+      "id": 230,
       "date": "2026-11-16",
       "word": "Ire",
       "type": "Nom féminin",
@@ -3217,7 +3059,7 @@
       "phonetics": "iʁ"
     },
     {
-      "id": 243,
+      "id": 231,
       "date": "2026-11-17",
       "word": "Pugnace",
       "type": "Adjectif et nom",
@@ -3230,7 +3072,7 @@
       "phonetics": "pyɡ.nas"
     },
     {
-      "id": 244,
+      "id": 232,
       "date": "2026-11-18",
       "word": "Probe",
       "type": "Adjectif",
@@ -3243,7 +3085,7 @@
       "phonetics": "pʁɔb"
     },
     {
-      "id": 245,
+      "id": 233,
       "date": "2026-11-19",
       "word": "Stipendier",
       "type": "Verbe",
@@ -3256,7 +3098,7 @@
       "phonetics": "sti.pɑ̃.dje"
     },
     {
-      "id": 246,
+      "id": 234,
       "date": "2026-11-20",
       "word": "Rapetasser",
       "type": "Verbe",
@@ -3270,7 +3112,7 @@
       "phonetics": "ʁa.p(ə.)ta.se"
     },
     {
-      "id": 247,
+      "id": 235,
       "date": "2026-11-21",
       "word": "Pourfendre",
       "type": "Verbe",
@@ -3284,7 +3126,7 @@
       "phonetics": "puʁ.fɑ̃dʁ"
     },
     {
-      "id": 248,
+      "id": 236,
       "date": "2026-11-22",
       "word": "Importun",
       "type": "Adjectif et nom",
@@ -3298,7 +3140,7 @@
       "phonetics": "ɛ̃.pɔʁ.tœ̃"
     },
     {
-      "id": 249,
+      "id": 237,
       "date": "2026-11-23",
       "word": "Musarder",
       "type": "Verbe",
@@ -3311,7 +3153,7 @@
       "phonetics": "my.zaʁ.de"
     },
     {
-      "id": 250,
+      "id": 238,
       "date": "2026-11-24",
       "word": "Papelard",
       "type": "Adjectif",
@@ -3324,7 +3166,7 @@
       "phonetics": "pap.laʁ"
     },
     {
-      "id": 251,
+      "id": 239,
       "date": "2026-11-25",
       "word": "colophon",
       "type": "Nom masculin",
@@ -3337,7 +3179,7 @@
       "phonetics": "kɔ.lɔ.fɔ̃"
     },
     {
-      "id": 252,
+      "id": 240,
       "date": "2026-11-26",
       "word": "Chimérique",
       "type": "Adjectif",
@@ -3351,7 +3193,7 @@
       "phonetics": "ʃi.me.ʁik"
     },
     {
-      "id": 253,
+      "id": 241,
       "date": "2026-11-27",
       "word": "Galéjade",
       "type": "Nom féminin",
@@ -3364,7 +3206,7 @@
       "phonetics": "ɡa.le.ʒad"
     },
     {
-      "id": 254,
+      "id": 242,
       "date": "2026-11-28",
       "word": "Réversion",
       "type": "Nom féminin",
@@ -3377,7 +3219,7 @@
       "phonetics": "ʁe.vɛʁ.sjɔ̃"
     },
     {
-      "id": 255,
+      "id": 243,
       "date": "2026-11-29",
       "word": "Deviser",
       "type": "Verbe",
@@ -3391,7 +3233,7 @@
       "phonetics": ""
     },
     {
-      "id": 256,
+      "id": 244,
       "date": "2026-11-30",
       "word": "Méphitique",
       "type": "Adjectif",
@@ -3405,7 +3247,7 @@
       "phonetics": "me.fi.tik"
     },
     {
-      "id": 257,
+      "id": 245,
       "date": "2026-12-01",
       "word": "Anosmie",
       "type": "Nom féminin",
@@ -3418,7 +3260,7 @@
       "phonetics": "a.nɔs.mi"
     },
     {
-      "id": 258,
+      "id": 246,
       "date": "2026-12-02",
       "word": "Omerta",
       "type": "Nom féminin",
@@ -3432,7 +3274,7 @@
       "phonetics": "o.mɛʁ.ta"
     },
     {
-      "id": 259,
+      "id": 247,
       "date": "2026-12-03",
       "word": "Baguenauder",
       "type": "Verbe",
@@ -3445,7 +3287,7 @@
       "phonetics": "baɡ.no.de"
     },
     {
-      "id": 260,
+      "id": 248,
       "date": "2026-12-04",
       "word": "Dystopie",
       "type": "Nom féminin",
@@ -3458,7 +3300,7 @@
       "phonetics": "dis.tɔ.pi"
     },
     {
-      "id": 261,
+      "id": 249,
       "date": "2026-12-05",
       "word": "Jusant",
       "type": "Nom masculin",
@@ -3471,7 +3313,7 @@
       "phonetics": "ʒy.zɑ̃"
     },
     {
-      "id": 262,
+      "id": 250,
       "date": "2026-12-06",
       "word": "Jaspiner",
       "type": "Verbe",
@@ -3484,7 +3326,7 @@
       "phonetics": "ʒas.pi.ne"
     },
     {
-      "id": 263,
+      "id": 251,
       "date": "2026-12-07",
       "word": "Étamine",
       "type": "Nom féminin",
@@ -3498,7 +3340,7 @@
       "phonetics": "e.ta.min"
     },
     {
-      "id": 264,
+      "id": 252,
       "date": "2026-12-08",
       "word": "murmuration",
       "type": "Nom féminin",
@@ -3512,7 +3354,7 @@
       "phonetics": "myʁ.my.ʁa.sjɔ̃"
     },
     {
-      "id": 265,
+      "id": 253,
       "date": "2026-12-09",
       "word": "Infatuation",
       "type": "Nom féminin",
@@ -3525,7 +3367,7 @@
       "phonetics": "ɛ̃.fa.tɥa.sjɔ̃"
     },
     {
-      "id": 266,
+      "id": 254,
       "date": "2026-12-10",
       "word": "S'affubler",
       "type": "Verbe",
@@ -3538,7 +3380,7 @@
       "phonetics": null
     },
     {
-      "id": 267,
+      "id": 255,
       "date": "2026-12-11",
       "word": "Dilettante",
       "type": "Nom",
@@ -3552,7 +3394,7 @@
       "phonetics": "di.lɛ.tɑ̃t"
     },
     {
-      "id": 268,
+      "id": 256,
       "date": "2026-12-12",
       "word": "virelangue",
       "type": "Nom masculin",
@@ -3565,7 +3407,7 @@
       "phonetics": "viʁ.lɑ̃ɡ"
     },
     {
-      "id": 269,
+      "id": 257,
       "date": "2026-12-13",
       "word": "Algarade",
       "type": "Nom féminin",
@@ -3578,7 +3420,7 @@
       "phonetics": "al.ɡa.ʁad"
     },
     {
-      "id": 270,
+      "id": 258,
       "date": "2026-12-14",
       "word": "Smaragdin",
       "type": "Adjectif",
@@ -3591,7 +3433,7 @@
       "phonetics": "sma.ʁaɡ.dɛ̃"
     },
     {
-      "id": 271,
+      "id": 259,
       "date": "2026-12-15",
       "word": "Olibrius",
       "type": "Nom masculin",
@@ -3604,7 +3446,7 @@
       "phonetics": "ɔ.li.bʁi.jys"
     },
     {
-      "id": 272,
+      "id": 260,
       "date": "2026-12-16",
       "word": "Autodafé",
       "type": "Nom masculin",
@@ -3618,7 +3460,7 @@
       "phonetics": "o.to.da.fe"
     },
     {
-      "id": 273,
+      "id": 261,
       "date": "2026-12-17",
       "word": "Hypocoristique",
       "type": "Adjectif et nom masculin",
@@ -3631,7 +3473,7 @@
       "phonetics": "i.po.ko.ʁis.tik"
     },
     {
-      "id": 274,
+      "id": 262,
       "date": "2026-12-18",
       "word": "Éreutophobie",
       "type": "Nom féminin",
@@ -3644,7 +3486,7 @@
       "phonetics": "e.ʁø.to.fɔ.bi"
     },
     {
-      "id": 275,
+      "id": 263,
       "date": "2026-12-19",
       "word": "Pédant",
       "type": "Nom",
@@ -3657,7 +3499,7 @@
       "phonetics": "pe.dɑ̃"
     },
     {
-      "id": 276,
+      "id": 264,
       "date": "2026-12-20",
       "word": "Évanescent",
       "type": "Adjectif",
@@ -3671,7 +3513,7 @@
       "phonetics": "e.va.ne.sɑ̃"
     },
     {
-      "id": 277,
+      "id": 265,
       "date": "2026-12-21",
       "word": "Harangue",
       "type": "Nom féminin",
@@ -3685,7 +3527,7 @@
       "phonetics": "a.ʁɑ̃ɡ"
     },
     {
-      "id": 278,
+      "id": 266,
       "date": "2026-12-22",
       "word": "Godelureau",
       "type": "Nom masculin",
@@ -3698,7 +3540,7 @@
       "phonetics": "ɡɔd.ly.ʁo"
     },
     {
-      "id": 279,
+      "id": 267,
       "date": "2026-12-23",
       "word": "Paronymie",
       "type": "Nom féminin",
@@ -3711,7 +3553,7 @@
       "phonetics": "pa.ʁɔ.ni.mi"
     },
     {
-      "id": 280,
+      "id": 268,
       "date": "2026-12-24",
       "word": "Mercantile",
       "type": "Adjectif",
@@ -3725,7 +3567,7 @@
       "phonetics": "mɛʁ.kɑ̃.til"
     },
     {
-      "id": 281,
+      "id": 269,
       "date": "2026-12-25",
       "word": "Saillie",
       "type": "Nom féminin",
@@ -3738,7 +3580,7 @@
       "phonetics": "sa.ji"
     },
     {
-      "id": 282,
+      "id": 270,
       "date": "2026-12-26",
       "word": "Concomitant",
       "type": "Adjectif",
@@ -3751,7 +3593,7 @@
       "phonetics": "kɔ̃.kɔ.mi.tɑ̃"
     },
     {
-      "id": 283,
+      "id": 271,
       "date": "2026-12-27",
       "word": "Réquisit",
       "type": "Nom masculin",
@@ -3764,7 +3606,7 @@
       "phonetics": "ʁe.ki.zi"
     },
     {
-      "id": 284,
+      "id": 272,
       "date": "2026-12-28",
       "word": "Stéatopyge",
       "type": "Adjectif",
@@ -3777,7 +3619,7 @@
       "phonetics": "ste.a.tɔ.piʒ"
     },
     {
-      "id": 285,
+      "id": 273,
       "date": "2026-12-29",
       "word": "Surnuméraire",
       "type": "Adjectif",
@@ -3790,7 +3632,7 @@
       "phonetics": "syʁ.ny.me.ʁɛʁ"
     },
     {
-      "id": 286,
+      "id": 274,
       "date": "2026-12-30",
       "word": "Draconien",
       "type": "Adjectif",
@@ -3803,7 +3645,7 @@
       "phonetics": "dʁa.kɔ.njɛ̃"
     },
     {
-      "id": 287,
+      "id": 275,
       "date": "2026-12-31",
       "word": "Gambit",
       "type": "Nom masculin",
@@ -3816,7 +3658,7 @@
       "phonetics": "ɡɑ̃.bit"
     },
     {
-      "id": 288,
+      "id": 276,
       "date": "2027-01-01",
       "word": "caroncule",
       "type": "Nom féminin",
@@ -3830,7 +3672,7 @@
       "phonetics": "ka.ʁɔ̃.kyl"
     },
     {
-      "id": 289,
+      "id": 277,
       "date": "2027-01-02",
       "word": "Lambiner",
       "type": "Verbe",
@@ -3843,7 +3685,7 @@
       "phonetics": "lɑ̃.bi.ne"
     },
     {
-      "id": 290,
+      "id": 278,
       "date": "2027-01-03",
       "word": "Pléthore",
       "type": "Nom féminin",
@@ -3856,7 +3698,7 @@
       "phonetics": "ple.tɔʁ"
     },
     {
-      "id": 291,
+      "id": 279,
       "date": "2027-01-04",
       "word": "Naupathie",
       "type": "Nom féminin",
@@ -3869,7 +3711,7 @@
       "phonetics": "no.pa.ti"
     },
     {
-      "id": 292,
+      "id": 280,
       "date": "2027-01-05",
       "word": "Trôler",
       "type": "Verbe",
@@ -3883,7 +3725,7 @@
       "phonetics": "tʁo.le"
     },
     {
-      "id": 293,
+      "id": 281,
       "date": "2027-01-06",
       "word": "Uchronie",
       "type": "Nom féminin",
@@ -3896,7 +3738,7 @@
       "phonetics": "y.kʁɔ.ni"
     },
     {
-      "id": 294,
+      "id": 282,
       "date": "2027-01-07",
       "word": "Lorgnon",
       "type": "Nom masculin",
@@ -3909,7 +3751,7 @@
       "phonetics": "lɔʁ.ɲɔ̃"
     },
     {
-      "id": 295,
+      "id": 283,
       "date": "2027-01-08",
       "word": "Somatiser",
       "type": "Verbe",
@@ -3922,7 +3764,7 @@
       "phonetics": "sɔ.ma.ti.ze"
     },
     {
-      "id": 296,
+      "id": 284,
       "date": "2027-01-09",
       "word": "Pénultième",
       "type": "Adjectif et nom féminin",
@@ -3935,7 +3777,7 @@
       "phonetics": "pe.nyl.tjɛm"
     },
     {
-      "id": 297,
+      "id": 285,
       "date": "2027-01-10",
       "word": "Ostracisme",
       "type": "Nom masculin",
@@ -3948,7 +3790,7 @@
       "phonetics": "ɔs.tʁa.sism"
     },
     {
-      "id": 298,
+      "id": 286,
       "date": "2027-01-11",
       "word": "Roturier",
       "type": "Adjectif et nom",
@@ -3961,7 +3803,7 @@
       "phonetics": "ʁɔ.ty.ʁje"
     },
     {
-      "id": 299,
+      "id": 287,
       "date": "2027-01-12",
       "word": "Chrestomathie",
       "type": "Nom féminin",
@@ -3974,7 +3816,7 @@
       "phonetics": "kʁɛs.tɔ.ma.ti"
     },
     {
-      "id": 300,
+      "id": 288,
       "date": "2027-01-13",
       "word": "Nidoreux",
       "type": "Adjectif",
@@ -3987,7 +3829,7 @@
       "phonetics": "ni.dɔ.ʁø"
     },
     {
-      "id": 301,
+      "id": 289,
       "date": "2027-01-14",
       "word": "Clinomanie",
       "type": "Nom féminin",
@@ -4000,7 +3842,7 @@
       "phonetics": "kli.nɔ.ma.ni"
     },
     {
-      "id": 302,
+      "id": 290,
       "date": "2027-01-15",
       "word": "Hallali",
       "type": "Nom masculin",
@@ -4013,7 +3855,7 @@
       "phonetics": "a.la.li"
     },
     {
-      "id": 303,
+      "id": 291,
       "date": "2027-01-16",
       "word": "Sycophante",
       "type": "Nom masculin",
@@ -4026,7 +3868,7 @@
       "phonetics": "si.kɔ.fɑ̃t"
     },
     {
-      "id": 304,
+      "id": 292,
       "date": "2027-01-17",
       "word": "Licencieux",
       "type": "Adjectif",
@@ -4039,7 +3881,7 @@
       "phonetics": "li.sɑ̃.sjø"
     },
     {
-      "id": 305,
+      "id": 293,
       "date": "2027-01-18",
       "word": "Aber",
       "type": "Nom masculin",
@@ -4052,7 +3894,7 @@
       "phonetics": "a.bɛʁ"
     },
     {
-      "id": 306,
+      "id": 294,
       "date": "2027-01-19",
       "word": "Gélif",
       "type": "Adjectif",
@@ -4065,7 +3907,7 @@
       "phonetics": "ʒe.lif"
     },
     {
-      "id": 307,
+      "id": 295,
       "date": "2027-01-20",
       "word": "Prodigalité",
       "type": "Nom féminin",
@@ -4080,7 +3922,7 @@
       "phonetics": "pʁɔ.di.ɡa.li.te"
     },
     {
-      "id": 308,
+      "id": 296,
       "date": "2027-01-21",
       "word": "Capricant",
       "type": "Adjectif",
@@ -4094,7 +3936,7 @@
       "phonetics": "ka.pʁi.kɑ̃"
     },
     {
-      "id": 309,
+      "id": 297,
       "date": "2027-01-22",
       "word": "Diligenter",
       "type": "Verbe",
@@ -4107,7 +3949,7 @@
       "phonetics": "di.li.ʒɑ̃.te"
     },
     {
-      "id": 310,
+      "id": 298,
       "date": "2027-01-23",
       "word": "Vétille",
       "type": "Nom féminin",
@@ -4120,7 +3962,7 @@
       "phonetics": "ve.tij"
     },
     {
-      "id": 311,
+      "id": 299,
       "date": "2027-01-24",
       "word": "Pérégrin",
       "type": "Nom",
@@ -4133,7 +3975,7 @@
       "phonetics": "pe.ʁe.ɡʁɛ̃"
     },
     {
-      "id": 312,
+      "id": 300,
       "date": "2027-01-25",
       "word": "Béotien",
       "type": "Adjectif et nom",
@@ -4146,7 +3988,7 @@
       "phonetics": "be.ɔ.sjɛ̃"
     },
     {
-      "id": 313,
+      "id": 301,
       "date": "2027-01-26",
       "word": "Gouape",
       "type": "Nom féminin",
@@ -4159,7 +4001,7 @@
       "phonetics": "ɡwap"
     },
     {
-      "id": 314,
+      "id": 302,
       "date": "2027-01-27",
       "word": "Flavescent",
       "type": "Adjectif",
@@ -4172,7 +4014,7 @@
       "phonetics": "fla.ve.sɑ̃"
     },
     {
-      "id": 315,
+      "id": 303,
       "date": "2027-01-28",
       "word": "Esbroufe",
       "type": "Nom féminin",
@@ -4185,7 +4027,7 @@
       "phonetics": "ɛs.bʁuf"
     },
     {
-      "id": 316,
+      "id": 304,
       "date": "2027-01-29",
       "word": "Ménétrier",
       "type": "Nom masculin",
@@ -4198,7 +4040,7 @@
       "phonetics": "me.ne.tʁi.je"
     },
     {
-      "id": 317,
+      "id": 305,
       "date": "2027-01-30",
       "word": "Hypogée",
       "type": "Nom masculin",
@@ -4211,7 +4053,7 @@
       "phonetics": "i.pɔ.ʒe"
     },
     {
-      "id": 318,
+      "id": 306,
       "date": "2027-01-31",
       "word": "Onirisme",
       "type": "Nom masculin",
@@ -4225,7 +4067,7 @@
       "phonetics": "ɔ.ni.ʁism"
     },
     {
-      "id": 319,
+      "id": 307,
       "date": "2027-02-01",
       "word": "Incoercible",
       "type": "Adjectif",
@@ -4239,7 +4081,7 @@
       "phonetics": "ɛ̃.kɔ.ɛʁ.sibl"
     },
     {
-      "id": 320,
+      "id": 308,
       "date": "2027-02-02",
       "word": "Sbire",
       "type": "Nom masculin",
@@ -4252,7 +4094,7 @@
       "phonetics": "zbiʁ"
     },
     {
-      "id": 321,
+      "id": 309,
       "date": "2027-02-03",
       "word": "Volubile",
       "type": "Adjectif",
@@ -4265,7 +4107,7 @@
       "phonetics": "vɔ.ly.bil"
     },
     {
-      "id": 322,
+      "id": 310,
       "date": "2027-02-04",
       "word": "Assuétude",
       "type": "Nom féminin",
@@ -4279,7 +4121,7 @@
       "phonetics": "a.sɥe.tyd"
     },
     {
-      "id": 323,
+      "id": 311,
       "date": "2027-02-05",
       "word": "Pérennité",
       "type": "Nom féminin",
@@ -4292,7 +4134,7 @@
       "phonetics": "pe.ʁɛ.ni.te"
     },
     {
-      "id": 324,
+      "id": 312,
       "date": "2027-02-06",
       "word": "Acmé",
       "type": "Nom masculin ou féminin",
@@ -4306,7 +4148,7 @@
       "phonetics": "ak.me"
     },
     {
-      "id": 325,
+      "id": 313,
       "date": "2027-02-07",
       "word": "Ignivome",
       "type": "Adjectif",
@@ -4319,7 +4161,7 @@
       "phonetics": "i.ɲi.vom"
     },
     {
-      "id": 326,
+      "id": 314,
       "date": "2027-02-08",
       "word": "Somptuaire",
       "type": "Adjectif",
@@ -4332,7 +4174,7 @@
       "phonetics": "sɔ̃p.tɥɛʁ"
     },
     {
-      "id": 327,
+      "id": 315,
       "date": "2027-02-09",
       "word": "Concomitance",
       "type": "Nom féminin",
@@ -4345,7 +4187,7 @@
       "phonetics": "kɔ̃.kɔ.mi.tɑ̃s"
     },
     {
-      "id": 328,
+      "id": 316,
       "date": "2027-02-10",
       "word": "Débilitant",
       "type": "Adjectif",
@@ -4360,7 +4202,7 @@
       "phonetics": "de.bi.li.tɑ̃"
     },
     {
-      "id": 329,
+      "id": 317,
       "date": "2027-02-11",
       "word": "Ataraxie",
       "type": "Nom féminin",
@@ -4373,7 +4215,7 @@
       "phonetics": "a.ta.ʁak.si"
     },
     {
-      "id": 330,
+      "id": 318,
       "date": "2027-02-12",
       "word": "Pulvérulent",
       "type": "Adjectif",
@@ -4386,7 +4228,7 @@
       "phonetics": "pyl.ve.ʁy.lɑ̃"
     },
     {
-      "id": 331,
+      "id": 319,
       "date": "2027-02-13",
       "word": "Omineux",
       "type": "Adjectif",
@@ -4399,7 +4241,7 @@
       "phonetics": "ɔ.mi.nø"
     },
     {
-      "id": 332,
+      "id": 320,
       "date": "2027-02-14",
       "word": "Caligineux",
       "type": "Adjectif",
@@ -4413,7 +4255,7 @@
       "phonetics": "ka.li.ʒi.nø"
     },
     {
-      "id": 333,
+      "id": 321,
       "date": "2027-02-15",
       "word": "Chimère",
       "type": "Nom féminin",
@@ -4427,7 +4269,7 @@
       "phonetics": "ʃi.mɛʁ"
     },
     {
-      "id": 334,
+      "id": 322,
       "date": "2027-02-16",
       "word": "Histrion",
       "type": "Nom masculin",
@@ -4442,7 +4284,7 @@
       "phonetics": "is.tʁi.jɔ̃"
     },
     {
-      "id": 335,
+      "id": 323,
       "date": "2027-02-17",
       "word": "Valétudinaire",
       "type": "Adjectif et nom",
@@ -4455,7 +4297,7 @@
       "phonetics": "va.le.ty.di.nɛʁ"
     },
     {
-      "id": 336,
+      "id": 324,
       "date": "2027-02-18",
       "word": "Abstème",
       "type": "Adjectif et nom",
@@ -4468,7 +4310,7 @@
       "phonetics": "ab.stɛm"
     },
     {
-      "id": 337,
+      "id": 325,
       "date": "2027-02-19",
       "word": "Imprécation",
       "type": "Nom féminin",
@@ -4481,7 +4323,7 @@
       "phonetics": "ɛ̃.pʁe.ka.sjɔ̃"
     },
     {
-      "id": 338,
+      "id": 326,
       "date": "2027-02-20",
       "word": "Sibyllin",
       "type": "Adjectif",
@@ -4494,7 +4336,7 @@
       "phonetics": "si.bi.lɛ̃"
     },
     {
-      "id": 339,
+      "id": 327,
       "date": "2027-02-21",
       "word": "Pérégrination",
       "type": "Nom féminin",
@@ -4508,7 +4350,7 @@
       "phonetics": "pe.ʁe.ɡʁi.na.sjɔ̃"
     },
     {
-      "id": 340,
+      "id": 328,
       "date": "2027-02-22",
       "word": "Rogue",
       "type": "Adjectif",
@@ -4521,7 +4363,7 @@
       "phonetics": "ʁɔɡ"
     },
     {
-      "id": 341,
+      "id": 329,
       "date": "2027-02-23",
       "word": "Outrecuidance",
       "type": "Nom féminin",
@@ -4535,7 +4377,7 @@
       "phonetics": "u.tʁə.kɥi.dɑ̃s"
     },
     {
-      "id": 342,
+      "id": 330,
       "date": "2027-02-24",
       "word": "Boustrophédon",
       "type": "Nom masculin",
@@ -4548,7 +4390,7 @@
       "phonetics": "bus.tʁɔ.fe.dɔ̃"
     },
     {
-      "id": 343,
+      "id": 331,
       "date": "2027-02-25",
       "word": "Minaudière",
       "type": "Nom féminin",
@@ -4561,7 +4403,7 @@
       "phonetics": "mi.no.djɛʁ"
     },
     {
-      "id": 344,
+      "id": 332,
       "date": "2027-02-26",
       "word": "Lénifiant",
       "type": "Adjectif",
@@ -4575,7 +4417,7 @@
       "phonetics": "le.ni.fjɑ̃"
     },
     {
-      "id": 345,
+      "id": 333,
       "date": "2027-02-27",
       "word": "Suborner",
       "type": "Verbe",
@@ -4590,7 +4432,7 @@
       "phonetics": "sy.bɔʁ.ne"
     },
     {
-      "id": 346,
+      "id": 334,
       "date": "2027-02-28",
       "word": "S’ébaudir",
       "type": "Verbe",
@@ -4603,7 +4445,7 @@
       "phonetics": "s‿e.bo.diʁ"
     },
     {
-      "id": 347,
+      "id": 335,
       "date": "2027-03-01",
       "word": "Sinécure",
       "type": "Nom féminin",
@@ -4616,7 +4458,7 @@
       "phonetics": "si.ne.kyʁ"
     },
     {
-      "id": 348,
+      "id": 336,
       "date": "2027-03-02",
       "word": "Grégaire",
       "type": "Adjectif",
@@ -4630,7 +4472,7 @@
       "phonetics": "ɡʁe.ɡɛʁ"
     },
     {
-      "id": 349,
+      "id": 337,
       "date": "2027-03-03",
       "word": "Cicérone",
       "type": "Nom masculin",
@@ -4643,7 +4485,7 @@
       "phonetics": "si.se.ʁɔn"
     },
     {
-      "id": 350,
+      "id": 338,
       "date": "2027-03-04",
       "word": "Perfidie",
       "type": "Nom féminin",
@@ -4656,7 +4498,7 @@
       "phonetics": "pɛʁ.fi.di"
     },
     {
-      "id": 351,
+      "id": 339,
       "date": "2027-03-05",
       "word": "Idoine",
       "type": "Adjectif",
@@ -4669,7 +4511,7 @@
       "phonetics": "i.dwan"
     },
     {
-      "id": 352,
+      "id": 340,
       "date": "2027-03-06",
       "word": "Tancer",
       "type": "Verbe",
@@ -4682,7 +4524,7 @@
       "phonetics": "tɑ̃.se"
     },
     {
-      "id": 353,
+      "id": 341,
       "date": "2027-03-07",
       "word": "Effigie",
       "type": "Nom féminin",
@@ -4695,7 +4537,7 @@
       "phonetics": "ɛ.fi.ʒi"
     },
     {
-      "id": 354,
+      "id": 342,
       "date": "2027-03-08",
       "word": "Ignicole",
       "type": "Adjectif et nom",
@@ -4708,7 +4550,7 @@
       "phonetics": "i.ɲi.kɔl"
     },
     {
-      "id": 355,
+      "id": 343,
       "date": "2027-03-09",
       "word": "Suivez-moi-jeune-homme",
       "type": "Nom masculin",
@@ -4721,7 +4563,7 @@
       "phonetics": "sɥi.ve.mwa.ʒœ.n‿ɔm"
     },
     {
-      "id": 356,
+      "id": 344,
       "date": "2027-03-10",
       "word": "Calomnie",
       "type": "Nom féminin",
@@ -4734,7 +4576,7 @@
       "phonetics": "ka.lɔm.ni"
     },
     {
-      "id": 357,
+      "id": 345,
       "date": "2027-03-11",
       "word": "Salmigondis",
       "type": "Nom masculin",
@@ -4747,7 +4589,7 @@
       "phonetics": "sal.mi.ɡɔ̃.di"
     },
     {
-      "id": 358,
+      "id": 346,
       "date": "2027-03-12",
       "word": "Vérécondieux",
       "type": "Adjectif",
@@ -4760,7 +4602,7 @@
       "phonetics": "ve.ʁe.kɔ̃.djø"
     },
     {
-      "id": 359,
+      "id": 347,
       "date": "2027-03-13",
       "word": "Laconique",
       "type": "Adjectif",
@@ -4773,7 +4615,7 @@
       "phonetics": "la.kɔ.nik"
     },
     {
-      "id": 360,
+      "id": 348,
       "date": "2027-03-14",
       "word": "Exsuder",
       "type": "Verbe",
@@ -4787,7 +4629,7 @@
       "phonetics": "ɛk.sy.de"
     },
     {
-      "id": 361,
+      "id": 349,
       "date": "2027-03-15",
       "word": "Sentine",
       "type": "Nom féminin",
@@ -4800,7 +4642,7 @@
       "phonetics": "sɑ̃.tin"
     },
     {
-      "id": 362,
+      "id": 350,
       "date": "2027-03-16",
       "word": "Épigone",
       "type": "Nom masculin",
@@ -4813,7 +4655,7 @@
       "phonetics": "e.pi.ɡɔn"
     },
     {
-      "id": 363,
+      "id": 351,
       "date": "2027-03-17",
       "word": "Lucaniste",
       "type": "Nom",
@@ -4826,7 +4668,7 @@
       "phonetics": "ly.ka.nist"
     },
     {
-      "id": 364,
+      "id": 352,
       "date": "2027-03-18",
       "word": "Apodictique",
       "type": "Adjectif",
@@ -4839,7 +4681,7 @@
       "phonetics": "a.pɔ.dik.tik"
     },
     {
-      "id": 365,
+      "id": 353,
       "date": "2027-03-19",
       "word": "Impavide",
       "type": "Adjectif",
@@ -4852,7 +4694,7 @@
       "phonetics": "ɛ̃.pa.vid"
     },
     {
-      "id": 366,
+      "id": 354,
       "date": "2027-03-20",
       "word": "Hâve",
       "type": "Adjectif",
@@ -4865,7 +4707,7 @@
       "phonetics": "ɑv"
     },
     {
-      "id": 367,
+      "id": 355,
       "date": "2027-03-21",
       "word": "Fomenter",
       "type": "Verbe",
@@ -4878,7 +4720,7 @@
       "phonetics": "fɔ.mɑ̃.te"
     },
     {
-      "id": 368,
+      "id": 356,
       "date": "2027-03-22",
       "word": "Inexorable",
       "type": "Adjectif",
@@ -4891,7 +4733,7 @@
       "phonetics": "i.nɛɡ.zɔ.ʁabl"
     },
     {
-      "id": 369,
+      "id": 357,
       "date": "2027-03-23",
       "word": "Métempirique",
       "type": "Adjectif",
@@ -4904,7 +4746,7 @@
       "phonetics": "me.tɑ̃.pi.ʁik"
     },
     {
-      "id": 370,
+      "id": 358,
       "date": "2027-03-24",
       "word": "Encoignure",
       "type": "Nom féminin",
@@ -4918,7 +4760,7 @@
       "phonetics": "ɑ̃.kɔ.ɲyʁ"
     },
     {
-      "id": 371,
+      "id": 359,
       "date": "2027-03-25",
       "word": "Pétrichor",
       "type": "Nom masculin",
@@ -4931,7 +4773,7 @@
       "phonetics": "pe.tʁi.kɔʁ"
     },
     {
-      "id": 372,
+      "id": 360,
       "date": "2027-03-26",
       "word": "Capiteux",
       "type": "Adjectif",
@@ -4945,7 +4787,7 @@
       "phonetics": "ka.pi.tø"
     },
     {
-      "id": 373,
+      "id": 361,
       "date": "2027-03-27",
       "word": "Retors",
       "type": "Adjectif",
@@ -4958,7 +4800,7 @@
       "phonetics": "ʁə.tɔʁ"
     },
     {
-      "id": 374,
+      "id": 362,
       "date": "2027-03-28",
       "word": "Récipiendaire",
       "type": "Nom masculin ou féminin",
@@ -4971,7 +4813,7 @@
       "phonetics": "ʁe.si.pjɑ̃.dɛʁ"
     },
     {
-      "id": 375,
+      "id": 363,
       "date": "2027-03-29",
       "word": "Astérie",
       "type": "Nom féminin",
@@ -4985,7 +4827,7 @@
       "phonetics": "as.te.ʁi"
     },
     {
-      "id": 376,
+      "id": 364,
       "date": "2027-03-30",
       "word": "Philologie",
       "type": "Nom féminin",
@@ -4998,7 +4840,7 @@
       "phonetics": "fi.lɔ.lɔ.ʒi"
     },
     {
-      "id": 377,
+      "id": 365,
       "date": "2027-03-31",
       "word": "Echauguette",
       "type": "Nom féminin",
@@ -5011,7 +4853,7 @@
       "phonetics": null
     },
     {
-      "id": 378,
+      "id": 366,
       "date": "2027-04-01",
       "word": "Forfanterie",
       "type": "Nom féminin",
@@ -5025,7 +4867,7 @@
       "phonetics": "fɔʁ.fɑ̃t.ʁi"
     },
     {
-      "id": 379,
+      "id": 367,
       "date": "2027-04-02",
       "word": "Escalabreux",
       "type": "Adjectif",
@@ -5039,7 +4881,7 @@
       "phonetics": "ɛs.ka.la.bʁø"
     },
     {
-      "id": 380,
+      "id": 368,
       "date": "2027-04-03",
       "word": "Présomption",
       "type": "Nom féminin",
@@ -5053,7 +4895,7 @@
       "phonetics": "pʁe.zɔ̃p.sjɔ̃"
     },
     {
-      "id": 381,
+      "id": 369,
       "date": "2027-04-04",
       "word": "Halieutique",
       "type": "Adjectif",
@@ -5066,7 +4908,7 @@
       "phonetics": "a.ljø.tik"
     },
     {
-      "id": 382,
+      "id": 370,
       "date": "2027-04-05",
       "word": "Bourgeron",
       "type": "Nom masculin",
@@ -5079,7 +4921,7 @@
       "phonetics": "buʁ.ʒə.ʁɔ̃"
     },
     {
-      "id": 383,
+      "id": 371,
       "date": "2027-04-06",
       "word": "Subsidiaire",
       "type": "Adjectif",
@@ -5093,7 +4935,7 @@
       "phonetics": "syb.zi.djɛʁ"
     },
     {
-      "id": 384,
+      "id": 372,
       "date": "2027-04-07",
       "word": "Nonpareil",
       "type": "Adjectif",
@@ -5106,7 +4948,7 @@
       "phonetics": "nɔ̃.pa.ʁɛj"
     },
     {
-      "id": 385,
+      "id": 373,
       "date": "2027-04-08",
       "word": "Zinzinuler",
       "type": "Verbe",
@@ -5120,7 +4962,7 @@
       "phonetics": "zɛ̃.zi.ny.le"
     },
     {
-      "id": 386,
+      "id": 374,
       "date": "2027-04-09",
       "word": "Flegmatique",
       "type": "Adjectif et nom",
@@ -5133,7 +4975,7 @@
       "phonetics": "flɛɡ.ma.tik"
     },
     {
-      "id": 387,
+      "id": 375,
       "date": "2027-04-10",
       "word": "Obvier",
       "type": "Verbe",
@@ -5147,7 +4989,7 @@
       "phonetics": "ɔb.vje"
     },
     {
-      "id": 388,
+      "id": 376,
       "date": "2027-04-11",
       "word": "Odoriférant",
       "type": "Adjectif",
@@ -5160,7 +5002,7 @@
       "phonetics": "ɔ.dɔ.ʁi.fe.ʁɑ̃"
     },
     {
-      "id": 389,
+      "id": 377,
       "date": "2027-04-12",
       "word": "Litanie",
       "type": "Nom féminin",
@@ -5173,7 +5015,7 @@
       "phonetics": "li.ta.ni"
     },
     {
-      "id": 390,
+      "id": 378,
       "date": "2027-04-13",
       "word": "Déprédation",
       "type": "Nom féminin",
@@ -5187,7 +5029,7 @@
       "phonetics": "de.pʁe.da.sjɔ̃"
     },
     {
-      "id": 391,
+      "id": 379,
       "date": "2027-04-14",
       "word": "Scorie",
       "type": "Nom féminin",
@@ -5200,7 +5042,7 @@
       "phonetics": "skɔ.ʁi"
     },
     {
-      "id": 392,
+      "id": 380,
       "date": "2027-04-15",
       "word": "Exorable",
       "type": "Adjectif",
@@ -5213,7 +5055,7 @@
       "phonetics": "ɛɡ.zɔ.ʁabl"
     },
     {
-      "id": 393,
+      "id": 381,
       "date": "2027-04-16",
       "word": "Népotisme",
       "type": "Nom masculin",
@@ -5227,7 +5069,7 @@
       "phonetics": "ne.pɔ.tism"
     },
     {
-      "id": 394,
+      "id": 382,
       "date": "2027-04-17",
       "word": "Dissension",
       "type": "Nom féminin",
@@ -5241,7 +5083,7 @@
       "phonetics": "di.sɑ̃.sjɔ̃"
     },
     {
-      "id": 395,
+      "id": 383,
       "date": "2027-04-18",
       "word": "Vespéral",
       "type": "Adjectif",
@@ -5254,7 +5096,7 @@
       "phonetics": "vɛs.pe.ʁal"
     },
     {
-      "id": 396,
+      "id": 384,
       "date": "2027-04-19",
       "word": "Grivois",
       "type": "Adjectif",
@@ -5268,7 +5110,7 @@
       "phonetics": "ɡʁi.vwa"
     },
     {
-      "id": 397,
+      "id": 385,
       "date": "2027-04-20",
       "word": "conurbation",
       "type": "Nom féminin",
@@ -5281,7 +5123,7 @@
       "phonetics": "kɔ.nyʁ.ba.sjɔ̃"
     },
     {
-      "id": 398,
+      "id": 386,
       "date": "2027-04-21",
       "word": "Radouber",
       "type": "Verbe",
@@ -5294,7 +5136,7 @@
       "phonetics": "ʁa.du.be"
     },
     {
-      "id": 399,
+      "id": 387,
       "date": "2027-04-22",
       "word": "Piriforme",
       "type": "Adjectif",
@@ -5307,7 +5149,7 @@
       "phonetics": "pi.ʁi.fɔʁm"
     },
     {
-      "id": 400,
+      "id": 388,
       "date": "2027-04-23",
       "word": "Embrouillamini",
       "type": "Nom masculin",
@@ -5320,7 +5162,7 @@
       "phonetics": "ɑ̃.bʁu.ja.mi.ni"
     },
     {
-      "id": 401,
+      "id": 389,
       "date": "2027-04-24",
       "word": "Mantique",
       "type": "Nom féminin",
@@ -5333,7 +5175,7 @@
       "phonetics": "mɑ̃.tik"
     },
     {
-      "id": 402,
+      "id": 390,
       "date": "2027-04-25",
       "word": "Longanimité",
       "type": "Nom féminin",
@@ -5346,7 +5188,7 @@
       "phonetics": "lɔ̃.ɡa.ni.mi.te"
     },
     {
-      "id": 403,
+      "id": 391,
       "date": "2027-04-26",
       "word": "Fallacieux",
       "type": "Adjectif",
@@ -5359,7 +5201,7 @@
       "phonetics": "fa.la.sjø"
     },
     {
-      "id": 404,
+      "id": 392,
       "date": "2027-04-27",
       "word": "Séculaire",
       "type": "Adjectif",
@@ -5373,7 +5215,7 @@
       "phonetics": "se.ky.lɛʁ"
     },
     {
-      "id": 405,
+      "id": 393,
       "date": "2027-04-28",
       "word": "Éventiller",
       "type": "Verbe",
@@ -5386,7 +5228,7 @@
       "phonetics": "e.vɑ̃.ti.je"
     },
     {
-      "id": 406,
+      "id": 394,
       "date": "2027-04-29",
       "word": "Marmoréen",
       "type": "Adjectif",
@@ -5400,7 +5242,7 @@
       "phonetics": "maʁ.mɔ.ʁe.ɛ̃"
     },
     {
-      "id": 407,
+      "id": 395,
       "date": "2027-04-30",
       "word": "Géhenne",
       "type": "Nom féminin",
@@ -5414,7 +5256,7 @@
       "phonetics": "ʒe.ɛn"
     },
     {
-      "id": 408,
+      "id": 396,
       "date": "2027-05-01",
       "word": "Sinistrogyre",
       "type": "Adjectif",
@@ -5427,7 +5269,7 @@
       "phonetics": "si.nis.tʁo.ʒiʁ"
     },
     {
-      "id": 409,
+      "id": 397,
       "date": "2027-05-02",
       "word": "Herméneutique",
       "type": "Nom féminin",
@@ -5441,7 +5283,7 @@
       "phonetics": "ɛʁ.me.nø.tik"
     },
     {
-      "id": 410,
+      "id": 398,
       "date": "2027-05-03",
       "word": "Éthéré",
       "type": "Adjectif",
@@ -5455,7 +5297,7 @@
       "phonetics": "e.te.ʁe"
     },
     {
-      "id": 411,
+      "id": 399,
       "date": "2027-05-04",
       "word": "Génuine",
       "type": "Adjectif",
@@ -5468,7 +5310,7 @@
       "phonetics": "ʒe.nɥin"
     },
     {
-      "id": 412,
+      "id": 400,
       "date": "2027-05-05",
       "word": "Morigéner",
       "type": "Verbe",
@@ -5482,7 +5324,7 @@
       "phonetics": "mɔ.ʁi.ʒe.ne"
     },
     {
-      "id": 413,
+      "id": 401,
       "date": "2027-05-06",
       "word": "Sagacité",
       "type": "Nom féminin",
@@ -5495,7 +5337,7 @@
       "phonetics": "sa.ɡa.si.te"
     },
     {
-      "id": 414,
+      "id": 402,
       "date": "2027-05-07",
       "word": "Ecornifleur",
       "type": "Nom",
@@ -5509,7 +5351,7 @@
       "phonetics": null
     },
     {
-      "id": 415,
+      "id": 403,
       "date": "2027-05-08",
       "word": "Anacyclique",
       "type": "Adjectif",
@@ -5522,7 +5364,7 @@
       "phonetics": "a.na.si.klik"
     },
     {
-      "id": 416,
+      "id": 404,
       "date": "2027-05-09",
       "word": "Umami",
       "type": "Nom masculin",
@@ -5535,7 +5377,7 @@
       "phonetics": "u.ma.mi"
     },
     {
-      "id": 417,
+      "id": 405,
       "date": "2027-05-10",
       "word": "Flagornerie",
       "type": "Nom féminin",
@@ -5549,7 +5391,7 @@
       "phonetics": "fla.ɡɔʁ.nə.ʁi"
     },
     {
-      "id": 418,
+      "id": 406,
       "date": "2027-05-11",
       "word": "Lazzi",
       "type": "Nom masculin",
@@ -5562,7 +5404,7 @@
       "phonetics": "la.zi"
     },
     {
-      "id": 419,
+      "id": 407,
       "date": "2027-05-12",
       "word": "Truculent",
       "type": "Adjectif",
@@ -5575,7 +5417,7 @@
       "phonetics": "tʁy.ky.lɑ̃"
     },
     {
-      "id": 420,
+      "id": 408,
       "date": "2027-05-13",
       "word": "Palimpseste",
       "type": "Nom masculin",
@@ -5588,7 +5430,7 @@
       "phonetics": "pa.lɛ̃p.sɛst"
     },
     {
-      "id": 421,
+      "id": 409,
       "date": "2027-05-14",
       "word": "Lupanar",
       "type": "Nom masculin",
@@ -5601,7 +5443,7 @@
       "phonetics": "ly.pa.naʁ"
     },
     {
-      "id": 422,
+      "id": 410,
       "date": "2027-05-15",
       "word": "Freluquet",
       "type": "Nom masculin",
@@ -5614,7 +5456,7 @@
       "phonetics": "fʁə.ly.kɛ"
     },
     {
-      "id": 423,
+      "id": 411,
       "date": "2027-05-16",
       "word": "Vistemboir",
       "type": "Nom masculin",
@@ -5627,7 +5469,7 @@
       "phonetics": "vis.tɑ̃.bwaʁ"
     },
     {
-      "id": 424,
+      "id": 412,
       "date": "2027-05-17",
       "word": "Calembredaine",
       "type": "Nom féminin",
@@ -5640,7 +5482,7 @@
       "phonetics": "ka.lɑ̃.bʁə.dɛn"
     },
     {
-      "id": 425,
+      "id": 413,
       "date": "2027-05-18",
       "word": "Zinzolin",
       "type": "Adjectif",
@@ -5653,7 +5495,7 @@
       "phonetics": "zɛ̃.zɔ.lɛ̃"
     },
     {
-      "id": 426,
+      "id": 414,
       "date": "2027-05-19",
       "word": "Vaticiner",
       "type": "Verbe",
@@ -5667,7 +5509,7 @@
       "phonetics": "va.ti.si.ne"
     },
     {
-      "id": 427,
+      "id": 415,
       "date": "2027-05-20",
       "word": "Obvie",
       "type": "Adjectif",
@@ -5680,7 +5522,7 @@
       "phonetics": "ɔb.vi"
     },
     {
-      "id": 428,
+      "id": 416,
       "date": "2027-05-21",
       "word": "Dyscole",
       "type": "Adjectif et nom",
@@ -5693,7 +5535,7 @@
       "phonetics": "di.skɔl"
     },
     {
-      "id": 429,
+      "id": 417,
       "date": "2027-05-22",
       "word": "Impéritie",
       "type": "Nom féminin",
@@ -5706,7 +5548,7 @@
       "phonetics": "ɛ̃.pe.ʁi.si"
     },
     {
-      "id": 430,
+      "id": 418,
       "date": "2027-05-23",
       "word": "Ineffable",
       "type": "Adjectif",
@@ -5720,7 +5562,7 @@
       "phonetics": "i.nɛ.fabl"
     },
     {
-      "id": 431,
+      "id": 419,
       "date": "2027-05-24",
       "word": "Obsidional",
       "type": "Adjectif",
@@ -5734,7 +5576,7 @@
       "phonetics": "ɔp.si.djɔ.nal"
     },
     {
-      "id": 432,
+      "id": 420,
       "date": "2027-05-25",
       "word": "Psithurisme",
       "type": "Nom masculin",
@@ -5747,7 +5589,7 @@
       "phonetics": "psi.ty.ʁism"
     },
     {
-      "id": 433,
+      "id": 421,
       "date": "2027-05-26",
       "word": "Équanime",
       "type": "Adjectif",
@@ -5760,7 +5602,7 @@
       "phonetics": "e.kwa.nim"
     },
     {
-      "id": 434,
+      "id": 422,
       "date": "2027-05-27",
       "word": "Conflagration",
       "type": "Nom féminin",
@@ -5774,7 +5616,7 @@
       "phonetics": "kɔ̃.fla.ɡʁa.sjɔ̃"
     },
     {
-      "id": 435,
+      "id": 423,
       "date": "2027-05-28",
       "word": "Liminal",
       "type": "Adjectif",
@@ -5787,7 +5629,7 @@
       "phonetics": "li.mi.nal"
     },
     {
-      "id": 436,
+      "id": 424,
       "date": "2027-05-29",
       "word": "Argutie",
       "type": "Nom féminin",
@@ -5800,7 +5642,7 @@
       "phonetics": "aʁ.ɡy.si"
     },
     {
-      "id": 437,
+      "id": 425,
       "date": "2027-05-30",
       "word": "Halitose",
       "type": "Nom féminin",
@@ -5813,7 +5655,7 @@
       "phonetics": "a.li.toz"
     },
     {
-      "id": 438,
+      "id": 426,
       "date": "2027-05-31",
       "word": "Ultracrépidarianisme",
       "type": "Nom masculin",
@@ -5826,7 +5668,7 @@
       "phonetics": "yl.tʁa.kʁe.pi.da.ʁja.nism"
     },
     {
-      "id": 439,
+      "id": 427,
       "date": "2027-06-01",
       "word": "Dulcifier",
       "type": "Verbe",
@@ -5840,7 +5682,7 @@
       "phonetics": "dyl.si.fje"
     },
     {
-      "id": 440,
+      "id": 428,
       "date": "2027-06-02",
       "word": "Aphorisme",
       "type": "Nom masculin",
@@ -5853,7 +5695,7 @@
       "phonetics": "a.fɔ.ʁism"
     },
     {
-      "id": 441,
+      "id": 429,
       "date": "2027-06-03",
       "word": "Logorrhée",
       "type": "Nom féminin",
@@ -5866,7 +5708,7 @@
       "phonetics": "lɔ.ɡɔ.ʁe"
     },
     {
-      "id": 442,
+      "id": 430,
       "date": "2027-06-04",
       "word": "Nonobstant",
       "type": "Préposition",
@@ -5879,7 +5721,7 @@
       "phonetics": "nɔ.nɔp.stɑ̃"
     },
     {
-      "id": 443,
+      "id": 431,
       "date": "2027-06-05",
       "word": "Délinéer",
       "type": "Verbe",
@@ -5892,7 +5734,7 @@
       "phonetics": "de.li.ne.e"
     },
     {
-      "id": 444,
+      "id": 432,
       "date": "2027-06-06",
       "word": "Vibrisses",
       "type": "Nom féminin",
@@ -5906,7 +5748,7 @@
       "phonetics": "vi.bʁis"
     },
     {
-      "id": 445,
+      "id": 433,
       "date": "2027-06-07",
       "word": "Tarauder",
       "type": "Verbe",
@@ -5919,7 +5761,7 @@
       "phonetics": "ta.ʁo.de"
     },
     {
-      "id": 446,
+      "id": 434,
       "date": "2027-06-08",
       "word": "Croquignolesque",
       "type": "Adjectif",
@@ -5932,7 +5774,7 @@
       "phonetics": "kʁo.ki.ɲo.lɛsk"
     },
     {
-      "id": 447,
+      "id": 435,
       "date": "2027-06-09",
       "word": "Doucereux",
       "type": "Adjectif",
@@ -5946,7 +5788,7 @@
       "phonetics": "du.sʁø"
     },
     {
-      "id": 448,
+      "id": 436,
       "date": "2027-06-10",
       "word": "Semonce",
       "type": "Nom féminin",
@@ -5959,7 +5801,7 @@
       "phonetics": "sə.mɔ̃s"
     },
     {
-      "id": 449,
+      "id": 437,
       "date": "2027-06-11",
       "word": "Kundalini",
       "type": "Nom féminin",
@@ -5972,7 +5814,7 @@
       "phonetics": "kun.da.li.ni"
     },
     {
-      "id": 450,
+      "id": 438,
       "date": "2027-06-12",
       "word": "Hypotypose",
       "type": "Nom féminin",
@@ -5985,7 +5827,7 @@
       "phonetics": "i.pɔ.ti.poz"
     },
     {
-      "id": 451,
+      "id": 439,
       "date": "2027-06-13",
       "word": "Recru",
       "type": "Adjectif",
@@ -5998,7 +5840,7 @@
       "phonetics": "ʁə.kʁy"
     },
     {
-      "id": 452,
+      "id": 440,
       "date": "2027-06-14",
       "word": "Catharsis",
       "type": "Nom féminin",
@@ -6012,7 +5854,7 @@
       "phonetics": "ka.taʁ.sis"
     },
     {
-      "id": 453,
+      "id": 441,
       "date": "2027-06-15",
       "word": "Velléité",
       "type": "Nom féminin",
@@ -6025,7 +5867,7 @@
       "phonetics": "ve.le.i.te"
     },
     {
-      "id": 454,
+      "id": 442,
       "date": "2027-06-16",
       "word": "Marcescent",
       "type": "Adjectif",
@@ -6038,7 +5880,7 @@
       "phonetics": "maʁ.se.sɑ̃"
     },
     {
-      "id": 455,
+      "id": 443,
       "date": "2027-06-17",
       "word": "Saunier",
       "type": "Nom masculin",
@@ -6051,7 +5893,7 @@
       "phonetics": "so.nje"
     },
     {
-      "id": 456,
+      "id": 444,
       "date": "2027-06-18",
       "word": "Fulgurer",
       "type": "Verbe",
@@ -6065,7 +5907,7 @@
       "phonetics": "fyl.ɡy.ʁe"
     },
     {
-      "id": 457,
+      "id": 445,
       "date": "2027-06-19",
       "word": "Architectonique",
       "type": "Adjectif",
@@ -6079,7 +5921,7 @@
       "phonetics": "aʁ.ʃi.tɛk.tɔ.nik"
     },
     {
-      "id": 458,
+      "id": 446,
       "date": "2027-06-20",
       "word": "Réminiscence",
       "type": "Nom féminin",
@@ -6093,7 +5935,7 @@
       "phonetics": "ʁe.mi.ni.sɑ̃s"
     },
     {
-      "id": 459,
+      "id": 447,
       "date": "2027-06-21",
       "word": "Régalien",
       "type": "Adjectif",
@@ -6106,7 +5948,7 @@
       "phonetics": "ʁe.ɡa.ljɛ̃"
     },
     {
-      "id": 460,
+      "id": 448,
       "date": "2027-06-22",
       "word": "Pélagique",
       "type": "Adjectif",
@@ -6119,7 +5961,7 @@
       "phonetics": "pe.la.ʒik"
     },
     {
-      "id": 461,
+      "id": 449,
       "date": "2027-06-23",
       "word": "Charivari",
       "type": "Nom masculin",
@@ -6132,7 +5974,7 @@
       "phonetics": "ʃa.ʁi.va.ʁi"
     },
     {
-      "id": 462,
+      "id": 450,
       "date": "2027-06-24",
       "word": "Girie",
       "type": "Nom féminin pluriel",
@@ -6145,7 +5987,7 @@
       "phonetics": "ʒi.ʁi"
     },
     {
-      "id": 463,
+      "id": 451,
       "date": "2027-06-25",
       "word": "Démiurge",
       "type": "Nom masculin",
@@ -6159,7 +6001,7 @@
       "phonetics": "de.mjyʁʒ"
     },
     {
-      "id": 464,
+      "id": 452,
       "date": "2027-06-26",
       "word": "Lusophone",
       "type": "Adjectif et nom",
@@ -6173,7 +6015,7 @@
       "phonetics": "ly.zɔ.fɔn"
     },
     {
-      "id": 465,
+      "id": 453,
       "date": "2027-06-27",
       "word": "Infatué",
       "type": "Verbe",
@@ -6187,7 +6029,7 @@
       "phonetics": "ɛ̃.fa.tɥe"
     },
     {
-      "id": 466,
+      "id": 454,
       "date": "2027-06-28",
       "word": "Obséquieux",
       "type": "Adjectif",
@@ -6200,7 +6042,7 @@
       "phonetics": "ɔp.se.kjø"
     },
     {
-      "id": 467,
+      "id": 455,
       "date": "2027-06-29",
       "word": "Tellurique",
       "type": "Adjectif",
@@ -6213,7 +6055,7 @@
       "phonetics": "te.ly.ʁik"
     },
     {
-      "id": 468,
+      "id": 456,
       "date": "2027-06-30",
       "word": "Diligent",
       "type": "Adjectif",
@@ -6227,7 +6069,7 @@
       "phonetics": "di.li.ʒɑ̃"
     },
     {
-      "id": 469,
+      "id": 457,
       "date": "2027-07-01",
       "word": "Véniel",
       "type": "Adjectif",
@@ -6240,7 +6082,7 @@
       "phonetics": "ve.njɛl"
     },
     {
-      "id": 470,
+      "id": 458,
       "date": "2027-07-02",
       "word": "Cauteleux",
       "type": "Adjectif",
@@ -6253,7 +6095,7 @@
       "phonetics": "ko.tlø"
     },
     {
-      "id": 471,
+      "id": 459,
       "date": "2027-07-03",
       "word": "Amphitryon",
       "type": "Nom masculin",
@@ -6266,7 +6108,7 @@
       "phonetics": "ɑ̃.fi.tʁi.jɔ̃"
     },
     {
-      "id": 472,
+      "id": 460,
       "date": "2027-07-04",
       "word": "Inique",
       "type": "Adjectif",
@@ -6279,7 +6121,7 @@
       "phonetics": "i.nik"
     },
     {
-      "id": 473,
+      "id": 461,
       "date": "2027-07-05",
       "word": "Coryphée",
       "type": "Nom masculin",
@@ -6294,7 +6136,7 @@
       "phonetics": "kɔ.ʁi.fe"
     },
     {
-      "id": 474,
+      "id": 462,
       "date": "2027-07-06",
       "word": "Jérémiade",
       "type": "Nom féminin",
@@ -6307,7 +6149,7 @@
       "phonetics": "ʒe.ʁe.mjad"
     },
     {
-      "id": 475,
+      "id": 463,
       "date": "2027-07-07",
       "word": "Apocryphe",
       "type": "Adjectif et nom masculin",
@@ -6320,7 +6162,7 @@
       "phonetics": "a.pɔ.kʁif"
     },
     {
-      "id": 476,
+      "id": 464,
       "date": "2027-07-08",
       "word": "Foucade",
       "type": "Nom féminin",
@@ -6333,7 +6175,7 @@
       "phonetics": "fu.kad"
     },
     {
-      "id": 477,
+      "id": 465,
       "date": "2027-07-09",
       "word": "Nystagmus",
       "type": "Nom masculin",
@@ -6346,7 +6188,7 @@
       "phonetics": "nis.taɡ.mys"
     },
     {
-      "id": 478,
+      "id": 466,
       "date": "2027-07-10",
       "word": "Perfide",
       "type": "Adjectif et nom",
@@ -6360,7 +6202,7 @@
       "phonetics": "pɛʁ.fid"
     },
     {
-      "id": 479,
+      "id": 467,
       "date": "2027-07-11",
       "word": "Dispendieux",
       "type": "Adjectif",
@@ -6373,7 +6215,7 @@
       "phonetics": "dis.pɑ̃.djø"
     },
     {
-      "id": 480,
+      "id": 468,
       "date": "2027-07-12",
       "word": "Pestilentiel",
       "type": "Adjectif",
@@ -6386,7 +6228,7 @@
       "phonetics": "pɛs.ti.lɑ̃.sjɛl"
     },
     {
-      "id": 481,
+      "id": 469,
       "date": "2027-07-13",
       "word": "Impétrant",
       "type": "Nom",
@@ -6399,7 +6241,7 @@
       "phonetics": "ɛ̃.pe.tʁɑ̃"
     },
     {
-      "id": 482,
+      "id": 470,
       "date": "2027-07-14",
       "word": "Celer",
       "type": "Verbe",
@@ -6412,7 +6254,7 @@
       "phonetics": "sə.le"
     },
     {
-      "id": 483,
+      "id": 471,
       "date": "2027-07-15",
       "word": "Panégyrique",
       "type": "Nom masculin",
@@ -6425,7 +6267,7 @@
       "phonetics": "pa.ne.ʒi.ʁik"
     },
     {
-      "id": 484,
+      "id": 472,
       "date": "2027-07-16",
       "word": "Rastaquouère",
       "type": "Nom masculin",
@@ -6438,7 +6280,7 @@
       "phonetics": "ʁas.ta.kwɛʁ"
     },
     {
-      "id": 485,
+      "id": 473,
       "date": "2027-07-17",
       "word": "Javeau",
       "type": "Nom masculin",
@@ -6451,7 +6293,7 @@
       "phonetics": "ʒa.vo"
     },
     {
-      "id": 486,
+      "id": 474,
       "date": "2027-07-18",
       "word": "Turpide",
       "type": "Adjectif",
@@ -6464,7 +6306,7 @@
       "phonetics": "tyʁ.pid"
     },
     {
-      "id": 487,
+      "id": 475,
       "date": "2027-07-19",
       "word": "Dichotomie",
       "type": "Nom féminin",
@@ -6478,7 +6320,7 @@
       "phonetics": "di.kɔ.tɔ.mi"
     },
     {
-      "id": 488,
+      "id": 476,
       "date": "2027-07-20",
       "word": "Cuspide",
       "type": "Nom féminin",
@@ -6493,7 +6335,7 @@
       "phonetics": "kys.pid"
     },
     {
-      "id": 489,
+      "id": 477,
       "date": "2027-07-21",
       "word": "Anthologie",
       "type": "Nom féminin",
@@ -6506,7 +6348,7 @@
       "phonetics": "ɑ̃.tɔ.lɔ.ʒi"
     },
     {
-      "id": 490,
+      "id": 478,
       "date": "2027-07-22",
       "word": "Patibulaire",
       "type": "Adjectif et nom",
@@ -6519,7 +6361,7 @@
       "phonetics": "pa.ti.by.lɛʁ"
     },
     {
-      "id": 491,
+      "id": 479,
       "date": "2027-07-23",
       "word": "Proroger",
       "type": "Verbe",
@@ -6533,7 +6375,7 @@
       "phonetics": "pʁɔ.ʁɔ.ʒe"
     },
     {
-      "id": 492,
+      "id": 480,
       "date": "2027-07-24",
       "word": "Ebbe",
       "type": "Nom féminin",
@@ -6546,7 +6388,7 @@
       "phonetics": "ɛb"
     },
     {
-      "id": 493,
+      "id": 481,
       "date": "2027-07-25",
       "word": "hallux",
       "type": "Nom masculin",
@@ -6559,7 +6401,7 @@
       "phonetics": "a.lyks"
     },
     {
-      "id": 494,
+      "id": 482,
       "date": "2027-07-26",
       "word": "Diaphane",
       "type": "Adjectif",
@@ -6573,7 +6415,7 @@
       "phonetics": "dja.fan"
     },
     {
-      "id": 495,
+      "id": 483,
       "date": "2027-07-27",
       "word": "Ignominie",
       "type": "Nom féminin",
@@ -6587,7 +6429,7 @@
       "phonetics": "i.ɲɔ.mi.ni"
     },
     {
-      "id": 496,
+      "id": 484,
       "date": "2027-07-28",
       "word": "Endogamie",
       "type": "Nom féminin",
@@ -6600,7 +6442,7 @@
       "phonetics": "ɑ̃.dɔ.ɡa.mi"
     },
     {
-      "id": 497,
+      "id": 485,
       "date": "2027-07-29",
       "word": "Ingambe",
       "type": "Adjectif",
@@ -6613,7 +6455,7 @@
       "phonetics": "ɛ̃.ɡɑ̃b"
     },
     {
-      "id": 498,
+      "id": 486,
       "date": "2027-07-30",
       "word": "Satisfactoire",
       "type": "Adjectif",
@@ -6626,7 +6468,7 @@
       "phonetics": null
     },
     {
-      "id": 499,
+      "id": 487,
       "date": "2027-07-31",
       "word": "Conciliabule",
       "type": "Nom masculin",
@@ -6639,7 +6481,7 @@
       "phonetics": "kɔ̃.si.lja.byl"
     },
     {
-      "id": 500,
+      "id": 488,
       "date": "2027-08-01",
       "word": "Reître",
       "type": "Nom masculin",
@@ -6652,7 +6494,7 @@
       "phonetics": "ʁɛtʁ"
     },
     {
-      "id": 501,
+      "id": 489,
       "date": "2027-08-02",
       "word": "Tintamarre",
       "type": "Nom masculin",
@@ -6665,7 +6507,7 @@
       "phonetics": "tɛ̃.ta.maʁ"
     },
     {
-      "id": 502,
+      "id": 490,
       "date": "2027-08-03",
       "word": "Épitaphe",
       "type": "Nom féminin",
@@ -6678,7 +6520,7 @@
       "phonetics": "e.pi.taf"
     },
     {
-      "id": 503,
+      "id": 491,
       "date": "2027-08-04",
       "word": "Liminaire",
       "type": "Adjectif",
@@ -6691,7 +6533,7 @@
       "phonetics": "li.mi.nɛʁ"
     },
     {
-      "id": 504,
+      "id": 492,
       "date": "2027-08-05",
       "word": "Fustiger",
       "type": "Verbe",
@@ -6705,7 +6547,7 @@
       "phonetics": "fys.ti.ʒe"
     },
     {
-      "id": 505,
+      "id": 493,
       "date": "2027-08-06",
       "word": "Prasin",
       "type": "Adjectif",
@@ -6718,7 +6560,7 @@
       "phonetics": "pʁa.zɛ̃"
     },
     {
-      "id": 506,
+      "id": 494,
       "date": "2027-08-07",
       "word": "Ubuesque",
       "type": "Adjectif",
@@ -6731,7 +6573,7 @@
       "phonetics": "y.by.ɛsk"
     },
     {
-      "id": 507,
+      "id": 495,
       "date": "2027-08-08",
       "word": "Bruire",
       "type": "Verbe",
@@ -6744,7 +6586,7 @@
       "phonetics": "bʁɥiʁ"
     },
     {
-      "id": 508,
+      "id": 496,
       "date": "2027-08-09",
       "word": "Calliépie",
       "type": "Nom féminin",
@@ -6757,7 +6599,7 @@
       "phonetics": "ka.lje.pi"
     },
     {
-      "id": 509,
+      "id": 497,
       "date": "2027-08-10",
       "word": "Atone",
       "type": "Adjectif",
@@ -6770,7 +6612,7 @@
       "phonetics": "a.tɔn"
     },
     {
-      "id": 510,
+      "id": 498,
       "date": "2027-08-11",
       "word": "Bigorexie",
       "type": "Nom féminin",
@@ -6783,7 +6625,7 @@
       "phonetics": "bi.ɡɔ.ʁɛk.si"
     },
     {
-      "id": 511,
+      "id": 499,
       "date": "2027-08-12",
       "word": "Labile",
       "type": "Adjectif",
@@ -6796,7 +6638,7 @@
       "phonetics": "la.bil"
     },
     {
-      "id": 512,
+      "id": 500,
       "date": "2027-08-13",
       "word": "Lapidaire",
       "type": "Nom",
@@ -6810,7 +6652,7 @@
       "phonetics": "la.pi.dɛʁ"
     },
     {
-      "id": 513,
+      "id": 501,
       "date": "2027-08-14",
       "word": "Perclure",
       "type": "Verbe",
@@ -6823,7 +6665,7 @@
       "phonetics": "pɛʁ.kly"
     },
     {
-      "id": 514,
+      "id": 502,
       "date": "2027-08-15",
       "word": "Fluer",
       "type": "Verbe",
@@ -6836,7 +6678,7 @@
       "phonetics": "fly.e"
     },
     {
-      "id": 515,
+      "id": 503,
       "date": "2027-08-16",
       "word": "Compendieux",
       "type": "Adjectif",
@@ -6850,7 +6692,7 @@
       "phonetics": "kɔ̃.pɑ̃.djø"
     },
     {
-      "id": 516,
+      "id": 504,
       "date": "2027-08-17",
       "word": "Bravade",
       "type": "Nom féminin",
@@ -6863,7 +6705,7 @@
       "phonetics": "bʁa.vad"
     },
     {
-      "id": 517,
+      "id": 505,
       "date": "2027-08-18",
       "word": "Veule",
       "type": "Adjectif",
@@ -6876,7 +6718,7 @@
       "phonetics": "vøl"
     },
     {
-      "id": 518,
+      "id": 506,
       "date": "2027-08-19",
       "word": "Conjectural",
       "type": "Adjectif",
@@ -6889,7 +6731,7 @@
       "phonetics": "kɔ̃.ʒɛk.ty.ʁal"
     },
     {
-      "id": 519,
+      "id": 507,
       "date": "2027-08-20",
       "word": "Pellucide",
       "type": "Adjectif",
@@ -6902,7 +6744,7 @@
       "phonetics": "pe.ly.sid"
     },
     {
-      "id": 520,
+      "id": 508,
       "date": "2027-08-21",
       "word": "Embauchoir",
       "type": "Nom masculin",
@@ -6915,7 +6757,7 @@
       "phonetics": "ɑ̃.bo.ʃwaʁ"
     },
     {
-      "id": 521,
+      "id": 509,
       "date": "2027-08-22",
       "word": "Mithridatiser",
       "type": "Verbe",
@@ -6928,7 +6770,7 @@
       "phonetics": "mi.tʁi.da.ti.ze"
     },
     {
-      "id": 522,
+      "id": 510,
       "date": "2027-08-23",
       "word": "Affable",
       "type": "Adjectif",
@@ -6941,7 +6783,7 @@
       "phonetics": "a.fabl"
     },
     {
-      "id": 523,
+      "id": 511,
       "date": "2027-08-24",
       "word": "Sérotinal",
       "type": "Adjectif",
@@ -6954,7 +6796,7 @@
       "phonetics": "se.ʁɔ.ti.nal"
     },
     {
-      "id": 524,
+      "id": 512,
       "date": "2027-08-25",
       "word": "Actinie",
       "type": "Nom féminin",
@@ -6967,7 +6809,7 @@
       "phonetics": "ak.ti.ni"
     },
     {
-      "id": 525,
+      "id": 513,
       "date": "2027-08-26",
       "word": "Irascible",
       "type": "Adjectif",
@@ -6980,7 +6822,7 @@
       "phonetics": "i.ʁa.sibl"
     },
     {
-      "id": 526,
+      "id": 514,
       "date": "2027-08-27",
       "word": "Quérulent",
       "type": "Adjectif et nom",
@@ -6993,7 +6835,7 @@
       "phonetics": "ke.ʁy.lɑ̃"
     },
     {
-      "id": 527,
+      "id": 515,
       "date": "2027-08-28",
       "word": "Talé",
       "type": "Verbe",
@@ -7006,7 +6848,7 @@
       "phonetics": "ta.le"
     },
     {
-      "id": 528,
+      "id": 516,
       "date": "2027-08-29",
       "word": "Agélaste",
       "type": "Nom masculin ou féminin",
@@ -7019,7 +6861,7 @@
       "phonetics": "a.ʒə.last"
     },
     {
-      "id": 529,
+      "id": 517,
       "date": "2027-08-30",
       "word": "Matois",
       "type": "Adjectif et nom",
@@ -7032,7 +6874,7 @@
       "phonetics": "ma.twa"
     },
     {
-      "id": 530,
+      "id": 518,
       "date": "2027-08-31",
       "word": "Pétrogène",
       "type": "Adjectif",
@@ -7045,7 +6887,7 @@
       "phonetics": "pe.tʁɔ.ʒɛn"
     },
     {
-      "id": 531,
+      "id": 519,
       "date": "2027-09-01",
       "word": "Nivéen",
       "type": "Adjectif",
@@ -7058,7 +6900,7 @@
       "phonetics": "ni.ve.ɛ̃"
     },
     {
-      "id": 532,
+      "id": 520,
       "date": "2027-09-02",
       "word": "Anonchalir",
       "type": "Verbe",
@@ -7071,7 +6913,7 @@
       "phonetics": "a.nɔ̃.ʃa.liʁ"
     },
     {
-      "id": 533,
+      "id": 521,
       "date": "2027-09-03",
       "word": "Anadyomène",
       "type": "Adjectif",
@@ -7085,7 +6927,7 @@
       "phonetics": "a.na.djɔ.mɛn"
     },
     {
-      "id": 534,
+      "id": 522,
       "date": "2027-09-04",
       "word": "lunule",
       "type": "Nom féminin",
@@ -7098,7 +6940,7 @@
       "phonetics": "ly.nyl"
     },
     {
-      "id": 535,
+      "id": 523,
       "date": "2027-09-05",
       "word": "Miasme",
       "type": "Nom masculin",
@@ -7112,7 +6954,7 @@
       "phonetics": "mjasm"
     },
     {
-      "id": 536,
+      "id": 524,
       "date": "2027-09-06",
       "word": "Anfractuosité",
       "type": "Nom féminin",
@@ -7125,7 +6967,7 @@
       "phonetics": "ɑ̃.fʁak.tɥo.zi.te"
     },
     {
-      "id": 537,
+      "id": 525,
       "date": "2027-09-07",
       "word": "Compassé",
       "type": "Verbe",
@@ -7138,7 +6980,7 @@
       "phonetics": null
     },
     {
-      "id": 538,
+      "id": 526,
       "date": "2027-09-08",
       "word": "Trimarder",
       "type": "Verbe",
@@ -7152,7 +6994,7 @@
       "phonetics": "tʁi.maʁ.de"
     },
     {
-      "id": 539,
+      "id": 527,
       "date": "2027-09-09",
       "word": "Empesé",
       "type": "Verbe",
@@ -7166,7 +7008,7 @@
       "phonetics": "ɑ̃.pə.ze"
     },
     {
-      "id": 540,
+      "id": 528,
       "date": "2027-09-10",
       "word": "Chattemite",
       "type": "Nom et adjectif",
@@ -7180,7 +7022,7 @@
       "phonetics": "ʃa.tə.mit"
     },
     {
-      "id": 541,
+      "id": 529,
       "date": "2027-09-11",
       "word": "Encomiastique",
       "type": "Adjectif",
@@ -7193,7 +7035,7 @@
       "phonetics": "ɑ̃.kɔ.mjas.tik"
     },
     {
-      "id": 542,
+      "id": 530,
       "date": "2027-09-12",
       "word": "Vitupérer",
       "type": "Verbe",
@@ -7207,7 +7049,7 @@
       "phonetics": "vi.ty.pe.ʁe"
     },
     {
-      "id": 543,
+      "id": 531,
       "date": "2027-09-13",
       "word": "Ergoter",
       "type": "Verbe",
@@ -7220,7 +7062,7 @@
       "phonetics": "ɛʁ.ɡɔ.te"
     },
     {
-      "id": 544,
+      "id": 532,
       "date": "2027-09-14",
       "word": "Exhaustif",
       "type": "Adjectif",
@@ -7233,7 +7075,7 @@
       "phonetics": "ɛɡ.zos.tif"
     },
     {
-      "id": 545,
+      "id": 533,
       "date": "2027-09-15",
       "word": "Épiphanie",
       "type": "Nom féminin singulier",
@@ -7247,7 +7089,7 @@
       "phonetics": "e.pi.fa.ni"
     },
     {
-      "id": 546,
+      "id": 534,
       "date": "2027-09-16",
       "word": "Satisfecit",
       "type": "Nom masculin invariable",
@@ -7260,7 +7102,7 @@
       "phonetics": "sa.tis.fe.sit"
     },
     {
-      "id": 547,
+      "id": 535,
       "date": "2027-09-17",
       "word": "Abrader",
       "type": "Verbe",
@@ -7273,7 +7115,7 @@
       "phonetics": "a.bʁa.de"
     },
     {
-      "id": 548,
+      "id": 536,
       "date": "2027-09-18",
       "word": "Escarboucle",
       "type": "Nom féminin",
@@ -7287,7 +7129,7 @@
       "phonetics": "ɛs.kaʁ.bukl"
     },
     {
-      "id": 549,
+      "id": 537,
       "date": "2027-09-19",
       "word": "Néologisme",
       "type": "Nom masculin",
@@ -7300,7 +7142,7 @@
       "phonetics": "ne.ɔ.lɔ.ʒism"
     },
     {
-      "id": 550,
+      "id": 538,
       "date": "2027-09-20",
       "word": "nuchale",
       "type": "Adjectif",
@@ -7313,7 +7155,7 @@
       "phonetics": "ny.kal"
     },
     {
-      "id": 551,
+      "id": 539,
       "date": "2027-09-21",
       "word": "Sybarite",
       "type": "Adjectif et nom",
@@ -7326,7 +7168,7 @@
       "phonetics": "si.ba.ʁit"
     },
     {
-      "id": 552,
+      "id": 540,
       "date": "2027-09-22",
       "word": "Ponceau",
       "type": "Nom masculin",
@@ -7340,7 +7182,7 @@
       "phonetics": "pɔ̃.so"
     },
     {
-      "id": 553,
+      "id": 541,
       "date": "2027-09-23",
       "word": "Plénitude",
       "type": "Nom féminin",
@@ -7354,7 +7196,7 @@
       "phonetics": "ple.ni.tyd"
     },
     {
-      "id": 554,
+      "id": 542,
       "date": "2027-09-24",
       "word": "Déférent",
       "type": "Adjectif",
@@ -7368,7 +7210,7 @@
       "phonetics": "de.fe.ʁɑ̃"
     },
     {
-      "id": 555,
+      "id": 543,
       "date": "2027-09-25",
       "word": "Marcescible",
       "type": "Adjectif",
@@ -7381,7 +7223,7 @@
       "phonetics": null
     },
     {
-      "id": 556,
+      "id": 544,
       "date": "2027-09-26",
       "word": "Obérer",
       "type": "Verbe",
@@ -7395,7 +7237,7 @@
       "phonetics": "o.be.ʁe"
     },
     {
-      "id": 557,
+      "id": 545,
       "date": "2027-09-27",
       "word": "Gauloiserie",
       "type": "Nom féminin",
@@ -7408,7 +7250,7 @@
       "phonetics": "ɡo.lwa.zʁi"
     },
     {
-      "id": 558,
+      "id": 546,
       "date": "2027-09-28",
       "word": "Hiémal",
       "type": "Adjectif",
@@ -7422,7 +7264,7 @@
       "phonetics": "je.mal"
     },
     {
-      "id": 559,
+      "id": 547,
       "date": "2027-09-29",
       "word": "Cluse",
       "type": "Nom féminin",
@@ -7435,7 +7277,7 @@
       "phonetics": "klyz"
     },
     {
-      "id": 560,
+      "id": 548,
       "date": "2027-09-30",
       "word": "Rodomont",
       "type": "Nom masculin",
@@ -7448,7 +7290,7 @@
       "phonetics": "ʁɔ.dɔ.mɔ̃"
     },
     {
-      "id": 561,
+      "id": 549,
       "date": "2027-10-01",
       "word": "Galetas",
       "type": "Nom masculin",
@@ -7462,7 +7304,7 @@
       "phonetics": "ɡal.ta"
     },
     {
-      "id": 562,
+      "id": 550,
       "date": "2027-10-02",
       "word": "Acéteux",
       "type": "Adjectif",
@@ -7475,7 +7317,7 @@
       "phonetics": "a.se.tø"
     },
     {
-      "id": 563,
+      "id": 551,
       "date": "2027-10-03",
       "word": "Taciturne",
       "type": "Adjectif et nom",
@@ -7489,7 +7331,7 @@
       "phonetics": "ta.si.tyʁn"
     },
     {
-      "id": 564,
+      "id": 552,
       "date": "2027-10-04",
       "word": "Picrocholine",
       "type": "Adjectif",
@@ -7502,7 +7344,7 @@
       "phonetics": "pi.kʁɔ.kɔ.lin"
     },
     {
-      "id": 565,
+      "id": 553,
       "date": "2027-10-05",
       "word": "Circonscrire",
       "type": "Verbe",
@@ -7516,7 +7358,7 @@
       "phonetics": "siʁ.kɔ̃s.kʁiʁ"
     },
     {
-      "id": 566,
+      "id": 554,
       "date": "2027-10-06",
       "word": "Inébriant",
       "type": "Adjectif et verbe",
@@ -7529,7 +7371,7 @@
       "phonetics": "i.ne.bʁi.jɑ̃"
     },
     {
-      "id": 567,
+      "id": 555,
       "date": "2027-10-07",
       "word": "Vernaculaire",
       "type": "Adjectif et nom",
@@ -7542,7 +7384,7 @@
       "phonetics": "vɛʁ.na.ky.lɛʁ"
     },
     {
-      "id": 568,
+      "id": 556,
       "date": "2027-10-08",
       "word": "Atrabilaire",
       "type": "Adjectif et nom",
@@ -7556,7 +7398,7 @@
       "phonetics": "a.tʁa.bi.lɛʁ"
     },
     {
-      "id": 569,
+      "id": 557,
       "date": "2027-10-09",
       "word": "Vicissitude",
       "type": "Nom féminin",
@@ -7569,7 +7411,7 @@
       "phonetics": "vi.si.si.tyd"
     },
     {
-      "id": 570,
+      "id": 558,
       "date": "2027-10-10",
       "word": "Maléolent",
       "type": "Adjectif",
@@ -7582,7 +7424,7 @@
       "phonetics": null
     },
     {
-      "id": 571,
+      "id": 559,
       "date": "2027-10-11",
       "word": "Septentrional",
       "type": "Adjectif",
@@ -7595,7 +7437,7 @@
       "phonetics": "sɛp.tɑ̃.tʁi.jɔ.nal"
     },
     {
-      "id": 572,
+      "id": 560,
       "date": "2027-10-12",
       "word": "Circonvenir",
       "type": "Verbe",
@@ -7609,7 +7451,7 @@
       "phonetics": "siʁ.kɔ̃v.niʁ"
     },
     {
-      "id": 573,
+      "id": 561,
       "date": "2027-10-13",
       "word": "Éréthisme",
       "type": "Nom masculin",
@@ -7622,7 +7464,7 @@
       "phonetics": "e.ʁe.tism"
     },
     {
-      "id": 574,
+      "id": 562,
       "date": "2027-10-14",
       "word": "Palinodie",
       "type": "Nom féminin",
@@ -7635,7 +7477,7 @@
       "phonetics": "pa.li.nɔ.di"
     },
     {
-      "id": 575,
+      "id": 563,
       "date": "2027-10-15",
       "word": "Outrecuidant",
       "type": "Adjectif",
@@ -7649,7 +7491,7 @@
       "phonetics": "u.tʁə.kɥi.dɑ̃"
     },
     {
-      "id": 576,
+      "id": 564,
       "date": "2027-10-16",
       "word": "Plèbe",
       "type": "Nom féminin",
@@ -7662,7 +7504,7 @@
       "phonetics": "plɛb"
     },
     {
-      "id": 577,
+      "id": 565,
       "date": "2027-10-17",
       "word": "Aménité",
       "type": "Nom féminin",
@@ -7675,7 +7517,7 @@
       "phonetics": "a.me.ni.te"
     },
     {
-      "id": 578,
+      "id": 566,
       "date": "2027-10-18",
       "word": "Sabouler",
       "type": "Verbe",
@@ -7688,7 +7530,7 @@
       "phonetics": "sa.bu.le"
     },
     {
-      "id": 579,
+      "id": 567,
       "date": "2027-10-19",
       "word": "Alunir",
       "type": "Verbe",
@@ -7701,7 +7543,7 @@
       "phonetics": "a.ly.niʁ"
     },
     {
-      "id": 580,
+      "id": 568,
       "date": "2027-10-20",
       "word": "Sommité",
       "type": "Nom féminin",
@@ -7715,7 +7557,7 @@
       "phonetics": "sɔ.mi.te"
     },
     {
-      "id": 581,
+      "id": 569,
       "date": "2027-10-21",
       "word": "Garrulité",
       "type": "Nom féminin",
@@ -7728,7 +7570,7 @@
       "phonetics": "ɡa.ʁy.li.te"
     },
     {
-      "id": 582,
+      "id": 570,
       "date": "2027-10-22",
       "word": "Oripeaux",
       "type": "Nom masculin pluriel",
@@ -7742,7 +7584,7 @@
       "phonetics": "ɔ.ʁi.po"
     },
     {
-      "id": 583,
+      "id": 571,
       "date": "2027-10-23",
       "word": "Agioteur",
       "type": "Nom",
@@ -7755,7 +7597,7 @@
       "phonetics": "a.ʒjɔ.tœʁ"
     },
     {
-      "id": 584,
+      "id": 572,
       "date": "2027-10-24",
       "word": "Thaumaturge",
       "type": "Nom",
@@ -7768,7 +7610,7 @@
       "phonetics": "to.ma.tyʁʒ"
     },
     {
-      "id": 585,
+      "id": 573,
       "date": "2027-10-25",
       "word": "Anachronique",
       "type": "Adjectif",
@@ -7781,7 +7623,7 @@
       "phonetics": "a.na.kʁɔ.nik"
     },
     {
-      "id": 586,
+      "id": 574,
       "date": "2027-10-26",
       "word": "Philistin",
       "type": "Nom masculin",
@@ -7794,7 +7636,7 @@
       "phonetics": "fi.lis.tɛ̃"
     },
     {
-      "id": 587,
+      "id": 575,
       "date": "2027-10-27",
       "word": "Compulser",
       "type": "Verbe",
@@ -7807,7 +7649,7 @@
       "phonetics": "kɔ̃.pyl.se"
     },
     {
-      "id": 588,
+      "id": 576,
       "date": "2027-10-28",
       "word": "Protéiforme",
       "type": "Adjectif",
@@ -7820,7 +7662,7 @@
       "phonetics": "pʁɔ.te.i.fɔʁm"
     },
     {
-      "id": 589,
+      "id": 577,
       "date": "2027-10-29",
       "word": "Afféterie",
       "type": "Nom féminin",
@@ -7833,7 +7675,7 @@
       "phonetics": "a.fet.ʁi"
     },
     {
-      "id": 590,
+      "id": 578,
       "date": "2027-10-30",
       "word": "Assertion",
       "type": "Nom féminin",
@@ -7847,7 +7689,7 @@
       "phonetics": "a.sɛʁ.sjɔ̃"
     },
     {
-      "id": 591,
+      "id": 579,
       "date": "2027-10-31",
       "word": "Phylactère",
       "type": "Nom masculin",
@@ -7860,7 +7702,7 @@
       "phonetics": "fi.lak.tɛʁ"
     },
     {
-      "id": 592,
+      "id": 580,
       "date": "2027-11-01",
       "word": "Exhérédation",
       "type": "Nom féminin",
@@ -7873,7 +7715,7 @@
       "phonetics": "ɛg.ze.ʁe.da.sjɔ̃"
     },
     {
-      "id": 593,
+      "id": 581,
       "date": "2027-11-02",
       "word": "Catalepsie",
       "type": "Nom féminin",
@@ -7886,7 +7728,7 @@
       "phonetics": "ka.ta.lɛp.si"
     },
     {
-      "id": 594,
+      "id": 582,
       "date": "2027-11-03",
       "word": "Probité",
       "type": "Nom féminin",
@@ -7899,7 +7741,7 @@
       "phonetics": "pʁɔ.bi.te"
     },
     {
-      "id": 595,
+      "id": 583,
       "date": "2027-11-04",
       "word": "Holistique",
       "type": "Adjectif",
@@ -7912,7 +7754,7 @@
       "phonetics": "ɔ.lis.tik"
     },
     {
-      "id": 596,
+      "id": 584,
       "date": "2027-11-05",
       "word": "Adventice",
       "type": "Adjectif",
@@ -7926,7 +7768,7 @@
       "phonetics": "ad.vɑ̃.tis"
     },
     {
-      "id": 597,
+      "id": 585,
       "date": "2027-11-06",
       "word": "Psalmodie",
       "type": "Nom féminin",
@@ -7939,7 +7781,7 @@
       "phonetics": "psal.mɔ.di"
     },
     {
-      "id": 598,
+      "id": 586,
       "date": "2027-11-07",
       "word": "Soliloque",
       "type": "Nom masculin",
@@ -7952,7 +7794,7 @@
       "phonetics": "sɔ.li.lɔk"
     },
     {
-      "id": 599,
+      "id": 587,
       "date": "2027-11-08",
       "word": "Antépénultième",
       "type": "Adjectif et nom féminin",
@@ -7965,7 +7807,7 @@
       "phonetics": "ɑ̃.te.pe.nyl.tjɛm"
     },
     {
-      "id": 600,
+      "id": 588,
       "date": "2027-11-09",
       "word": "Annihiler",
       "type": "Verbe",
@@ -7979,7 +7821,7 @@
       "phonetics": "a.ni.i.le"
     },
     {
-      "id": 601,
+      "id": 589,
       "date": "2027-11-10",
       "word": "hoirie",
       "type": "Nom féminin",
@@ -7992,7 +7834,7 @@
       "phonetics": "wa.ʁi"
     },
     {
-      "id": 602,
+      "id": 590,
       "date": "2027-11-11",
       "word": "Acrimonieux",
       "type": "Adjectif",
@@ -8005,7 +7847,7 @@
       "phonetics": "a.kʁi.mɔ.njø"
     },
     {
-      "id": 603,
+      "id": 591,
       "date": "2027-11-12",
       "word": "canitie",
       "type": "Nom féminin",
@@ -8018,7 +7860,7 @@
       "phonetics": "ka.ni.si"
     },
     {
-      "id": 604,
+      "id": 592,
       "date": "2027-11-13",
       "word": "Exsangue",
       "type": "Adjectif",
@@ -8033,7 +7875,7 @@
       "phonetics": "ɛk.sɑ̃ɡ"
     },
     {
-      "id": 605,
+      "id": 593,
       "date": "2027-11-14",
       "word": "Inanité",
       "type": "Nom féminin",
@@ -8047,7 +7889,7 @@
       "phonetics": "i.na.ni.te"
     },
     {
-      "id": 606,
+      "id": 594,
       "date": "2027-11-15",
       "word": "Impécunieux",
       "type": "Adjectif",
@@ -8060,7 +7902,7 @@
       "phonetics": "ɛ̃.pe.ky.njø"
     },
     {
-      "id": 607,
+      "id": 595,
       "date": "2027-11-16",
       "word": "Osmose",
       "type": "Nom féminin",
@@ -8074,7 +7916,7 @@
       "phonetics": "ɔs.moz"
     },
     {
-      "id": 608,
+      "id": 596,
       "date": "2027-11-17",
       "word": "Hécatombe",
       "type": "Nom féminin",
@@ -8088,7 +7930,7 @@
       "phonetics": "e.ka.tɔ̃b"
     },
     {
-      "id": 609,
+      "id": 597,
       "date": "2027-11-18",
       "word": "columelle",
       "type": "Nom féminin",
@@ -8101,7 +7943,7 @@
       "phonetics": "kɔ.ly.mɛl"
     },
     {
-      "id": 610,
+      "id": 598,
       "date": "2027-11-19",
       "word": "Dilatoire",
       "type": "Adjectif",
@@ -8115,7 +7957,7 @@
       "phonetics": "di.la.twaʁ"
     },
     {
-      "id": 611,
+      "id": 599,
       "date": "2027-11-20",
       "word": "Prosélytisme",
       "type": "Nom masculin",
@@ -8128,7 +7970,7 @@
       "phonetics": "pʁɔ.ze.li.tism"
     },
     {
-      "id": 612,
+      "id": 600,
       "date": "2027-11-21",
       "word": "Épistaxis",
       "type": "Nom féminin",
@@ -8141,7 +7983,7 @@
       "phonetics": "e.pis.tak.sis"
     },
     {
-      "id": 613,
+      "id": 601,
       "date": "2027-11-22",
       "word": "Dévot",
       "type": "Adjectif et nom",
@@ -8155,7 +7997,7 @@
       "phonetics": "de.vo"
     },
     {
-      "id": 614,
+      "id": 602,
       "date": "2027-11-23",
       "word": "Atavisme",
       "type": "Nom masculin",
@@ -8169,7 +8011,7 @@
       "phonetics": "a.ta.vism"
     },
     {
-      "id": 615,
+      "id": 603,
       "date": "2027-11-24",
       "word": "Inférer",
       "type": "Verbe",
@@ -8182,7 +8024,7 @@
       "phonetics": "ɛ̃.fe.ʁe"
     },
     {
-      "id": 616,
+      "id": 604,
       "date": "2027-11-25",
       "word": "Salubre",
       "type": "Adjectif",
@@ -8196,7 +8038,7 @@
       "phonetics": "sa.lybʁ"
     },
     {
-      "id": 617,
+      "id": 605,
       "date": "2027-11-26",
       "word": "Pléthorique",
       "type": "Adjectif",
@@ -8209,7 +8051,7 @@
       "phonetics": "ple.tɔ.ʁik"
     },
     {
-      "id": 618,
+      "id": 606,
       "date": "2027-11-27",
       "word": "Vénusté",
       "type": "Nom féminin",
@@ -8222,7 +8064,7 @@
       "phonetics": "ve.nys.te"
     },
     {
-      "id": 619,
+      "id": 607,
       "date": "2027-11-28",
       "word": "Oiseux",
       "type": "Adjectif",
@@ -8235,7 +8077,7 @@
       "phonetics": "wa.zø"
     },
     {
-      "id": 620,
+      "id": 608,
       "date": "2027-11-29",
       "word": "Pérorer",
       "type": "Verbe",
@@ -8248,7 +8090,7 @@
       "phonetics": "pe.ʁɔ.ʁe"
     },
     {
-      "id": 621,
+      "id": 609,
       "date": "2027-11-30",
       "word": "Viride",
       "type": "Nom et adjectif",
@@ -8261,7 +8103,7 @@
       "phonetics": "vi.ʁid"
     },
     {
-      "id": 622,
+      "id": 610,
       "date": "2027-12-01",
       "word": "Pertuis",
       "type": "Nom masculin",
@@ -8275,7 +8117,7 @@
       "phonetics": "pɛʁ.tɥi"
     },
     {
-      "id": 623,
+      "id": 611,
       "date": "2027-12-02",
       "word": "Policer",
       "type": "Verbe",
@@ -8288,7 +8130,7 @@
       "phonetics": "pɔ.li.se"
     },
     {
-      "id": 624,
+      "id": 612,
       "date": "2027-12-03",
       "word": "Douairière",
       "type": "Nom féminin",
@@ -8302,7 +8144,7 @@
       "phonetics": "dwe.ʁjɛʁ"
     },
     {
-      "id": 625,
+      "id": 613,
       "date": "2027-12-04",
       "word": "Nitide",
       "type": "Adjectif",
@@ -8315,7 +8157,7 @@
       "phonetics": "ni.tid"
     },
     {
-      "id": 626,
+      "id": 614,
       "date": "2027-12-05",
       "word": "Obtus",
       "type": "Adjectif",
@@ -8329,7 +8171,7 @@
       "phonetics": "ɔp.ty"
     },
     {
-      "id": 627,
+      "id": 615,
       "date": "2027-12-06",
       "word": "Barguigner",
       "type": "Verbe",
@@ -8342,7 +8184,7 @@
       "phonetics": "baʁ.ɡi.ɲe"
     },
     {
-      "id": 628,
+      "id": 616,
       "date": "2027-12-07",
       "word": "Naïade",
       "type": "Nom féminin",
@@ -8356,7 +8198,7 @@
       "phonetics": "na.jad"
     },
     {
-      "id": 629,
+      "id": 617,
       "date": "2027-12-08",
       "word": "Synopsie",
       "type": "Nom féminin",
@@ -8369,7 +8211,7 @@
       "phonetics": null
     },
     {
-      "id": 630,
+      "id": 618,
       "date": "2027-12-09",
       "word": "Dithyrambe",
       "type": "Nom masculin",
@@ -8382,7 +8224,7 @@
       "phonetics": "di.ti.ʁɑ̃b"
     },
     {
-      "id": 631,
+      "id": 619,
       "date": "2027-12-10",
       "word": "Peccadille",
       "type": "Nom féminin",
@@ -8395,7 +8237,7 @@
       "phonetics": "pe.ka.dij"
     },
     {
-      "id": 632,
+      "id": 620,
       "date": "2027-12-11",
       "word": "Simulacre",
       "type": "Nom masculin",
@@ -8408,7 +8250,7 @@
       "phonetics": "si.my.lakʁ"
     },
     {
-      "id": 633,
+      "id": 621,
       "date": "2027-12-12",
       "word": "Raréfactive",
       "type": "Adjectif",
@@ -8421,7 +8263,7 @@
       "phonetics": "ʁa.ʁe.fak.tiv"
     },
     {
-      "id": 634,
+      "id": 622,
       "date": "2027-12-13",
       "word": "Callipyge",
       "type": "Adjectif",
@@ -8434,7 +8276,7 @@
       "phonetics": "ka.li.piʒ"
     },
     {
-      "id": 635,
+      "id": 623,
       "date": "2027-12-14",
       "word": "Hourvari",
       "type": "Nom masculin",
@@ -8447,7 +8289,7 @@
       "phonetics": "uʁ.va.ʁi"
     },
     {
-      "id": 636,
+      "id": 624,
       "date": "2027-12-15",
       "word": "Rasséréner",
       "type": "Verbe",
@@ -8460,7 +8302,7 @@
       "phonetics": "ʁa.se.ʁe.ne"
     },
     {
-      "id": 637,
+      "id": 625,
       "date": "2027-12-16",
       "word": "Sapide",
       "type": "Adjectif",
@@ -8473,7 +8315,7 @@
       "phonetics": "sa.pid"
     },
     {
-      "id": 638,
+      "id": 626,
       "date": "2027-12-17",
       "word": "Sacerdoce",
       "type": "Nom masculin",
@@ -8486,7 +8328,7 @@
       "phonetics": "sa.sɛʁ.dɔs"
     },
     {
-      "id": 639,
+      "id": 627,
       "date": "2027-12-18",
       "word": "Glapir",
       "type": "Verbe",
@@ -8500,7 +8342,7 @@
       "phonetics": "ɡla.piʁ"
     },
     {
-      "id": 640,
+      "id": 628,
       "date": "2027-12-19",
       "word": "Prosaïque",
       "type": "Adjectif",
@@ -8513,7 +8355,7 @@
       "phonetics": "pʁo.za.ik"
     },
     {
-      "id": 641,
+      "id": 629,
       "date": "2027-12-20",
       "word": "Paréidolie",
       "type": "Nom féminin",
@@ -8526,7 +8368,7 @@
       "phonetics": "pa.ʁe.i.dɔ.li"
     },
     {
-      "id": 642,
+      "id": 630,
       "date": "2027-12-21",
       "word": "Suranné",
       "type": "Adjectif",
@@ -8539,7 +8381,7 @@
       "phonetics": "sy.ʁa.ne"
     },
     {
-      "id": 643,
+      "id": 631,
       "date": "2027-12-22",
       "word": "Bénéolent",
       "type": "Adjectif",
@@ -8552,7 +8394,7 @@
       "phonetics": "be.ne.ɔ.lɑ̃"
     },
     {
-      "id": 644,
+      "id": 632,
       "date": "2027-12-23",
       "word": "Raout",
       "type": "Nom masculin",
@@ -8565,7 +8407,7 @@
       "phonetics": "ʁa.ut"
     },
     {
-      "id": 645,
+      "id": 633,
       "date": "2027-12-24",
       "word": "Mansuétude",
       "type": "Nom féminin",
@@ -8578,7 +8420,7 @@
       "phonetics": "mɑ̃.sɥe.tyd"
     },
     {
-      "id": 646,
+      "id": 634,
       "date": "2027-12-25",
       "word": "Fieffé",
       "type": "Adjectif",
@@ -8592,7 +8434,7 @@
       "phonetics": null
     },
     {
-      "id": 647,
+      "id": 635,
       "date": "2027-12-26",
       "word": "Anathème",
       "type": "Nom masculin",
@@ -8605,7 +8447,7 @@
       "phonetics": "a.na.tɛm"
     },
     {
-      "id": 648,
+      "id": 636,
       "date": "2027-12-27",
       "word": "Munificence",
       "type": "Nom féminin",
@@ -8618,7 +8460,7 @@
       "phonetics": "my.ni.fi.sɑ̃s"
     },
     {
-      "id": 649,
+      "id": 637,
       "date": "2027-12-28",
       "word": "Primesautier",
       "type": "Adjectif",
@@ -8630,6 +8472,164 @@
       "synonyms": "impulsif, spontané",
       "antonyms": "réfléchi",
       "phonetics": "pʁim.so.tje"
+    },
+    {
+      "id": 638,
+      "date": "2027-12-29",
+      "word": "Samsara",
+      "type": "Nom masculin",
+      "definition": [
+        "Dans l'hindouisme et le bouddhisme, cycle de la vie, de la mort et de la renaissance."
+      ],
+      "example": "",
+      "synonyms": null,
+      "antonyms": null,
+      "phonetics": "sam.sa.ʁa"
+    },
+    {
+      "id": 639,
+      "date": "2027-12-30",
+      "word": "Prolixe",
+      "type": "Adjectif",
+      "definition": [
+        "Qui parle ou écrit de manière excessive et détaillée, manquant de concision."
+      ],
+      "example": "Un orateur, discours prolixe.",
+      "synonyms": "bavard, diffus, verbeux",
+      "antonyms": "court, bref, concis",
+      "phonetics": "pʁɔ.liks"
+    },
+    {
+      "id": 640,
+      "date": "2027-12-31",
+      "word": "Gageure",
+      "type": "Nom féminin",
+      "definition": [
+        "Action, projet peu croyables et ressemblant à un pari hasardeux.",
+        "Engagement mutuel entre personnes de remettre une somme ou un objet en cas de perte d'un pari."
+      ],
+      "example": "C'est une gageure de vouloir raisonner cet entêté.",
+      "synonyms": "pari, défi",
+      "antonyms": null,
+      "phonetics": "ɡa.ʒyʁ"
+    },
+    {
+      "id": 641,
+      "date": "2028-01-01",
+      "word": "Adjurer",
+      "type": "Verbe",
+      "definition": [
+        "Littéraire. Prier, supplier quelqu'un de faire quelque chose."
+      ],
+      "example": "Je vous adjure de dire la vérité.",
+      "synonyms": "conjurer, implorer, supplier",
+      "antonyms": null,
+      "phonetics": "ad.ʒy.ʁe"
+    },
+    {
+      "id": 642,
+      "date": "2028-01-02",
+      "word": "Féral",
+      "type": "Adjectif",
+      "definition": [
+        "Se dit d'une espèce domestique retournée à l'état sauvage."
+      ],
+      "example": "Chats férals.",
+      "synonyms": null,
+      "antonyms": null,
+      "phonetics": "fe.ʁal"
+    },
+    {
+      "id": 643,
+      "date": "2028-01-03",
+      "word": "Sédition",
+      "type": "Nom féminin",
+      "definition": [
+        "Révolte concertée contre l'autorité établie."
+      ],
+      "example": "Faire acte de sédition.",
+      "synonyms": "émeute, insurrection, mutinerie, rébellion, révolte",
+      "antonyms": null,
+      "phonetics": "se.di.sjɔ̃"
+    },
+    {
+      "id": 644,
+      "date": "2028-01-04",
+      "word": "Figulin",
+      "type": "Adjectif",
+      "definition": [
+        "Relatif à la fabrication ou à l'art de la poterie."
+      ],
+      "example": "Ces oeuvres figulines étaient sublimes.",
+      "synonyms": null,
+      "antonyms": null,
+      "phonetics": "fi.ɡy.lɛ̃"
+    },
+    {
+      "id": 645,
+      "date": "2028-01-05",
+      "word": "Skeuomorphe",
+      "type": "Adjectif",
+      "definition": [
+        "Se dit d'un objet ou d'une interface qui imite l'apparence d'un autre objet, généralement plus ancien, sans en avoir la fonction matérielle."
+      ],
+      "example": "L'icône de la corbeille sur nos écrans est un parfait exemple skeuomorphe : elle reproduit fidèlement la forme d'une poubelle en plastique que personne n'a jamais eu besoin de vider physiquement.",
+      "synonyms": null,
+      "antonyms": null,
+      "phonetics": "skø.ɔ.mɔʁf"
+    },
+    {
+      "id": 646,
+      "date": "2028-01-06",
+      "word": "Tapabor",
+      "type": "Nom masculin",
+      "definition": [
+        "Bonnet dont on peut rabattre les bords, pour se garantir de la pluie et du vent."
+      ],
+      "example": "Elle portait un tapabord qui lui cachait les yeux, mais la protégeait de ce vent glacial.",
+      "synonyms": null,
+      "antonyms": null,
+      "phonetics": "ta.pa.bɔʁ"
+    },
+    {
+      "id": 647,
+      "date": "2028-01-07",
+      "word": "Septentrion",
+      "type": "Nom masculin",
+      "definition": [
+        "Le nord ou les régions du Nord."
+      ],
+      "example": "Les armées venues du septentrion ont tout saccagé.",
+      "synonyms": "nord",
+      "antonyms": null,
+      "phonetics": "sɛp.tɑ̃.tʁi.jɔ̃"
+    },
+    {
+      "id": 648,
+      "date": "2028-01-08",
+      "word": "Zézayer",
+      "type": "Verbe",
+      "definition": [
+        "Prononcer z à la place de j ( ze veux pour je veux ) ou s à la place de ch."
+      ],
+      "example": "Cet enfant zézéyant était très mignon.",
+      "synonyms": "avoir un cheveu sur la langue, zozoter",
+      "antonyms": null,
+      "phonetics": "ze.ze.je"
+    },
+    {
+      "id": 649,
+      "date": "2028-01-09",
+      "word": "Factieux",
+      "type": "Adjectif et nom",
+      "definition": [
+        "Qui exerce contre le pouvoir établi une opposition violente tendant à provoquer des troubles.",
+        "Qui témoigne d'un esprit de sédition."
+      ],
+      "example": "Le chef des factieux.",
+      "synonyms": "agitateur, insurgé, rebelle, révolutionnaire, trublion",
+      "antonyms": "fidèle, obéissant, sujet",
+      "phonetics": "fak.sjø"
     }
   ]
 }

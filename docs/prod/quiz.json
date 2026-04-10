@@ -2,1266 +2,6 @@
   "quiz": [
     {
       "id": 1,
-      "date": "2026-01-01",
-      "question": "A quel créateur doit-on les légendaires seins en cône ?",
-      "choices": [
-        "Karl Lagarfeld",
-        "Marc Jacobs",
-        "Jean-Paul Gaultier",
-        "Coco Chanel"
-      ],
-      "correctIndex": 2,
-      "explanation": "Jean Paul Gaultier a créé ces iconiques et légendaires seins en cône portés notamment par Madonna en 1990 pour son « Blond Ambition Tour ».",
-      "category": "Mode"
-    },
-    {
-      "id": 2,
-      "date": "2026-01-02",
-      "question": "Quel est le sport proche du hockey sur glace mais se jouant en intérieur ?",
-      "choices": [
-        "Le boulingrin",
-        "La ringuette",
-        "Le gouret de salon",
-        "Le bandy"
-      ],
-      "correctIndex": 2,
-      "explanation": "Le gouret de salon (ou hockey de salon) est un sport collectif récréatif d'intérieur qui est un proche parent du hockey sur glace.",
-      "category": "Sport"
-    },
-    {
-      "id": 3,
-      "date": "2026-01-03",
-      "question": "La préhistoire se termine",
-      "choices": [
-        "à la naissance de Jésus",
-        "à l'invention de la roue",
-        "à l'invention de l'écriture",
-        "à l'invention de l'agriculture"
-      ],
-      "correctIndex": 2,
-      "explanation": "La Préhistoire est la période qui s'étend de l'apparition de l'Homme, il y a 2,8 millions d'années, à l'invention de l'écriture, vers 3300 avant J.C. C'est donc, jusqu'à aujourd'hui, la plus longue période de l'histoire de l'humanité.",
-      "category": "Histoire"
-    },
-    {
-      "id": 4,
-      "date": "2026-01-04",
-      "question": "Grâce à quel métal l'acier inoxydable (inox) résiste-il à la corrosion ?",
-      "choices": [
-        "L'étain",
-        "Le zinc",
-        "Le cuivre",
-        "Le chrome"
-      ],
-      "correctIndex": 3,
-      "explanation": "L'inox (ou acier inoxidable) est un alliage de fer, de carbone et de chrome. Le chrome a la propriété d'être peu sensible à la corrosion et de ne pas rouiller. ",
-      "category": "Sciences"
-    },
-    {
-      "id": 5,
-      "date": "2026-01-05",
-      "question": "Quelle proposition est correcte ?",
-      "choices": [
-        "En son for intérieur",
-        "En son fort intérieur",
-        "En son fore intérieur",
-        "En son fors intérieur"
-      ],
-      "correctIndex": 0,
-      "explanation": "Le nom « for » ne subsistant plus que dans l’expression « for intérieur », on a tendance à lui donner l’orthographe de « fort ».",
-      "category": "Orthographe"
-    },
-    {
-      "id": 6,
-      "date": "2026-01-06",
-      "question": "Quel groupe sangin est donneur universel ?",
-      "choices": [
-        "AB+",
-        "O-",
-        "O+",
-        "A-"
-      ],
-      "correctIndex": 1,
-      "explanation": "Il existe huit combinaisons combinaisons de groupes sanguins : A, B, O et AB avec soit avec un facteur Rhésus (+) ou (-). Le groupe O- est destiné à tout le monde et on l'appelle « donneur universel ». Il représente environ 6% en France.",
-      "category": "Sciences"
-    },
-    {
-      "id": 7,
-      "date": "2026-01-07",
-      "question": "Qui a percé le mystère des hiéroglyphes ? ",
-      "choices": [
-        "Champollion",
-        "Carnot",
-        "Howard Carter",
-        "Napoléon"
-      ],
-      "correctIndex": 0,
-      "explanation": "Le secret des hiéroglyphes fut percé par Jean-François Champollion grâce à la pierre de Rosette, en s'appuyant sur les travaux d'autres chercheurs.",
-      "category": "Histoire"
-    },
-    {
-      "id": 8,
-      "date": "2026-01-08",
-      "question": "Qui est surnommé « l’Eternel Second » du Tour de France ?",
-      "choices": [
-        "Raymond Poulidor",
-        "Bernard Hinault",
-        "Eddy Merckx",
-        "Laurent Fignon"
-      ],
-      "correctIndex": 0,
-      "explanation": "Raymond Poulidor a beau avoir remporté de nombreuses victoires, le Tour de France lui a toujours résisté. Il a terminé deuxième à trois reprises, en 1964, 1965 et 1974.",
-      "category": "Sport"
-    },
-    {
-      "id": 9,
-      "date": "2026-01-09",
-      "question": "Comment l’archipel comptant les îles de Rhodes, de Kalmynos ou de Leros se nomme-t-il ?",
-      "choices": [
-        "Les îles Ioniennes",
-        "Les Cyclades",
-        "Les îles Sporades",
-        "Le Dodécanèse"
-      ],
-      "correctIndex": 3,
-      "explanation": "Le Dodécanèse est un groupe d'îles grecques dans le sud-est de la mer Égée. Le mot Dodécanèse vient du grec ancien et signifie « douze îles ». Ainsi, on parle souvent de douze îles principales, mais au total, l'archipel compte environ 160 îles.",
-      "category": "Géo"
-    },
-    {
-      "id": 10,
-      "date": "2026-01-10",
-      "question": "Qui est célèbre pour avoir introduit la mini jupe dans les années 60 ?",
-      "choices": [
-        "Yves Saint Laurent",
-        "Pierre Cardin",
-        "André Courrèges",
-        "Mary Quant"
-      ],
-      "correctIndex": 3,
-      "explanation": "En 1965, le couturier André Courrèges présente en défilé une jupe courte qui fait sensation. Pourtant, c'est Mary Quant, jeune styliste du Swinging London qui en est à l'origine.",
-      "category": "Mode"
-    },
-    {
-      "id": 11,
-      "date": "2026-01-11",
-      "question": "Qui est André Malraux ?",
-      "choices": [
-        "Un écrivain et homme politique",
-        "Un dramaturge",
-        "Un musicien",
-        "Un peintre"
-      ],
-      "correctIndex": 0,
-      "explanation": "André Malraux est un écrivain, critique d'art et homme politique. Il joue un rôle important dans la culture française du XXe siècle. Il croit que l'art doit être accessible à tous les citoyens, indépendamment de leur classe sociale ou de leur éducation.",
-      "category": "Histoire"
-    },
-    {
-      "id": 12,
-      "date": "2026-01-12",
-      "question": "Quelle créatrice de mode a imaginé la tenue de la cavalière d'argent aux JO de Paris 2024 ?",
-      "choices": [
-        "Marine Serre",
-        "Morgane Sézalory",
-        "Jeanne Friot",
-        "Isabel Marant"
-      ],
-      "correctIndex": 2,
-      "explanation": "Jeanne Friot a créé l'une des silhouettes les plus marquantes de la cérémonie d'ouverture des JO de Paris.",
-      "category": "Mode"
-    },
-    {
-      "id": 13,
-      "date": "2026-01-13",
-      "question": "Dans quel sport la France a-t-elle remportée le plus grand nombre de médailles olympiques ?",
-      "choices": [
-        "Escrime",
-        "Judo",
-        "Natation",
-        "Cyclisme"
-      ],
-      "correctIndex": 1,
-      "explanation": "L'escrime est le sport français ayant remporté le plus grand nombre de médailles aux Jeux Olympiques avec un total de 130 médailles.",
-      "category": "Sport"
-    },
-    {
-      "id": 14,
-      "date": "2026-01-14",
-      "question": "Quelles sont les trois salles officielles parisiennes qui accueillent le théâtre des Lumières, au XVIIIe siècle ? ",
-      "choices": [
-        "La Comédie-Française, l'Odéon et l'Opéra",
-        "Le Théâtre des Champs-Élysées, l'Odéon et l'Opéra",
-        "Le Théâtre du Châtelet, le thétare de la Renaissance et l'Opéra",
-        "L'Opéra de Bastille, le théatre de la Renaissance et le théatre du Palais Royal"
-      ],
-      "correctIndex": 0,
-      "explanation": "Les représentations ont lieu dans des foires ou dans des institutions comme la Comédie-Française, l'Odeon et l'Opera. Le Théâtre des Champs-Élysées a été construit en 1913 et celui du Châtelet en 1860.",
-      "category": "Histoire"
-    },
-    {
-      "id": 15,
-      "date": "2026-01-15",
-      "question": "Quelle institution fonde de Gaulle pour promouvoir l'art ?",
-      "choices": [
-        "Le Musée d'Orsay",
-        "Le ministère de la Culture",
-        "La fondation pour l'Art",
-        "La pyramide du Louvre"
-      ],
-      "correctIndex": 1,
-      "explanation": "Créé en 1959, le ministère de la Culture est confié à André Malraux et a pour ambition de rendre accessibles les œuvres capitales de l'humanité à tous les Français.",
-      "category": "Histoire"
-    },
-    {
-      "id": 16,
-      "date": "2026-01-16",
-      "question": "Quelles sont les quatre principales villes dans lesquelles se déroulent des Fashion Week ?",
-      "choices": [
-        "New York, Londres, Milan et Paris",
-        "New York, Paris, Rome et Londres",
-        "Paris, Londres, Los Angeles et Milan",
-        "Paris, Rome, Madrid et Londres"
-      ],
-      "correctIndex": 0,
-      "explanation": "Les quatre grandes villes sont dans l'ordre New York, Londres, Milan et Paris",
-      "category": "Mode"
-    },
-    {
-      "id": 17,
-      "date": "2026-01-17",
-      "question": "Quel est l'autre nom du Néolithique ? Âge de la ...",
-      "choices": [
-        "pierre taillée",
-        "pierre polie",
-        "pierre sculptée",
-        "pierre peinte"
-      ],
-      "correctIndex": 1,
-      "explanation": "Défini comme «l'âge de la pierre polie », il est principalement caractérisé actuellement par la domestication de certaines plantes et animaux et le début de l'agriculture.",
-      "category": "Histoire"
-    },
-    {
-      "id": 18,
-      "date": "2026-01-18",
-      "question": "Quel créateur s'est mis à la réalisation avec « A single man » ?",
-      "choices": [
-        "Tom Ford",
-        "Azzedine Alaia",
-        "Marc Jacobs",
-        "Simon Jacquemus"
-      ],
-      "correctIndex": 0,
-      "explanation": "Connu comme directeur artistique de Gucci avant de lancer sa marque éponyme, Tom Ford se lance ensuite dans le cinéma. Il a écrit et réalisé les films A Single Man (2009) et Nocturnal Animals (2016).",
-      "category": "Mode"
-    },
-    {
-      "id": 19,
-      "date": "2026-01-19",
-      "question": "Dans quelle chaine de montagne se trouve le K2 ?",
-      "choices": [
-        "Himalaya",
-        "Karakoram",
-        "Cordillère des andes",
-        "Chaine d'Alaska"
-      ],
-      "correctIndex": 1,
-      "explanation": "Le K2 est un sommet du massif du Karakoram ou Karakorum. Avec une altitude officielle de 8 611 m, c'est le deuxième sommet du monde après l'Everest. Il est surnommé « montagne Sauvage » en raison de la difficulté de son ascension, ou « montagne sans pitié ».",
-      "category": "Géo"
-    },
-    {
-      "id": 20,
-      "date": "2026-01-20",
-      "question": "Quelle pierre a permis de déchiffrer l'écriture égyptienne ?",
-      "choices": [
-        "Pierre de Rosette",
-        "Pierre de Josette",
-        "Pierre de Rose",
-        "Pierre d'Alexandrie"
-      ],
-      "correctIndex": 0,
-      "explanation": "Découverte lors de l'expédition d'Égypte de Napoléon Bonaparte, la pierre de Rosette a permis à Jean-François Champollion de déchiffrer pour la première fois les hiéroglyphes, perçant ainsi le mystère de cette écriture égyptienne",
-      "category": "Histoire"
-    },
-    {
-      "id": 21,
-      "date": "2026-01-21",
-      "question": "Quel sport collectif venu du Quebec se joue avec un ballon de 1m22 ?",
-      "choices": [
-        "Le spike ball",
-        "Le kin-ball",
-        "L'airsoft",
-        "Le slam ball"
-      ],
-      "correctIndex": 1,
-      "explanation": "Un ballon de 1,22 mètres de diamètre sera posé au centre du terrain et 3 équipes de 4 joueurs devront s’affronter. Le but du jeu est relativement simple, les joueurs devront attraper le ballon avec n’importe quelle partie du corps afin d’éviter qu'il ne touche le sol.",
-      "category": "Sport"
-    },
-    {
-      "id": 22,
-      "date": "2026-01-22",
-      "question": "Clovis a été Baptisé :",
-      "choices": [
-        "à Paris",
-        "à Reims",
-        "à Blois",
-        "à Avignon"
-      ],
-      "correctIndex": 1,
-      "explanation": "Clovis se fait baptiser à Reims. Il le fait pour des raisons politiques car les francs ont besoin du soutien de l'église. Il devient un roi chrétien, personne ne peut plus contester son pouvoir divin. Ce qui va lui permettre de conquérir le reste de la Gaule.",
-      "category": "Histoire"
-    },
-    {
-      "id": 23,
-      "date": "2026-01-23",
-      "question": "Qui a rédigé la célèbre Une de L'Aurore \"J'accuse ...!\" ?",
-      "choices": [
-        "Victor Hugo",
-        "Emile Zola",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctIndex": 1,
-      "explanation": "Zola a défendu Dreyfus dans son célèbre « J'accuse…! » à la une de L'Aurore du 13 janvier 1898.",
-      "category": "Littérature"
-    },
-    {
-      "id": 24,
-      "date": "2026-01-24",
-      "question": "Dans quel département se situe la côte de granit rose ?",
-      "choices": [
-        "Côtes-d'Armor",
-        "Le Finistère",
-        "La Martinique",
-        "Le calvados"
-      ],
-      "correctIndex": 0,
-      "explanation": "La Côte de Granit Rose s'étend sur 30 km entre Perros-Guirec et Trébeurden dans les Côtes d'Armor.",
-      "category": "Géo"
-    },
-    {
-      "id": 25,
-      "date": "2026-01-25",
-      "question": "Quel groupe sangin est receveur universel ?",
-      "choices": [
-        "AB+",
-        "O-",
-        "O+",
-        "A-"
-      ],
-      "correctIndex": 0,
-      "explanation": "Il existe huit combinaisons combinaisons de groupes sanguins : A, B, O et AB avec soit avec un facteur Rhésus (+) ou (-). Le groupe AB+ peut recevoir du sang de tous les groupes sanguins et on l'appelle « receveur universel ». Il représente environ 3% en France.",
-      "category": "Sciences"
-    },
-    {
-      "id": 26,
-      "date": "2026-01-26",
-      "question": "Qui est la première femme directrice artistique de Dior ?",
-      "choices": [
-        "Maria Grazia Chiuri",
-        "Stella McCartney",
-        "Phoebe Philo",
-        "Madeleine Vionnet"
-      ],
-      "correctIndex": 0,
-      "explanation": "Maria Grazia Chiuri, née à Rome en février 1964, est une styliste italienne. Après Fendi, elle passe dix-sept ans chez Valentino avant d'être nommée directrice artistique de Dior en 2017, jusqu'à son départ en 2025.",
-      "category": "Mode"
-    },
-    {
-      "id": 27,
-      "date": "2026-01-27",
-      "question": "Qui est la créatrice de la « petite robe noire » devenue iconique ?",
-      "choices": [
-        "Elsa Schiaparelli",
-        "Jeanne Lanvin",
-        "Madeleine Vionnet",
-        "Coco Chanel"
-      ],
-      "correctIndex": 3,
-      "explanation": "Coco Chanel popularise la petite robe noire dans les années 1920, symbole d’élégance intemporelle, de modernité et de libération du corps féminin.",
-      "category": "Mode"
-    },
-    {
-      "id": 28,
-      "date": "2026-01-28",
-      "question": "Combien de fois la France a-t-elle accueilli les Jeux olympiques ?",
-      "choices": [
-        "2",
-        "4",
-        "6",
-        "8"
-      ],
-      "correctIndex": 2,
-      "explanation": "Cela fait 6 fois que la France accueille les JO : 3 fois ceux d’été (Paris en 1900, 1924 et 2024) et 3 fois ceux d’hiver (Chamonix en 1924, Grenoble en 1968 et Albertville en 1992). Juste derrière les USA avec 8 JO.",
-      "category": "Sport"
-    },
-    {
-      "id": 29,
-      "date": "2026-01-29",
-      "question": "Quel est le club le plus titré de la Ligue des champions féminine ?",
-      "choices": [
-        "Olympique lyonnais",
-        "FC Barcelone",
-        "FFC Francfort",
-        "PSG"
-      ],
-      "correctIndex": 0,
-      "explanation": "L’OL a remporté huit fois ce titre depuis sa création en 2001, avec 5 victoires d’affilée entre 2016 et 2020.",
-      "category": "Sport"
-    },
-    {
-      "id": 30,
-      "date": "2026-01-30",
-      "question": "Quelle styliste est associée au style punk dans la mode ?",
-      "choices": [
-        "Stella McCartney",
-        "Vivienne Westwood",
-        "Sonia Rykiel",
-        "Agnès b."
-      ],
-      "correctIndex": 1,
-      "explanation": "Vivienne Westwood révolutionne la mode en intégrant l’esthétique punk, mêlant provocation, politique et créativité et influençant durablement la culture fashion.",
-      "category": "Mode"
-    },
-    {
-      "id": 31,
-      "date": "2026-01-31",
-      "question": "En quelle année se déroule la première édition du Tour de France ?",
-      "choices": [
-        "1893",
-        "1903",
-        "1913",
-        "1923"
-      ],
-      "correctIndex": 1,
-      "explanation": "Le premier Tour de France part le 1er juillet 1903 de Montgeron (Essonne) et comprend six étapes.",
-      "category": "Sport"
-    },
-    {
-      "id": 32,
-      "date": "2026-02-01",
-      "question": "Quelle est la capitale de la Suisse ?",
-      "choices": [
-        "Zurich",
-        "Genève",
-        "Berne",
-        "Lausanne"
-      ],
-      "correctIndex": 2,
-      "explanation": "Berne est la capitale de la Suisse mais est seulement la 5ème ville la plus peuplée de Suisse après Zurich, Genève, Bâle et Lausanne.",
-      "category": "Géo"
-    },
-    {
-      "id": 33,
-      "date": "2026-02-02",
-      "question": "Quel sport équestre argentin est le sport national ?",
-      "choices": [
-        "Le polo",
-        "Le pato",
-        "Le horse-ball",
-        "Le boulingrin"
-      ],
-      "correctIndex": 1,
-      "explanation": "Le pato est un sport équestre originaire d'Argentine et déclaré « sport national » en 1953.",
-      "category": "Sport"
-    },
-    {
-      "id": 34,
-      "date": "2026-02-03",
-      "question": "Quel mot est de genre masculin ?",
-      "choices": [
-        "Anagramme",
-        "Abysse",
-        "Aspirine",
-        "Octave"
-      ],
-      "correctIndex": 1,
-      "explanation": "On dit bien une anagramme, une aspirine, une octave et un abysse.",
-      "category": "Orthographe"
-    },
-    {
-      "id": 35,
-      "date": "2026-02-04",
-      "question": "Avec quel pays la France partage-t-elle sa plus longue frontière terrestre ?",
-      "choices": [
-        "Suriname",
-        "Suisse",
-        "Espagne",
-        "Brésil"
-      ],
-      "correctIndex": 3,
-      "explanation": "La France et le Brésil partagent une frontière de plus de 730 km, ce qui constitue la plus longue frontière terrestre française.",
-      "category": "Géo"
-    },
-    {
-      "id": 36,
-      "date": "2026-02-05",
-      "question": "Quel créateur star a été le directeur artistique de Christian Dior pendant presque 15 ans ?",
-      "choices": [
-        "Marc Jacobs",
-        "Tom Ford",
-        "Karl Lagarfeld",
-        "John Galliano"
-      ],
-      "correctIndex": 3,
-      "explanation": "En 1996, la maison Christian Dior nomme un nouveau directeur artistique pour ses lignes prêt-à-porter et Haute Couture : John Galliano.",
-      "category": "Mode"
-    },
-    {
-      "id": 37,
-      "date": "2026-02-06",
-      "question": "Comment appelle-t-on ces fêtes bretonnes durant lesquelles on pratique danses et chants traditionnels ?",
-      "choices": [
-        "Le bagad",
-        "Le biniou",
-        "Le kastell",
-        "Le fest-noz"
-      ],
-      "correctIndex": 3,
-      "explanation": "Le fest-noz est un rassemblement festif basé sur la pratique collective des danses traditionnelles de Bretagne, accompagnées de chants ou musiques instrumentales.",
-      "category": "Géo"
-    },
-    {
-      "id": 38,
-      "date": "2026-02-07",
-      "question": "Quelle femme est surnommée « la reine du tricot » ?",
-      "choices": [
-        "Maria Grazia Chiuri",
-        "Donatella Versace",
-        "Sonia Rykiel",
-        "Phoebe Philo"
-      ],
-      "correctIndex": 2,
-      "explanation": "Sonia Rykiel révolutionne le tricot en le rendant sexy et confortable, libérant le corps féminin et imposant un style décontracté et intellectuel.",
-      "category": "Mode"
-    },
-    {
-      "id": 39,
-      "date": "2026-02-08",
-      "question": "Considérée comme une papesse de la mode, comment s'appelle la rédactrice en chef du Vogue US ?",
-      "choices": [
-        "Suzy Menkes",
-        "Carine Roitfeld",
-        "Emmanuelle Alt",
-        "Anna Wintour"
-      ],
-      "correctIndex": 3,
-      "explanation": "Anna Wintour, à 75 ans, se retire de son poste de patronne de Vogue après 37 ans de service. Cette position a fait d'elle l'une des femmes les plus influentes au monde. Elle a notamment inspiré le rôle de Miranda Priestly dans le film Le Diable s'habille en Prada, incarné par Meryl Streep.",
-      "category": "Mode"
-    },
-    {
-      "id": 40,
-      "date": "2026-02-09",
-      "question": "Quel était le prénom de Balenciaga, fondateur de la marque éponyme ?",
-      "choices": [
-        "Cristobal",
-        "Paolo",
-        "Esteban",
-        "Rafael"
-      ],
-      "correctIndex": 0,
-      "explanation": "Cristobal Balenciaga fut l'un des plus grands couturiers, unanimement reconnu par ses pairs et surnommé « le maître » ou encore « le couturier des couturiers ».",
-      "category": "Mode"
-    },
-    {
-      "id": 41,
-      "date": "2026-02-10",
-      "question": "Quel est le plus grand département d'Outre Mer (superficie) ?",
-      "choices": [
-        "La Martinique",
-        "La Réunion",
-        "La Guyane",
-        "La Guadeloupe"
-      ],
-      "correctIndex": 2,
-      "explanation": "Située au nord-est du continent américain à 7 000 km de Paris, la Guyane est bordée par le Brésil et le Suriname. Avec une superficie de 84 000 km2 (soit 16 % du territoire métropolitain), c'est le plus vaste département français d'outre-mer.",
-      "category": "Géo"
-    },
-    {
-      "id": 42,
-      "date": "2026-02-11",
-      "question": "Quelle proposition est incorrecte ?",
-      "choices": [
-        "Les arrières-boutiques",
-        "Les nouveaux-nés",
-        "Les derniers-nés",
-        "Les après-midi"
-      ],
-      "correctIndex": 1,
-      "explanation": "Les nouveau-nés.",
-      "category": "Orthographe"
-    },
-    {
-      "id": 43,
-      "date": "2026-02-12",
-      "question": "Quel mot est de genre féminin ?",
-      "choices": [
-        "Entracte",
-        "Armistice",
-        "Aromate",
-        "éphéméride"
-      ],
-      "correctIndex": 3,
-      "explanation": "Une éphéméride.",
-      "category": "Orthographe"
-    },
-    {
-      "id": 44,
-      "date": "2026-02-13",
-      "question": "Quelle pays possède la plus superficie forestière du monde ?",
-      "choices": [
-        "Russie ",
-        "Canada",
-        "Brésil",
-        "Chine"
-      ],
-      "correctIndex": 0,
-      "explanation": "La Russie abrite la plus grande superficie forestière au monde, couvrant plus de 815 millions d’hectares, soit près de 20 % de la superficie forestière totale de la planète.",
-      "category": "Géo"
-    },
-    {
-      "id": 45,
-      "date": "2026-02-14",
-      "question": "Selon l'Article 1er de la Constitution. « La France est une république indivisible, laïque, démocratique et ... »",
-      "choices": [
-        "Morale",
-        "Libérale",
-        "Libre",
-        "Sociale"
-      ],
-      "correctIndex": 3,
-      "explanation": "La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion.",
-      "category": "Politique"
-    },
-    {
-      "id": 46,
-      "date": "2026-02-15",
-      "question": "A part Chanel et ses propres marques, de quelle marque Karl Lagerfeld a-t-il été le directeur artistique ?",
-      "choices": [
-        "Gucci",
-        "Fendi",
-        "Dior",
-        "Prada"
-      ],
-      "correctIndex": 1,
-      "explanation": "Karl Lagerfeld a été à la tête de Fendi pendant 54 ans. ",
-      "category": "Mode"
-    },
-    {
-      "id": 47,
-      "date": "2026-02-16",
-      "question": "Le feu a été découvert par ...",
-      "choices": [
-        "L'homme de Cro-Magnon",
-        "L'Homo erectus",
-        "L'Homo sapiens",
-        "L'homo habilis"
-      ],
-      "correctIndex": 1,
-      "explanation": "La découverte du feu est un tournant majeur dans l'Histoire de l'humanité. Difficile à dater, elle s'est faite de manière progressive à plusieurs endroits à la fois. On sait qu'Homo erectus le domestiquait vers 400.000 ans avant notre ère, et qu'Homo sapiens a développé son usage.",
-      "category": "Histoire"
-    },
-    {
-      "id": 48,
-      "date": "2026-02-17",
-      "question": "Quel est le meilleur buteur de l’histoire de la Ligue des champions ?",
-      "choices": [
-        "Lionel Messi",
-        "Kylian Mbappé",
-        "Karim Benzema",
-        "Cristiano Ronaldo"
-      ],
-      "correctIndex": 3,
-      "explanation": "Cristiano Ronaldo est le meilleur buteur de tous les temps en Champions League",
-      "category": "Sport"
-    },
-    {
-      "id": 49,
-      "date": "2026-02-18",
-      "question": "Quel dramaturge s'illustre particulièrement dans la comédie au XVIIIe siècle ? ",
-      "choices": [
-        "Molière",
-        "Marivaux",
-        "Corneille",
-        "Racine"
-      ],
-      "correctIndex": 1,
-      "explanation": "Le 18e siècle se passionne pour le théâtre avec une production très abondante. Un nouveau genre apparaît entre la tragédie et la comédie : le drame bourgeois. Marivaux est surtout connu pour ses pièces qui traitent de \"la métaphysique du coeur\", ce qu'on a appelé le marivaudage : La Surprise de l'amour (1722), la Double Inconstance (1723), le Jeu de l'amour et du hasard (1730), les Fausses confidences (1737).",
-      "category": "Histoire"
-    },
-    {
-      "id": 50,
-      "date": "2026-02-19",
-      "question": "Quelle proposition est incorrecte ?",
-      "choices": [
-        "Hormis",
-        "Volontiers",
-        "Malgrés",
-        "Certes"
-      ],
-      "correctIndex": 2,
-      "explanation": "Malgré.",
-      "category": "Orthographe"
-    },
-    {
-      "id": 51,
-      "date": "2026-02-20",
-      "question": "Quel entraîneur est le plus titré en Ligue des champions ?",
-      "choices": [
-        "Pep Guardiola",
-        "Luis Enrique",
-        "Zinédine Zidane",
-        "Carlo Ancelotti"
-      ],
-      "correctIndex": 3,
-      "explanation": "Carlo Ancelotti a remporté 5 fois la coupe (avec l'AC Milan en 2003 et 2007 puis avec le Real Madrid en 2014, 2022 et 2024)",
-      "category": "Sport"
-    },
-    {
-      "id": 52,
-      "date": "2026-02-21",
-      "question": "Quelle styliste est connue pour ses créations écologiques et sans cuir ?",
-      "choices": [
-        "Carolina Herrera",
-        "Isabel Marant",
-        "Stella McCartney",
-        "Victoria Beckham"
-      ],
-      "correctIndex": 2,
-      "explanation": "Stella McCartney est la pionnière de la mode eco-friendly en lançant sa maison éponyme en 2001 et en refusant d'utiliser cuir, fourrure, plumes ou aucun autre tissu animal.",
-      "category": "Mode"
-    },
-    {
-      "id": 53,
-      "date": "2026-02-22",
-      "question": "De quelle marque française une calèche est-elle le logo ?",
-      "choices": [
-        "Dior",
-        "Hermes",
-        "Chanel",
-        "Longchamp"
-      ],
-      "correctIndex": 1,
-      "explanation": "Hermès a choisi le logo du cheval et de la calèche pour se représenter comme l'une des marques les plus luxueuses au monde.",
-      "category": "Mode"
-    },
-    {
-      "id": 54,
-      "date": "2026-02-23",
-      "question": "Quel match de la Ligue des champions, surnommé la remontada, a marqué l’histoire du football ?",
-      "choices": [
-        "Liverpool-FC Barcelone",
-        "PSG-Manchester United",
-        "FC Barcelone–PSG",
-        "Real Madrid–PSG"
-      ],
-      "correctIndex": 2,
-      "explanation": "Le 8 mars 2017, le FC Barcelone, battu 4-0 par le Paris Saint-Germain lors du match aller, sort vainqueur de ces huitièmes de finale en battant le Paris Saint-Germain 6-1.",
-      "category": "Sport"
-    },
-    {
-      "id": 55,
-      "date": "2026-02-24",
-      "question": "Qu'est ce que le steeple ?",
-      "choices": [
-        "Un art martial",
-        "Un sport équestre",
-        "Une course d'obstacles",
-        "Un sport nautique"
-      ],
-      "correctIndex": 2,
-      "explanation": "Le steeple est une course sur piste durant laquelle les athlètes franchissent de larges barrières fixes et des fosses remplies d'eau (« rivières »).",
-      "category": "Sport"
-    },
-    {
-      "id": 56,
-      "date": "2026-02-25",
-      "question": "Quel club a réussi l'exploit de remporter tous ses matchs lors d'une édition de la Ligue des champions ?",
-      "choices": [
-        "Milan AC",
-        "Real Madrid",
-        "FC Barcelone",
-        "Bayern Munich"
-      ],
-      "correctIndex": 3,
-      "explanation": "Le Bayern Munich est le seul club de l’histoire à avoir remporté la Ligue des champions en gagnant tous ses matchs lors de la saison 2019-2020.",
-      "category": "Sport"
-    },
-    {
-      "id": 57,
-      "date": "2026-02-26",
-      "question": "En 1967, Muhammad Ali est déchu de son titre de champion du monde de boxe parce qu’il…",
-      "choices": [
-        "refuse de combattre au Vietnam",
-        "est gravement blessé",
-        "milite en faveur de la cause noire",
-        "a critiqué la fédération de boxe"
-      ],
-      "correctIndex": 0,
-      "explanation": "Il refuse de combattre au Vietnam.",
-      "category": "Sport"
-    },
-    {
-      "id": 58,
-      "date": "2026-02-27",
-      "question": "Parmi ces métaux, quel fut le premier a être utilisé ?",
-      "choices": [
-        "Cuivre",
-        "Bronze",
-        "Fer",
-        "Or"
-      ],
-      "correctIndex": 0,
-      "explanation": "Le cuivre fut probablement le premier métal extrait et travaillé par l'homme.",
-      "category": "Histoire"
-    },
-    {
-      "id": 59,
-      "date": "2026-02-28",
-      "question": "Quel club a le plus remporté la Ligue des champions ?",
-      "choices": [
-        "Milan AC",
-        "Real Madrid",
-        "FC Barcelone",
-        "Bayern Munich"
-      ],
-      "correctIndex": 1,
-      "explanation": "Le Real Madrid domine le palmarès de la compétition avec 15 titres. Le club espagnol est également celui qui a disputé le plus de finales (18)",
-      "category": "Sport"
-    },
-    {
-      "id": 60,
-      "date": "2026-03-01",
-      "question": "Lequel de ces pays n'est pas un état fédéral ?",
-      "choices": [
-        "Allemagne",
-        "Nouvelle-Zélande",
-        "Brésil",
-        "Canada"
-      ],
-      "correctIndex": 1,
-      "explanation": "La Nouvelle-Zélande est un état unitaire.",
-      "category": "Géo"
-    },
-    {
-      "id": 61,
-      "date": "2026-03-02",
-      "question": "Comment s'appelait la place publique chez les Athéniens ?",
-      "choices": [
-        "L'acropole",
-        "Le forum",
-        "Le temple",
-        "L'agora"
-      ],
-      "correctIndex": 3,
-      "explanation": "​L'Agora d'Athènes est le lieu de rencontre et de discussion des citoyens de la cité.",
-      "category": "Histoire"
-    },
-    {
-      "id": 62,
-      "date": "2026-03-03",
-      "question": "Quel sportif français possède le record de titres olympiques ?",
-      "choices": [
-        "Teddy Riner",
-        "Laura Flessel",
-        "Marie-Jo Perec",
-        "Martin Fourcade"
-      ],
-      "correctIndex": 3,
-      "explanation": "Il est le français le plus médaillé de l'histoire aux Jeux Olympiques d'Hiver avec 7 médailles, dont 5 d'or remportées en individuel.",
-      "category": "Sport"
-    },
-    {
-      "id": 63,
-      "date": "2026-03-04",
-      "question": "Dans quel sport nautique, Tony Estanguet a-t-il remporté 3 titres olympiques ?",
-      "choices": [
-        "Aviron",
-        "Canoë-kayak",
-        "Natation",
-        "Hockey Subaquatique"
-      ],
-      "correctIndex": 1,
-      "explanation": "Tony Estanguet est devenu une légende olympique en remportant trois médailles d'or consécutives aux Jeux de Sydney, Athènes et Londres. Après sa carrière sportive, il s'est investi dans l'organisation des Jeux de Paris 2024.",
-      "category": "Sport"
-    },
-    {
-      "id": 64,
-      "date": "2026-03-05",
-      "question": "Quel est le siècle des Lumières ?",
-      "choices": [
-        "Xe siècle",
-        "XVIe siècle",
-        "XVIIe siècle",
-        "XVIIIe siècle"
-      ],
-      "correctIndex": 3,
-      "explanation": "Le mouvement des Lumières tire son nom de la volonté des philosophes européens du XVIIIe siècle de combattre les ténèbres de l'ignorance par la diffusion du savoir. ",
-      "category": "Histoire"
-    },
-    {
-      "id": 65,
-      "date": "2026-03-06",
-      "question": "Quels pays se partagent le lac Léman ?",
-      "choices": [
-        "L'Italie et la France",
-        "La Suisse et l'Italie",
-        "La Suisse et la France",
-        "La Suisse, la France et l'Italie"
-      ],
-      "correctIndex": 2,
-      "explanation": "Le lac Léman est un lac 580 km² situé entre la France et la Suisse et dominé par les Alpes. Côté Suisse, on retouve la célèbre ville de Genève et du côté français, se trouve la ville thermale et station balnéaire d'Évian-les-Bains.",
-      "category": "Géo"
-    },
-    {
-      "id": 66,
-      "date": "2026-03-07",
-      "question": "Quel est le nom du personnage principal du film Gladiator réalisé par Ridley Scott ?",
-      "choices": [
-        "Marc-Aurèle",
-        "Commode",
-        "Proximo",
-        "Maximus"
-      ],
-      "correctIndex": 3,
-      "explanation": "Maximus Decimus Meridius est le personnage principal de Gladiator.",
-      "category": "Cinéma"
-    },
-    {
-      "id": 67,
-      "date": "2026-03-08",
-      "question": "Que célèbre t-on le 8 mars ?",
-      "choices": [
-        "La fête des femmes",
-        "La journée internationale des droits des femmes",
-        "L'anniversaire de la loi Veil",
-        "La fête des mères"
-      ],
-      "correctIndex": 1,
-      "explanation": "Depuis 1982, la France reconnaît officiellement le 8 mars comme Journée internationale des droits des femmes. Lors du 8 mars, on ne célèbre pas les femmes : on combat les inégalités. Le 8 mars n’est pas une fête commerciale, ni l’équivalent d’une fête des mères. C’est une journée politique, née de luttes sociales, qui vise à : dénoncer les discriminations et violences faites aux femmes, rendre visibles les inégalités persistantes, exiger des avancées concrètes, rappeler que l’égalité n’est toujours pas réalisée. Transformer le 8 mars en « fête des femmes » reviendrait à enlever la journée de son sens et à invisibiliser les combats.",
-      "category": "Les droits des femmes"
-    },
-    {
-      "id": 68,
-      "date": "2026-03-09",
-      "question": "Quel pays a pour capitale Bamako ?",
-      "choices": [
-        "Mali",
-        "Sénégal",
-        "Cameroun",
-        "Côte d'Ivoire"
-      ],
-      "correctIndex": 0,
-      "explanation": "Bamako est la plus grande ville du Mali et sa capitale depuis 1960.",
-      "category": "Géo"
-    },
-    {
-      "id": 69,
-      "date": "2026-03-10",
-      "question": "Quelle dynastie a fait bâtir la partie la plus visible et la plus connue de la Grande Muraille de Chine ?",
-      "choices": [
-        "Dynastie Xin",
-        "Dynastie Tang",
-        "Dynastie Qin",
-        "Dynastie Ming"
-      ],
-      "correctIndex": 3,
-      "explanation": "La Grande Muraille Ming construite sous la dynastie Ming (1368-1644), forme aujourd'hui la partie la plus visible et la plus connue de la grande muraille de Chine.",
-      "category": "Histoire"
-    },
-    {
-      "id": 70,
-      "date": "2026-03-11",
-      "question": "Quel acteur a joué le plus de fois le rôle du célèbre 007 (James Bond) ?",
-      "choices": [
-        "Daniel Craig",
-        "Pierce Brosnan",
-        "Roger Moore",
-        "Sean Connery"
-      ],
-      "correctIndex": 2,
-      "explanation": "Roger Moore a joué James Bond 7 fois, Sean Connery 6 fois, Daniel Craig 5 et Pierce Brosnan 4.",
-      "category": "Cinéma"
-    },
-    {
-      "id": 71,
-      "date": "2026-03-12",
-      "question": "Depuis quand les femmes peuvent-elles gérer leurs biens propres et exercer une activité professionnelle sans le consentement de leur mari ?",
-      "choices": [
-        "8 juillet 1936",
-        "12 juin 1944",
-        "15 mai 1956",
-        "13 juillet 1965"
-      ],
-      "correctIndex": 3,
-      "explanation": "La loi du 13 juillet 1965 portant réforme des régimes matrimoniaux accorde aux femmes le droit d’ouvrir un compte en banque et d’exercer une profession sans le consentement de leur mari. Il faut attendre 1985 pour que l’égalité des époux dans la gestion des biens de la famille et des enfants soit reconnue.",
-      "category": "Les droits des femmes"
-    },
-    {
-      "id": 72,
-      "date": "2026-03-13",
-      "question": "En France, qui remplace le président de la République en cas de décès, de démission ou de destitution ?",
-      "choices": [
-        "Le président de l'Assemblée Nationale",
-        "Le président du Sénat",
-        "Le Premier Ministre",
-        "Le ministre de l'Intérieur"
-      ],
-      "correctIndex": 1,
-      "explanation": "C'est le président du Sénat qui est chargé de l'intérim.",
-      "category": "Culture G"
-    },
-    {
-      "id": 73,
-      "date": "2026-03-14",
-      "question": "Qui a créé le personnage de Frankenstein en 1818 ?",
-      "choices": [
-        "Oscar Wilde",
-        "Jane Austen",
-        "Mary Shelley",
-        "Georges Orwell"
-      ],
-      "correctIndex": 2,
-      "explanation": "Mary Shelley n'avait que 19 ans quand elle a écrit ce chef-d’œuvre de la littérature : «Frankenstein ou le Prométhée moderne». Il est considéré comme le premier roman de science-fiction au monde.",
-      "category": "Littérature"
-    },
-    {
-      "id": 74,
-      "date": "2026-03-15",
-      "question": "Quel est le fruit du hêtre ?",
-      "choices": [
-        "La faine",
-        "La caroube",
-        "Le disamare",
-        "Le gland"
-      ],
-      "correctIndex": 0,
-      "explanation": "Peu connue, la faine est le fruit du hêtre. Elle a un petit goût de noisette.",
-      "category": "Nature"
-    },
-    {
-      "id": 75,
-      "date": "2026-03-16",
-      "question": "Quelle forme d’art peut-on voir dans une pinacothèque ?",
-      "choices": [
-        "Des statues",
-        "Des mosaïques",
-        "Des tableaux",
-        "Des fresques"
-      ],
-      "correctIndex": 2,
-      "explanation": "La racine de ce terme vient du latin pinacotheca, qui veut dire « salle qui contient une collection de tableaux ».",
-      "category": "Art"
-    },
-    {
-      "id": 76,
-      "date": "2026-03-17",
-      "question": "Quel pilote a remporté le plus de championnat du monde de Formule 1 à partir de l'année 2000 ?",
-      "choices": [
-        "Max Verstappen",
-        "Lewis Hamilton",
-        "Michael Schumacher",
-        "Fernando Alonso"
-      ],
-      "correctIndex": 1,
-      "explanation": "Lewis Hamilton a remporté 7 fois le titre, Michael Schumacher 5 fois (même si au total 7 fois également), Max Verstappen 4 fois et Alonso 2 fois.",
-      "category": "Sport"
-    },
-    {
-      "id": 77,
-      "date": "2026-03-18",
-      "question": "Quelle est la bonne orthographe ?",
-      "choices": [
-        "Obnubiler",
-        "Obnibuler",
-        "Omnubiler",
-        "Omnibuler"
-      ],
-      "correctIndex": 0,
-      "explanation": "Pas facile ! Obnubiler signifie être obsédé par quelque chose.",
-      "category": "Orthographe"
-    },
-    {
-      "id": 78,
-      "date": "2026-03-19",
-      "question": "Quelle ville actuelle se faisait appeler Byzance ?",
-      "choices": [
-        "Rome",
-        "Athènes",
-        "Istanbul",
-        "Bagdad"
-      ],
-      "correctIndex": 2,
-      "explanation": "La cité grecque de Byzance a été créée vers 667 avant notre ère, au carrefour de l'Europe et de l'Asie. Cette ville a ensuite porté le nom de Constantinople. Elle a été à la tête de l'Empire byzantin, puis de l'Empire ottoman, avant d'être nommée Istanbul en 1930.",
-      "category": "Histoire"
-    },
-    {
-      "id": 79,
-      "date": "2026-03-20",
-      "question": "Dans quel pays d'Europe se trouve la Principauté des Asturies ?",
-      "choices": [
-        "Italie",
-        "Espagne",
-        "Grèce",
-        "Autriche"
-      ],
-      "correctIndex": 2,
-      "explanation": "La principauté des Asturies est une communauté autonome d’Espagne depuis 1982. Elle est située au nord-ouest de l'Espagne et elle est connue pour sa côte accidentée, ses montagnes et son architecture médiévale.",
-      "category": "Géo"
-    },
-    {
-      "id": 80,
-      "date": "2026-03-21",
-      "question": "Quel est le nom du mélange de 7 épices originaire du Liban ?",
-      "choices": [
-        "Le zaatar",
-        "Le dukkah ",
-        "Le colombo",
-        "Le ras el hanout"
-      ],
-      "correctIndex": 0,
-      "explanation": "Le Zaatar, désormais connu de tous grâce à Loulou Kitchen, est un mélange libanais. Les ingrédients principaux sont le thym, le sumac et les graines de sésame grillées, mais il peut également contenir d'autres herbes telles que l'origan, la marjolaine et la sarriette.",
-      "category": "Cuisine"
-    },
-    {
-      "id": 81,
-      "date": "2026-03-22",
-      "question": "A partir de quelle température, l’or commence-t-il à fondre ?",
-      "choices": [
-        "564° C",
-        "1064° C",
-        "1564° C",
-        "2064° C"
-      ],
-      "correctIndex": 1,
-      "explanation": "le point de fusion de l'or pur se situe à 1064 degrés Celsius.",
-      "category": "Sciences"
-    },
-    {
-      "id": 82,
-      "date": "2026-03-23",
-      "question": "Quel pays a pour capitale Kinshasa ?",
-      "choices": [
-        "République démocratique du Congo",
-        "Gabon",
-        "Togo",
-        "Nigeria"
-      ],
-      "correctIndex": 0,
-      "explanation": "Kinshasa est la capitale et la plus grande ville de la république démocratique du Congo et l'une des plus peuplées d'Afrique. À ne pas confondre avec la République du Congo dont la capitale est Brazzaville.",
-      "category": "Geo"
-    },
-    {
-      "id": 83,
-      "date": "2026-03-24",
-      "question": "D'où est originaire le chanteur Bad Bunny ?",
-      "choices": [
-        "Puerto Rico",
-        "Jamaique",
-        "Bahamas",
-        "Cuba"
-      ],
-      "correctIndex": 0,
-      "explanation": "Le rappeur, de son vrai nom Benito Antonio Martínez Ocasio, est originaire de Puerto Rico (ou Porto Rico), un territoire non incorporé des États-Unis.",
-      "category": "Musique"
-    },
-    {
-      "id": 84,
-      "date": "2026-03-25",
-      "question": "Au théâtre, qu’est-ce qu’une didascalie ?",
-      "choices": [
-        "Une indication textuelle donnée par l’auteur de la pièce sur la mise en scène",
-        "L’endroit où se déroule une action qui est en dehors du champ visuel du public",
-        "Une conversation qu’un personnage a à haute voix avec lui-même",
-        "Un long monologue"
-      ],
-      "correctIndex": 0,
-      "explanation": "Une didascalie au théâtre est une indication de l'auteur sur la façon dont le texte doit être joué. Elle peut porter sur les déplacements des comédiens, les émotions, la mise en scène ou encore les décors.",
-      "category": "Théatre"
-    },
-    {
-      "id": 85,
-      "date": "2026-03-26",
-      "question": "Quel réalisateur français a réalisé Les Poupées Russes et l'Auberge Espagnole ?",
-      "choices": [
-        "Cédric Klapisch",
-        "François Ozon",
-        "Jacques Audiard",
-        "Jean-Pierre Jeunet"
-      ],
-      "correctIndex": 0,
-      "explanation": "Les Poupées Russes et l'Auberge Espagnole ont été réalisés par Cédric Klapisch.",
-      "category": "Cinéma"
-    },
-    {
-      "id": 86,
-      "date": "2026-03-27",
-      "question": "Quel ministère est couramment appelé «La place Beauvau» ?",
-      "choices": [
-        "Ministère de la Justice",
-        "Ministère de la Santé",
-        "Ministère de l'Éducation",
-        "Ministère de l'Intérieur"
-      ],
-      "correctIndex": 3,
-      "explanation": "Par métonymie, la Place Beauvau désigne le Ministère de l’Intérieur, qui est installé à l'hôtel de Beauvau.",
-      "category": "Culture G"
-    },
-    {
-      "id": 87,
-      "date": "2026-03-28",
-      "question": "Quel est l'intrus ?",
-      "choices": [
-        "La Reine Margot",
-        "Les Trois Mousquetaires",
-        "Le Comte de Monte-Cristo",
-        "La Dame aux camélias"
-      ],
-      "correctIndex": 3,
-      "explanation": "La Reine Margot, Les Trois Mousquetaires et Le Comte de Monte-Cristo ont été écrits par Alexandre Dumas (Père) alors que La Dame aux camélias a été écrit par Alexandre Dumas fils. Le moins qu'on puisse dire, c'est qu'il y avait du talent dans la famille.",
-      "category": "Littérature"
-    },
-    {
-      "id": 88,
-      "date": "2026-03-29",
-      "question": "Quel est le temps record féminin pour courir les 42 km d’un marathon ?",
-      "choices": [
-        "2 heures 1 minute et 9 secondes",
-        "2 heures 9 minutes et 56 secondes",
-        "2 heures 17 minutes et 38 secondes",
-        "2 heures 29 minutes et 5 secondes"
-      ],
-      "correctIndex": 0,
-      "explanation": "Le 13 octobre 2024, dans les rues de Chicago, Ruth Chepngetich 30 ans à l'époque explosait le record du monde du marathon en 2h09'56.",
-      "category": "Sport"
-    },
-    {
-      "id": 89,
-      "date": "2026-03-30",
-      "question": "Quelle est la seule proposition bien orthographiée ?",
-      "choices": [
-        "Des cravates rouges et blanches",
-        "Des cravates rouges et blancs",
-        "Des cravates rouge et blanche",
-        "Des cravates rouge et blanc"
-      ],
-      "correctIndex": 3,
-      "explanation": "La règle de grammaire française veut que quand un objet possède plusieurs couleurs, elles ne sont pas accordées. On dirait : «Les cravates blanches» quand il n'y a qu'une couleur et «Les cravates rouge et blanc» sans accorder lorsqu'il y a deux couleurs.",
-      "category": "Orthographe"
-    },
-    {
-      "id": 90,
-      "date": "2026-03-31",
-      "question": "Combien de temps dura la guerre de Sécession ?",
-      "choices": [
-        "90 jours",
-        "2 ans",
-        "4 ans",
-        "12 ans"
-      ],
-      "correctIndex": 2,
-      "explanation": "La guerre de Sécession est une guerre civile opposant le gouvernement fédéral des États-Unis d'Amérique, dirigés par le président des États-Unis Abraham Lincoln, et les États du Sud confédérés d'Amérique, qui eux étaient esclavagistes.",
-      "category": "Histoire"
-    },
-    {
-      "id": 91,
       "date": "2026-04-01",
       "question": "Quels pays se partagent le lac Léman ?",
       "choices": [
@@ -1275,7 +15,7 @@
       "category": "Géo"
     },
     {
-      "id": 92,
+      "id": 2,
       "date": "2026-04-02",
       "question": "Quelle est la formule pour calculer le périmètre d’un cercle ?",
       "choices": [
@@ -1289,7 +29,7 @@
       "category": "Sciences"
     },
     {
-      "id": 93,
+      "id": 3,
       "date": "2026-04-03",
       "question": "Combien de pays appartiennent à l'Union Africaine ?",
       "choices": [
@@ -1303,7 +43,7 @@
       "category": "Geo"
     },
     {
-      "id": 94,
+      "id": 4,
       "date": "2026-04-04",
       "question": "De quel groupe de rock Chris Martin est-il le chanteur ?",
       "choices": [
@@ -1317,7 +57,7 @@
       "category": "Musique"
     },
     {
-      "id": 95,
+      "id": 5,
       "date": "2026-04-05",
       "question": "Quel navire a une malédiction selon le premier volet de la saga Pirates des Caraïbes ?",
       "choices": [
@@ -1331,7 +71,7 @@
       "category": "Cinéma"
     },
     {
-      "id": 96,
+      "id": 6,
       "date": "2026-04-06",
       "question": "En Asie, quel astre est célébré durant la fête de la mi-automne ?",
       "choices": [
@@ -1345,7 +85,7 @@
       "category": "Culture G"
     },
     {
-      "id": 97,
+      "id": 7,
       "date": "2026-04-07",
       "question": "Quelle femme Napoléon Iᵉʳ épouse-t-il le 9 mars 1796 ?",
       "choices": [
@@ -1359,7 +99,7 @@
       "category": "Histoire"
     },
     {
-      "id": 98,
+      "id": 8,
       "date": "2026-04-08",
       "question": "Dans quel département se trouve la ville de Vannes ?",
       "choices": [
@@ -1373,7 +113,7 @@
       "category": "Géo"
     },
     {
-      "id": 99,
+      "id": 9,
       "date": "2026-04-09",
       "question": "Quelle est la ville la plus basse du monde par rapport au niveau de la mer ?",
       "choices": [
@@ -1387,7 +127,7 @@
       "category": "Geo"
     },
     {
-      "id": 100,
+      "id": 10,
       "date": "2026-04-10",
       "question": "Lequel de ces films a remporté la Palme d’Or au festival de Cannes ?",
       "choices": [
@@ -1401,22 +141,246 @@
       "category": "Cinéma"
     },
     {
-      "id": 101,
+      "id": 11,
       "date": "2026-04-11",
-      "question": "Quelle quantité d’air une personne adulte consomme en moyenne chaque jour ?",
+      "question": "Que célèbre t-on le 8 mars ?",
       "choices": [
-        "5 000 litres",
-        "8 000 litres",
-        "12 000 litres",
-        "20 000 litres"
+        "La fête des femmes",
+        "La journée internationale des droits des femmes",
+        "L'anniversaire de la loi Veil",
+        "La fête des mères"
+      ],
+      "correctIndex": 1,
+      "explanation": "Depuis 1982, la France reconnaît officiellement le 8 mars comme Journée internationale des droits des femmes. Lors du 8 mars, on ne célèbre pas les femmes : on combat les inégalités. Le 8 mars n’est pas une fête commerciale, ni l’équivalent d’une fête des mères. C’est une journée politique, née de luttes sociales, qui vise à : dénoncer les discriminations et violences faites aux femmes, rendre visibles les inégalités persistantes, exiger des avancées concrètes, rappeler que l’égalité n’est toujours pas réalisée. Transformer le 8 mars en « fête des femmes » reviendrait à enlever la journée de son sens et à invisibiliser les combats.",
+      "category": "Histoire"
+    },
+    {
+      "id": 12,
+      "date": "2026-04-12",
+      "question": "Quelle ville se trouve sur la Côte d'Émeraude ?",
+      "choices": [
+        "Vannes",
+        "Etretat",
+        "Quimper",
+        "Saint-Malo"
+      ],
+      "correctIndex": 3,
+      "explanation": "La côte d'Emeraude se situe sur la côte nord de la Bretagne entre Cancale et le Cap Fréhel. Son appellation provient de la couleur émeraude de la mer.",
+      "category": "Géo"
+    },
+    {
+      "id": 13,
+      "date": "2026-04-13",
+      "question": "Quelle est la profondeur de la Fosse des Mariannes, le point le plus profond des océans?",
+      "choices": [
+        "4 km",
+        "7 km",
+        "11 km",
+        "19 km"
       ],
       "correctIndex": 2,
-      "explanation": "En moyenne, un adulte respire 12 000 litres d'air chaque jour.",
+      "explanation": "Cette fosse océanique est l’endroit le plus profond de la planète et se situe entre les Philippines et le Japon. La profondeur estimée est de 11km.",
+      "category": "Nature"
+    },
+    {
+      "id": 14,
+      "date": "2026-04-14",
+      "question": "Quelles sont les quatre principales villes dans lesquelles se déroulent des Fashion Week ?",
+      "choices": [
+        "New York, Londres, Milan et Paris",
+        "New York, Paris, Rome et Londres",
+        "Paris, Londres, Los Angeles et Milan",
+        "Paris, Rome, Madrid et Londres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les quatre grandes villes sont dans l'ordre New York, Londres, Milan et Paris",
+      "category": "Mode"
+    },
+    {
+      "id": 15,
+      "date": "2026-04-15",
+      "question": "Quels sont les deux personnages principaux de la série canadienne Heated Rivalry ?",
+      "choices": [
+        "Kip et Scott",
+        "Ilya et Shane",
+        "Ryan et Fabian",
+        "Kyle et Eric"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heated Rivalry raconte la relation amoureuse secrète entre deux stars rivales du hockey sur glace : Shane Hollander et Ilya Rozanov.",
+      "category": "Séries"
+    },
+    {
+      "id": 16,
+      "date": "2026-04-16",
+      "question": "Qui est l'auteur de l'ouvrage « Du Contrat social » en 1762 ?",
+      "choices": [
+        "Rousseau",
+        "Beaumarchais",
+        "Voltaire",
+        "Tocqueville"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans son Contrat social, publié en 1762, Rousseau propose un pacte entre les citoyens dans le but de remédier aux inégalités persistantes de la société. Il examine les conditions, essentielles et circonstancielles, d'une société légitime.",
       "category": "Culture G"
     },
     {
-      "id": 102,
-      "date": "2026-04-12",
+      "id": 17,
+      "date": "2026-04-17",
+      "question": "Au théâtre, qu’est-ce qu’une didascalie ?",
+      "choices": [
+        "Une indication textuelle donnée par l’auteur de la pièce sur la mise en scène",
+        "L’endroit où se déroule une action qui est en dehors du champ visuel du public",
+        "Une conversation qu’un personnage a à haute voix avec lui-même",
+        "Un long monologue"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une didascalie au théâtre est une indication de l'auteur sur la façon dont le texte doit être joué. Elle peut porter sur les déplacements des comédiens, les émotions, la mise en scène ou encore les décors.",
+      "category": "Théatre"
+    },
+    {
+      "id": 18,
+      "date": "2026-04-18",
+      "question": "Quelle est la consommation de viande par an et par habitant en France (en kg) ?",
+      "choices": [
+        "50 kg/hab/an",
+        "65 kg/hab/an",
+        "75 kg/hab/an",
+        "85 kg/hab/an"
+      ],
+      "correctIndex": 3,
+      "explanation": "Selon les années, la consommation de viande oscille entre 80 et 90 kg/hab/an en France.",
+      "category": "Écologie"
+    },
+    {
+      "id": 19,
+      "date": "2026-04-19",
+      "question": "Quel plat espagnol est naturellement végétarien ?",
+      "choices": [
+        "Les boquerones fritos",
+        "Les torreznos",
+        "La paëlla",
+        "L’escalivada catalane"
+      ],
+      "correctIndex": 3,
+      "explanation": "Les boquerones fritos sont des anchois frits, les torreznos sont des morceaux de lard frits. Il y a de la viande et/ou des fruits de mer dans la paëlla. Seule l’escalivada catalane est végétarienne qui est un mélange de légumes grillés.",
+      "category": "Cuisine"
+    },
+    {
+      "id": 20,
+      "date": "2026-04-20",
+      "question": "Combien de fois la France a-t-elle accueilli les Jeux olympiques ?",
+      "choices": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cela fait 6 fois que la France accueille les JO : 3 fois ceux d’été (Paris en 1900, 1924 et 2024) et 3 fois ceux d’hiver (Chamonix en 1924, Grenoble en 1968 et Albertville en 1992). Juste derrière les USA avec 8 JO.",
+      "category": "Sport"
+    },
+    {
+      "id": 21,
+      "date": "2026-04-21",
+      "question": "Quel film de Sofia Coppola a remporté l'Oscar du meilleur scénario original en 2004 ?",
+      "choices": [
+        "The Virgin Suicides",
+        "Marie-Antoinette",
+        "Lost in Translation",
+        "Somewhere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lost in Translation a valu à Sofia Coppola l'Oscar du meilleur scénario en 2004, une première pour une femme dans cette catégorie.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 22,
+      "date": "2026-04-22",
+      "question": "Quelle proposition est incorrecte ?",
+      "choices": [
+        "Les arrières-boutiques",
+        "Les nouveaux-nés",
+        "Les derniers-nés",
+        "Les après-midi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les nouveau-nés.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 23,
+      "date": "2026-04-23",
+      "question": "Quel est l'intrus ?",
+      "choices": [
+        "La Reine Margot",
+        "Les Trois Mousquetaires",
+        "Le Comte de Monte-Cristo",
+        "La Dame aux camélias"
+      ],
+      "correctIndex": 3,
+      "explanation": "La Reine Margot, Les Trois Mousquetaires et Le Comte de Monte-Cristo ont été écrits par Alexandre Dumas (Père) alors que La Dame aux camélias a été écrit par Alexandre Dumas fils. Le moins qu'on puisse dire, c'est qu'il y avait du talent dans la famille.",
+      "category": "Littérature"
+    },
+    {
+      "id": 24,
+      "date": "2026-04-24",
+      "question": "A partir de quelle température, l’or commence-t-il à fondre ?",
+      "choices": [
+        "564° C",
+        "1064° C",
+        "1564° C",
+        "2064° C"
+      ],
+      "correctIndex": 1,
+      "explanation": "le point de fusion de l'or pur se situe à 1064 degrés Celsius.",
+      "category": "Sciences"
+    },
+    {
+      "id": 25,
+      "date": "2026-04-25",
+      "question": "Parmi ces artistes, lequel n'est pas impressionniste ?",
+      "choices": [
+        "Berthe Morisot",
+        "Mary Cassatt",
+        "Alfred Sisley",
+        "George Braque"
+      ],
+      "correctIndex": 3,
+      "explanation": "Georges Braque est l’un des artistes majeurs du vingtième siècle. Il a inventé avec d'autres artistes le cubisme.",
+      "category": "Art"
+    },
+    {
+      "id": 26,
+      "date": "2026-04-26",
+      "question": "Qui a remporté la saison 1 de Drag Race France ?",
+      "choices": [
+        "Mami Watta",
+        "Nicky Doll",
+        "La Grande Dame",
+        "Paloma"
+      ],
+      "correctIndex": 3,
+      "explanation": "Paloma a été couronnée gagnante de la 1ère saison de Drag Race France en 2022.",
+      "category": "Pop culture"
+    },
+    {
+      "id": 27,
+      "date": "2026-04-27",
+      "question": "Dans quelle comédie musicale française peut-on entendre la chanson «Vérone»?",
+      "choices": [
+        "Roméo et Juliette : De l’amour à la haine",
+        "Le Roi Soleil",
+        "Les Dix Commandements",
+        "Notre-Dame de Paris"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vérone est le titre qui ouvre la comédie musicale Roméo et Juliette.",
+      "category": "Musique"
+    },
+    {
+      "id": 28,
+      "date": "2026-04-28",
       "question": "Sur combien d’années s’étend le Moyen Âge occidental ?",
       "choices": [
         "400 ans",
@@ -1429,330 +393,120 @@
       "category": "Histoire"
     },
     {
-      "id": 103,
-      "date": "2026-04-13",
-      "question": "Où a été observée la plus grosse vague du monde ?",
-      "choices": [
-        "À Nazaré au Portugal",
-        "À Teahupo’o à Tahiti",
-        "À Bidart au Pays-Basque",
-        "À Jaws à Hawaï"
-      ],
-      "correctIndex": 0,
-      "explanation": "En décembre 2014, la vague de Nazaré a atteint 33 mètres soit la hauteur d’un immeuble de 10 étages. La Praia do Norte de Nazaré est connue pour ses vagues adorées des surfeurs.",
-      "category": "Géo"
-    },
-    {
-      "id": 104,
-      "date": "2026-04-14",
-      "question": "Quelles sont les 2 langues officielles de la Finlande ?",
-      "choices": [
-        "Le finnois et l’anglais",
-        "Le finnois et le norvégien",
-        "Le finnois et le suédois",
-        "Le finnois et le russe"
-      ],
-      "correctIndex": 2,
-      "explanation": "Le finnois et le suédois sont les deux langues officielles.",
-      "category": "Geo"
-    },
-    {
-      "id": 105,
-      "date": "2026-04-15",
-      "question": "Dans quel film peut-on entendre : «Où sont les poulardes ? J'ai faim !» ?",
-      "choices": [
-        "Les tontons flingueurs",
-        "Les visiteurs",
-        "La folie des grandeurs",
-        "Le clan des siciliens"
-      ],
-      "correctIndex": 1,
-      "explanation": "C’est une réplique culte des Visiteurs : «Où sont les poulardes ? J'ai faim ! Où sont les veaux, les rôtis, les saucisses ? Où sont les fèves, les pâtés de cerf ?»",
-      "category": "Cinéma"
-    },
-    {
-      "id": 106,
-      "date": "2026-04-16",
-      "question": "Quel est le premier Empereur romain ?",
-      "choices": [
-        "Jules César",
-        "Auguste",
-        "Neron",
-        "Hadrien"
-      ],
-      "correctIndex": 1,
-      "explanation": "Ce n'est pas Jules César mais bien l'empereur Auguste (né environ en 63 av. J.-C. et mort en 14 ap. J.-C) qui est véritablement le premier empereur romain.",
-      "category": "Culture G"
-    },
-    {
-      "id": 107,
-      "date": "2026-04-17",
-      "question": "Quelle capitale européenne a été anéantie par un terrible séisme en 1755 ?",
-      "choices": [
-        "Madrid",
-        "Lisbonne",
-        "Athènes",
-        "Rome"
-      ],
-      "correctIndex": 1,
-      "explanation": "Le séisme de Lisbonne, survenu le 1er novembre 1755 , est une catastrophe qui fit entre 50 000 et 70 000 morts parmi les 275 000 habitants de Lisbonne.",
-      "category": "Histoire"
-    },
-    {
-      "id": 108,
-      "date": "2026-04-18",
-      "question": "Dans quel département se trouve la ville de Schœlcher ?",
-      "choices": [
-        "La Haute-Vienne",
-        "La Martinique",
-        "L'Alsace",
-        "La Lorraine"
-      ],
-      "correctIndex": 1,
-      "explanation": "Schœlcher est une commune française, située dans le département de la Martinique. Elle est nommée en hommage à Victor Schœlcher (1804-1893), initiateur de l'abolition définitive de l'esclavage en France et dans ses colonies. ",
-      "category": "Géo"
-    },
-    {
-      "id": 109,
-      "date": "2026-04-19",
-      "question": "Quelle est la superficie du continent africain ?",
-      "choices": [
-        "10 millions km²",
-        "20 millions km²",
-        "30 millions km²",
-        "40 millions km²"
-      ],
-      "correctIndex": 2,
-      "explanation": "L'Afrique est un continent qui couvre 6 % de la surface de la Terre et 20 % de la surface des terres émergées. Sa superficie est exactement de 30 415 873 km2 avec les îles, ce qui en fait la troisième mondiale si l'on compte l'Amérique comme un seul continent.",
-      "category": "Geo"
-    },
-    {
-      "id": 110,
-      "date": "2026-04-20",
-      "question": "Quelle actrice était préssentie pour jouer Diamants sur Canapé avant Audrey Hepburn ?",
-      "choices": [
-        "Katharine Hepburn",
-        "Ava Gardner",
-        "Sharon Tate",
-        "Marilyn Monroe"
-      ],
-      "correctIndex": 3,
-      "explanation": "Diamants sur canapé signera le début de la grande carrière d'Audrey Hepburn mais c'est à Marilyn Monroe que pensait Truman Capote quand il a écrit sa nouvelle. C'est donc Marilyn qui était d'abord préssentie pour le rôle, qu'elle a décliné.",
-      "category": "Cinéma"
-    },
-    {
-      "id": 111,
-      "date": "2026-04-21",
-      "question": "Dans le film d’animation japonais «Le voyage de Chihiro» de 2001, en quels animaux la sorcière Yubaba transforme-t-elle les parents de Chihiro ?",
-      "choices": [
-        "Serpents",
-        "Vaches",
-        "Cafards",
-        "Cochons"
-      ],
-      "correctIndex": 3,
-      "explanation": "Dans «Le voyage de Chihiro», les parents de Chihiro se transforment en cochons après avoir goûté aux mets raffinés d’un restaurant vide sans y avoir été invités.",
-      "category": "Culture G"
-    },
-    {
-      "id": 112,
-      "date": "2026-04-22",
-      "question": "De quelle dynastie Charlemagne fait-il partie ?",
-      "choices": [
-        "Les Mérovingiens",
-        "Les Capétiens",
-        "Les Bourbons",
-        "Les Carolingiens"
-      ],
-      "correctIndex": 3,
-      "explanation": "Il appartient à la dynastie des Carolingiens. Dans l'ordre : Mérovingiens, Carolingiens, Capétiens, Valois.",
-      "category": "Histoire"
-    },
-    {
-      "id": 113,
-      "date": "2026-04-23",
-      "question": "Sur combien de ces continents trouve-t-on des territoires français ?",
-      "choices": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correctIndex": 2,
-      "explanation": "En plus de l'Europe, on retrouve des territoires français en Amérique, Océanie, Afrique et Antarctique (Terre Adélie).",
-      "category": "Géo"
-    },
-    {
-      "id": 114,
-      "date": "2026-04-24",
-      "question": "Combien d'entrées a réalisé le film «Astérix et Obélix : Mission Cléopâtre» en France ?",
-      "choices": [
-        "5,5 millions",
-        "8,5 millions",
-        "12,5 millions",
-        "14,5 millions"
-      ],
-      "correctIndex": 3,
-      "explanation": "En 2002, Astérix et Obélix : Mission Cléopâtre a explosé les compteurs avec plus de 14,5 millions d'entrées. À ce jour, il occupe la huitième place dans le box office français (et quatrième place pour un film français).",
-      "category": "Cinéma"
-    },
-    {
-      "id": 115,
-      "date": "2026-04-25",
-      "question": "Quel est le prénom du premier enfant de Kate et William, futur Roi d'Angleterre ?",
-      "choices": [
-        "Alfred",
-        "Georges",
-        "Louis",
-        "Archie"
-      ],
-      "correctIndex": 1,
-      "explanation": "George Alexander Louis, né en 2013, est la premier enfant du couple et est 2ème dans l'ordre de succession au trône.",
-      "category": "Culture G"
-    },
-    {
-      "id": 116,
-      "date": "2026-04-26",
-      "question": "Qui a été la seconde épouse du roi Louis XIV ?",
-      "choices": [
-        "Marie-Thérèse d'Autriche",
-        "Madame de Maintenon",
-        "Madame de Montespan",
-        "Madame du Barry"
-      ],
-      "correctIndex": 1,
-      "explanation": "Louis XIV a été marié 2 fois, d'abord avec la reine Marie-Thérèse puis avec Madame de Maintenon (de son vrai nom Françoise d'Aubigné).",
-      "category": "Histoire"
-    },
-    {
-      "id": 117,
-      "date": "2026-04-27",
-      "question": "Quel tropique traverse le golfe du Mexique et le Mali ?",
-      "choices": [
-        "Tropique du Bélier",
-        "Tropique du Capricorne",
-        "Tropique du Scorpion",
-        "Tropique du Cancer"
-      ],
-      "correctIndex": 3,
-      "explanation": "Les tropiques sont des cercles imaginaires, parallèles à l'équateur. Celui de l'hémisphère Nord s'appelle le tropique du Cancer et celui de l'hémisphère Sud, le tropique du Capricorne.",
-      "category": "Géo"
-    },
-    {
-      "id": 118,
-      "date": "2026-04-28",
-      "question": "Quelle réalisatrice a réalisé Anatomie d'une chute, Palme d'Or du Festival de Cannes 2023 ?",
-      "choices": [
-        "Rebecca Zlotowski",
-        "Jeanne Herry",
-        "Justine Triet",
-        "Valérie Donzelli"
-      ],
-      "correctIndex": 0,
-      "explanation": "Les Poupées Russes et l'Auberge Espagnole ont été réalisés par Cédric Klapisch.",
-      "category": "Cinéma"
-    },
-    {
-      "id": 119,
+      "id": 29,
       "date": "2026-04-29",
-      "question": "Le pic d'Aneto est un point culminant, mais de quelle chaîne de montagne ?",
+      "question": "Dans quel pays d'Europe se trouve la Principauté des Asturies ?",
       "choices": [
-        "Les Pyrénées",
-        "L'Atlas",
-        "L’Oural",
-        "Les Rocheuses"
-      ],
-      "correctIndex": 0,
-      "explanation": "Le pic d'Aneto est le point culminant de la chaîne des Pyrénées avec une altitude de 3 404 m. Il se situe en Espagne.",
-      "category": "Culture G"
-    },
-    {
-      "id": 120,
-      "date": "2026-04-30",
-      "question": "Quelle est la longueur de la frontière entre la France et l'Espagne ?",
-      "choices": [
-        "223 km",
-        "423 km",
-        "623 km",
-        "823 km"
+        "Italie",
+        "Espagne",
+        "Grèce",
+        "Autriche"
       ],
       "correctIndex": 1,
-      "explanation": "La frontière terrestre franco-espagnole s'étend sur 623 kilomètres, au sud-ouest de la France et au nord-est de l'Espagne.",
+      "explanation": "La principauté des Asturies est une communauté autonome d’Espagne depuis 1982. Elle est située au nord-ouest de l'Espagne et elle est connue pour sa côte accidentée, ses montagnes et son architecture médiévale.",
       "category": "Géo"
     },
     {
-      "id": 121,
-      "date": "2026-05-01",
-      "question": "Quel est le vrai nom de la Mariée cherchant à se venger dans les films «Kill Bill» de Quentin Tarantino ?",
+      "id": 30,
+      "date": "2026-04-30",
+      "question": "Quelle est la taille du vortex de déchets du Pacifique nord ?",
       "choices": [
-        "Beatrix Kiddo",
-        "Sofie Fatale",
-        "Elle Driver",
-        "Vernita Green"
+        "La Corse",
+        "Une fois la France",
+        "Deux fois la France",
+        "Trois fois la France"
       ],
-      "correctIndex": 0,
-      "explanation": "Dans les deux volets, sortis en 2004 et 2005, Uma Thurman incarne Beatrix Kiddo, alias la Mariée et Black Mamba. Son nom n'est révélé que dans le deuxième volet.",
-      "category": "Cinéma"
+      "correctIndex": 1,
+      "explanation": "La « soupe plastique » de l'océan Pacifique nord, encore appelée « vortex de déchets », s'étend entre le Japon et les États-Unis sur une surface d'environ trois fois la France (1,6 million de km2).",
+      "category": "Nature"
     },
     {
-      "id": 122,
-      "date": "2026-05-02",
-      "question": "Quelle ville est surnommée «La ville Ocre» ?",
+      "id": 31,
+      "date": "2026-05-01",
+      "question": "Quelle styliste est connue pour ses créations écologiques et sans cuir ?",
       "choices": [
-        "Pékin",
-        "Amman",
-        "Marrakech",
-        "Toulouse"
+        "Carolina Herrera",
+        "Isabel Marant",
+        "Stella McCartney",
+        "Victoria Beckham"
       ],
       "correctIndex": 2,
-      "explanation": "La ville de Marrakech est surnommée « la ville rouge » ou la « ville ocre » en référence à la couleur rouge d'une grande partie de ses immeubles et de ses maisons.",
-      "category": "Culture G"
+      "explanation": "Stella McCartney est la pionnière de la mode eco-friendly en lançant sa maison éponyme en 2001 et en refusant d'utiliser cuir, fourrure, plumes ou aucun autre tissu animal.",
+      "category": "Mode"
     },
     {
-      "id": 123,
-      "date": "2026-05-03",
-      "question": "Dans quel pays se trouve Ushuaïa ?",
+      "id": 32,
+      "date": "2026-05-02",
+      "question": "Quelle actrice a incarné Andréa Martel dans la série «Dix pour cent» ?",
       "choices": [
-        "Argentine",
-        "Chili",
-        "Paraguay",
-        "Bolivie"
+        "Cécile de France",
+        "Camille Cottin",
+        "Virginie Efira",
+        "Laure Calamy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Camille Cottin incarne André Martel dans la série sur l’univers des agents de stars.",
+      "category": "Séries"
+    },
+    {
+      "id": 33,
+      "date": "2026-05-03",
+      "question": "Au cours de quel siècle, Cléopâtre a-t-elle régné ?",
+      "choices": [
+        "1ᵉʳ siècle avant J.-C.",
+        "4ᵉ siècle avant J.-C.",
+        "7ᵉ siècle avant J.-C.",
+        "10ᵉ siècle avant J.-C."
       ],
       "correctIndex": 0,
-      "explanation": "Ushuaïa est une ville touristique argentine. Elle est située sur l'archipel de la Terre de Feu, la pointe la plus méridionale de l'Amérique du Sud, surnommée le bout du monde.",
-      "category": "Géo"
-    },
-    {
-      "id": 124,
-      "date": "2026-05-04",
-      "question": "Lors du tournage de Titanic, qui était en train de dessiner Kate Winslet ?",
-      "choices": [
-        "Leonardo Di Caprio",
-        "James Cameron",
-        "Billy Zane (qui jouait Cal)",
-        "Kathryn Bigelow (la femme de Cameron)"
-      ],
-      "correctIndex": 1,
-      "explanation": "James Cameron est également un excellent dessinateur. On lui doit les dessins de Rose dans le carnet de croquis de Jack.",
-      "category": "Cinéma"
-    },
-    {
-      "id": 125,
-      "date": "2026-05-05",
-      "question": "Qui a écrit les paroles de La Marseillaise ?",
-      "choices": [
-        "Paul Paray",
-        "Rouget de Lisle",
-        "Hector Berlioz",
-        "Victor Hugo"
-      ],
-      "correctIndex": 1,
-      "explanation": "Les six premiers couplets ont été écrits par Rouget de Lisle sous le titre de Chant de guerre pour l'armée du Rhin à Strasbourg en 1792.",
+      "explanation": "Cléopâtre, dernière reine d’Égypte, règne sur l'Égypte entre 51 et 30 av. J.-C.",
       "category": "Culture G"
     },
     {
-      "id": 126,
+      "id": 34,
+      "date": "2026-05-04",
+      "question": "Quelle part de l'eau douce mondiale est utilisée par l'agriculture ?",
+      "choices": [
+        "Environ 30 %",
+        "Environ 50 %",
+        "Environ 70 %",
+        "Environ 90 %"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'agriculture représente environ 70 % de la consommation mondiale d'eau douce, principalement via l'irrigation des cultures.",
+      "category": "Écologie"
+    },
+    {
+      "id": 35,
+      "date": "2026-05-05",
+      "question": "Quel plat chinois est également connu sous le nom jiaozi ?",
+      "choices": [
+        "Tofu mariné",
+        "Nouilles sautées",
+        "Riz cantonnais",
+        "Raviolis chinois"
+      ],
+      "correctIndex": 3,
+      "explanation": "Les jiaozi sont des petits raviolis en forme de chaussons.",
+      "category": "Cuisine"
+    },
+    {
+      "id": 36,
       "date": "2026-05-06",
+      "question": "Paris 2024 a été les premiers JO à atteindre la parité parfaite. Quel pourcentage d'athlètes féminines y participaient ?",
+      "choices": [
+        "Moins de 30 %",
+        "Environ 40 %",
+        "Environ 50 %",
+        "Plus de 55 %"
+      ],
+      "correctIndex": 2,
+      "explanation": "Paris 2024 a atteint la parité parfaite : 50 % d'athlètes féminines parmi les 10 500 participants.",
+      "category": "Sport"
+    },
+    {
+      "id": 37,
+      "date": "2026-05-07",
       "question": "Quelle actrice ne joue pas dans Huit Femmes de François Ozon ?",
       "choices": [
         "Firmine Richard",
@@ -1765,22 +519,162 @@
       "category": "Cinéma"
     },
     {
-      "id": 127,
-      "date": "2026-05-07",
-      "question": "Qui était opposé à Nicolas Sarkozy au second tour de l'élection présidentielle française de 2007 ?",
+      "id": 38,
+      "date": "2026-05-08",
+      "question": "Quelle est la seule proposition bien orthographiée ?",
       "choices": [
-        "Lionel Jospin",
-        "François Hollande",
-        "Ségolène Royal",
-        "Emmanuel Macron"
+        "Des cravates rouges et blanches",
+        "Des cravates rouges et blancs",
+        "Des cravates rouge et blanche",
+        "Des cravates rouge et blanc"
       ],
-      "correctIndex": 2,
-      "explanation": "Le candidat de l'UMP, Nicolas Sarkozy, l'emporte au second tour avec 53,06 % des suffrages exprimés, contre 46,94 % pour Ségolène Royal, candidate du Parti socialiste. Il succède ainsi à Jacques Chirac.",
-      "category": "Culture G"
+      "correctIndex": 3,
+      "explanation": "La règle de grammaire française veut que quand un objet possède plusieurs couleurs, elles ne sont pas accordées. On dirait : «Les cravates blanches» quand il n'y a qu'une couleur et «Les cravates rouge et blanc» sans accorder lorsqu'il y a deux couleurs.",
+      "category": "Orthographe"
     },
     {
-      "id": 128,
-      "date": "2026-05-08",
+      "id": 39,
+      "date": "2026-05-09",
+      "question": "Dans Les Misérables de Hugo, qui est Fantine ?",
+      "choices": [
+        "La mère de Cosette",
+        "La femme de Jean Valjean",
+        "La mère de Jean Valjean",
+        "La soeur de Gavroche"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fantine est une mère démunie élevant sa fille Cosette.",
+      "category": "Littérature"
+    },
+    {
+      "id": 40,
+      "date": "2026-05-10",
+      "question": "Quel groupe sangin est donneur universel ?",
+      "choices": [
+        "AB+",
+        "O-",
+        "O+",
+        "A-"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il existe huit combinaisons combinaisons de groupes sanguins : A, B, O et AB avec soit avec un facteur Rhésus (+) ou (-). Le groupe O- est destiné à tout le monde et on l'appelle « donneur universel ». Il représente environ 6% en France.",
+      "category": "Sciences"
+    },
+    {
+      "id": 41,
+      "date": "2026-05-11",
+      "question": "Qui a peint les fresques du plafond de la Chapelle Sixtine au Vatican ?",
+      "choices": [
+        "Le Bernin",
+        "Raphaël",
+        "Léonard de Vinci",
+        "Michel-Ange"
+      ],
+      "correctIndex": 3,
+      "explanation": "À la demande du pape Jules II, Michel-Ange peint le plafond de la chapelle Sixtine entre 1508 et 1512. Il n'était pas spécialement ravi de cette commande puiqu'il préférait se consacrer à la sculpture.",
+      "category": "Art"
+    },
+    {
+      "id": 42,
+      "date": "2026-05-12",
+      "question": "Dans quel film Rihanna fait-elle ses débuts au cinéma ?",
+      "choices": [
+        "Ocean's 8",
+        "Battleship",
+        "Valerian",
+        "Home"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rihanna fait ses débuts dans Battleship (2012), un film de science-fiction où elle joue un rôle de soldat.",
+      "category": "Pop culture"
+    },
+    {
+      "id": 43,
+      "date": "2026-05-13",
+      "question": "La bossa nova est une fusion entre deux genres musicaux, lesquels ?",
+      "choices": [
+        "La samba et le jazz",
+        "Le funk et la samba",
+        "Le zouk et le jazz",
+        "La kompa te le folk"
+      ],
+      "correctIndex": 0,
+      "explanation": "La bossa nova est un genre brésilien qui résulte de la fusion entre la samba et le jazz.",
+      "category": "Musique"
+    },
+    {
+      "id": 44,
+      "date": "2026-05-14",
+      "question": "Quelle déesse romaine de l'amour est l'équivalent de l'Aphrodite grecque ?",
+      "choices": [
+        "Junon",
+        "Minerve",
+        "Vénus",
+        "Diane"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vénus est la déesse romaine de l'amour et de la beauté, équivalent d'Aphrodite.",
+      "category": "Histoire"
+    },
+    {
+      "id": 45,
+      "date": "2026-05-15",
+      "question": "Quel est le plus grand département d'Outre Mer (superficie) ?",
+      "choices": [
+        "La Martinique",
+        "La Réunion",
+        "La Guyane",
+        "La Guadeloupe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Située au nord-est du continent américain à 7 000 km de Paris, la Guyane est bordée par le Brésil et le Suriname. Avec une superficie de 84 000 km2 (soit 16 % du territoire métropolitain), c'est le plus vaste département français d'outre-mer.",
+      "category": "Géo"
+    },
+    {
+      "id": 46,
+      "date": "2026-05-16",
+      "question": "Dans quel océan se situent la majorité des coraux ?",
+      "choices": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Austral"
+      ],
+      "correctIndex": 1,
+      "explanation": "Partout dans le monde on trouve des récifs de corail, mais en moins grande quantité que dans le Pacifique où on trouve notamment la célèbre \"Grande Barrière de Corail\" australienne.",
+      "category": "Nature"
+    },
+    {
+      "id": 47,
+      "date": "2026-05-17",
+      "question": "Qui est célèbre pour avoir introduit la mini jupe dans les années 60 ?",
+      "choices": [
+        "Yves Saint Laurent",
+        "Pierre Cardin",
+        "André Courrèges",
+        "Mary Quant"
+      ],
+      "correctIndex": 3,
+      "explanation": "En 1965, le couturier André Courrèges présente en défilé une jupe courte qui fait sensation. Pourtant, c'est Mary Quant, jeune styliste du Swinging London qui en est à l'origine.",
+      "category": "Mode"
+    },
+    {
+      "id": 48,
+      "date": "2026-05-18",
+      "question": "Quel milliardaire a inspiré la série Succession ?",
+      "choices": [
+        "Rupert Murdoch",
+        "Donald Trump",
+        "Warren Buffett",
+        "Michael Bloomberg"
+      ],
+      "correctIndex": 0,
+      "explanation": "La série Succession est directement inspirée du milliardaire Rupert Murdoch et de ses enfants. Murdoch et sa famille dirigent le plus important groupe médiatique mondial.",
+      "category": "Séries"
+    },
+    {
+      "id": 49,
+      "date": "2026-05-19",
       "question": "Parmi ces fruits et légumes, lequel ne fait pas partie la famille des cucurbitacées ?",
       "choices": [
         "Aubergine",
@@ -1793,36 +687,442 @@
       "category": "Culture G"
     },
     {
-      "id": 129,
-      "date": "2026-05-09",
-      "question": "Que signifie la dernière lettre du sigle : NASA ?",
+      "id": 50,
+      "date": "2026-05-20",
+      "question": "Quel gaz est principalement responsable des émissions des transports routiers ?",
       "choices": [
-        "Administration",
-        "Aeronautics",
-        "American",
-        "Authority"
-      ],
-      "correctIndex": 0,
-      "explanation": "La signification est National Aeronautics and Space Administration.",
-      "category": "Culture G"
-    },
-    {
-      "id": 130,
-      "date": "2026-05-10",
-      "question": "Quel ministère est couramment appelé «Le Quai d’Orsay» ?",
-      "choices": [
-        "Ministère de la Justice",
-        "Ministère des Affaires Étrangères",
-        "Ministère de la Culture",
-        "Ministère de l'Économie"
+        "Le méthane (CH₄)",
+        "Le dioxyde de carbone (CO₂)",
+        "L'oxyde nitreux (N₂O)",
+        "Le dioxyde de soufre (SO₂)"
       ],
       "correctIndex": 1,
-      "explanation": "Le Ministère de l'Europe et des Affaires étrangères (MEAE) est souvent surnommé le « Quai d'Orsay » en référence à son emplacement historique.",
+      "explanation": "Les transports routiers émettent principalement du CO₂ via la combustion d'essence ou de diesel.",
+      "category": "Écologie"
+    },
+    {
+      "id": 51,
+      "date": "2026-05-21",
+      "question": "De quoi est issu le tofu ?",
+      "choices": [
+        "Du lait de soja",
+        "De la plante chinoise Tofù",
+        "De la protéine de pois-chiche",
+        "De la farine de blé"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le tofu est un aliment issu de la coagulation du lait de soja. Il est consommé depuis plus de 2000 ans dans l'alimentation de l'Asie de l'Est et du Sud-Est.",
+      "category": "Cuisine"
+    },
+    {
+      "id": 52,
+      "date": "2026-05-22",
+      "question": "En quelle année se déroule la première édition du Tour de France ?",
+      "choices": [
+        "1893",
+        "1903",
+        "1913",
+        "1923"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le premier Tour de France part le 1er juillet 1903 de Montgeron (Essonne) et comprend six étapes.",
+      "category": "Sport"
+    },
+    {
+      "id": 53,
+      "date": "2026-05-23",
+      "question": "Quelle actrice était préssentie pour jouer Diamants sur Canapé avant Audrey Hepburn ?",
+      "choices": [
+        "Katharine Hepburn",
+        "Ava Gardner",
+        "Sharon Tate",
+        "Marilyn Monroe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Diamants sur canapé signera le début de la grande carrière d'Audrey Hepburn mais c'est à Marilyn Monroe que pensait Truman Capote quand il a écrit sa nouvelle. C'est donc Marilyn qui était d'abord préssentie pour le rôle, qu'elle a décliné.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 54,
+      "date": "2026-05-24",
+      "question": "Quel mot est de genre féminin ?",
+      "choices": [
+        "Entracte",
+        "Armistice",
+        "Aromate",
+        "éphéméride"
+      ],
+      "correctIndex": 3,
+      "explanation": "Une éphéméride.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 55,
+      "date": "2026-05-25",
+      "question": "Lequel de ces intellectuels fait partie des fondateurs du mouvement littéraire et politique de la négritude ?",
+      "choices": [
+        "Patrick Chamoiseau",
+        "Aimé Césaire",
+        "Édouard Glissant",
+        "Frantz Fanon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le poète et homme politique martiniquais Aimé Césaire (1913-2008) est l'un des fondateurs du mouvement de la négritude, un courant lié à l'anticolonialisme, et né dans l'entre-deux-guerres.",
+      "category": "Littérature"
+    },
+    {
+      "id": 56,
+      "date": "2026-05-26",
+      "question": "Grâce à quel métal l'acier inoxydable (inox) résiste-il à la corrosion ?",
+      "choices": [
+        "L'étain",
+        "Le zinc",
+        "Le cuivre",
+        "Le chrome"
+      ],
+      "correctIndex": 3,
+      "explanation": "L'inox (ou acier inoxidable) est un alliage de fer, de carbone et de chrome. Le chrome a la propriété d'être peu sensible à la corrosion et de ne pas rouiller. ",
+      "category": "Sciences"
+    },
+    {
+      "id": 57,
+      "date": "2026-05-27",
+      "question": "Quelle forme d’art peut-on voir dans une pinacothèque ?",
+      "choices": [
+        "Des statues",
+        "Des mosaïques",
+        "Des tableaux",
+        "Des fresques"
+      ],
+      "correctIndex": 2,
+      "explanation": "La racine de ce terme vient du latin pinacotheca, qui veut dire « salle qui contient une collection de tableaux ».",
+      "category": "Art"
+    },
+    {
+      "id": 58,
+      "date": "2026-05-28",
+      "question": "Quelle drag queen française a participé à RuPaul's Drag Race ?",
+      "choices": [
+        "Nicky Doll",
+        "La Grande Dame",
+        "Keiona",
+        "Paloma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nicky Doll est connue pour sa participation à la douzième saison de RuPaul's Drag Race, avant de présenter la version française.",
+      "category": "Pop culture"
+    },
+    {
+      "id": 59,
+      "date": "2026-05-29",
+      "question": "Dans la musique traditionnelle bretonne, quel instrument accompagne généralement le biniou ?",
+      "choices": [
+        "La harpe celtique",
+        "La flûte",
+        "Le bagadig",
+        "La bombarde"
+      ],
+      "correctIndex": 3,
+      "explanation": "La bombarde est un instrument de la famille du hautbois et est l’un des instruments traditionnels bretons.",
+      "category": "Musique"
+    },
+    {
+      "id": 60,
+      "date": "2026-05-30",
+      "question": "Clovis a été Baptisé :",
+      "choices": [
+        "à Paris",
+        "à Reims",
+        "à Blois",
+        "à Avignon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clovis se fait baptiser à Reims. Il le fait pour des raisons politiques car les francs ont besoin du soutien de l'église. Il devient un roi chrétien, personne ne peut plus contester son pouvoir divin. Ce qui va lui permettre de conquérir le reste de la Gaule.",
+      "category": "Histoire"
+    },
+    {
+      "id": 61,
+      "date": "2026-05-31",
+      "question": "Quel pays a pour capitale Kinshasa ?",
+      "choices": [
+        "République démocratique du Congo",
+        "Gabon",
+        "Togo",
+        "Nigeria"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kinshasa est la capitale et la plus grande ville de la république démocratique du Congo et l'une des plus peuplées d'Afrique. À ne pas confondre avec la République du Congo dont la capitale est Brazzaville.",
+      "category": "Géo"
+    },
+    {
+      "id": 62,
+      "date": "2026-06-01",
+      "question": "Lequel de ces lieux est une frontière entre l’océan Atlantique et l’océan Pacifique ?",
+      "choices": [
+        "Le Cap de Bonne-Espérance",
+        "Le Cap Horn",
+        "Le Golfe du Mexique",
+        "La Mer des Caraïbes"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'océan Pacifique et l'océan Atlantique se rejoignent au Cap Horn, promontoire rocheux situé à l'extrême sud de la Terre de Feu, marquant également la limite avec l'océan Austral.",
+      "category": "Nature"
+    },
+    {
+      "id": 63,
+      "date": "2026-06-02",
+      "question": "Quel était le prénom de Balenciaga, fondateur de la marque éponyme ?",
+      "choices": [
+        "Cristobal",
+        "Paolo",
+        "Esteban",
+        "Rafael"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cristobal Balenciaga fut l'un des plus grands couturiers, unanimement reconnu par ses pairs et surnommé « le maître » ou encore « le couturier des couturiers ».",
+      "category": "Mode"
+    },
+    {
+      "id": 64,
+      "date": "2026-06-03",
+      "question": "Dans quelle série trouve-t-on le personnage de Carrie Mathison ?",
+      "choices": [
+        "True Detective",
+        "The Americans",
+        "House of Cards",
+        "Homeland"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dans «Homeland», Carrie Mathison est un agent de la CIA en Irak. Elle est très talentueuse avec beaucoup de détermination et d'intuition. Le personnage est incarné par Claire Danes.",
+      "category": "Séries"
+    },
+    {
+      "id": 65,
+      "date": "2026-06-04",
+      "question": "Quelle marque a été créée par le frère du créateur de la marque Adidas ?",
+      "choices": [
+        "Hugo Boss",
+        "BMW",
+        "Nike",
+        "Puma"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adolf Dassler a créé Adidas. Son frère, Rudolf Dassler, a lui créé la marque Puma.",
       "category": "Culture G"
     },
     {
-      "id": 131,
-      "date": "2026-05-11",
+      "id": 66,
+      "date": "2026-06-05",
+      "question": "Quel mode de transport est le plus émetteur de CO₂ par km parcouru et par passager ?",
+      "choices": [
+        "La voiture individuelle",
+        "L'avion long-courrier",
+        "Le bateau de croisière",
+        "La moto"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le bateau de croisière est le plus polluant par passager/km, un passager émet 3 à 4 fois plus de CO₂ qu'en avion.",
+      "category": "Écologie"
+    },
+    {
+      "id": 67,
+      "date": "2026-06-06",
+      "question": "Quel est le nom donné aux petits pains (brioches) chinois fourrés et cuits à la vapeur ?",
+      "choices": [
+        "Jiaozi",
+        "Baozi",
+        "Wonton",
+        "Jianping"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il s’agit de petites brioches salées cuites à la vapeur et farcies de légumes, tofu ou autres.",
+      "category": "Cuisine"
+    },
+    {
+      "id": 68,
+      "date": "2026-06-07",
+      "question": "Quel sportif français possède le record de titres olympiques ?",
+      "choices": [
+        "Teddy Riner",
+        "Laura Flessel",
+        "Marie-Jo Perec",
+        "Martin Fourcade"
+      ],
+      "correctIndex": 3,
+      "explanation": "Il est le français le plus médaillé de l'histoire aux Jeux Olympiques d'Hiver avec 7 médailles, dont 5 d'or remportées en individuel.",
+      "category": "Sport"
+    },
+    {
+      "id": 69,
+      "date": "2026-06-08",
+      "question": "Quel est le nom du personnage principal du film Gladiator réalisé par Ridley Scott ?",
+      "choices": [
+        "Marc-Aurèle",
+        "Commode",
+        "Proximo",
+        "Maximus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Maximus Decimus Meridius est le personnage principal de Gladiator.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 70,
+      "date": "2026-06-09",
+      "question": "Quel mot est de genre masculin ?",
+      "choices": [
+        "Anagramme",
+        "Abysse",
+        "Aspirine",
+        "Octave"
+      ],
+      "correctIndex": 1,
+      "explanation": "On dit bien une anagramme, une aspirine, une octave et un abysse.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 71,
+      "date": "2026-06-10",
+      "question": "Qui est l’auteure du classique de la littérature nommé «Les Quatre Filles du Docteur March» ?",
+      "choices": [
+        "Jane Austen",
+        "Mary Shelley",
+        "Louisa May Alcott",
+        "Charlotte Brontë"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les Quatre Filles du Docteur March est un roman de l'autrice américaine Louisa May Alcott.",
+      "category": "Littérature"
+    },
+    {
+      "id": 72,
+      "date": "2026-06-11",
+      "question": "Quel groupe sangin est receveur universel ?",
+      "choices": [
+        "AB+",
+        "O-",
+        "O+",
+        "A-"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il existe huit combinaisons combinaisons de groupes sanguins : A, B, O et AB avec soit avec un facteur Rhésus (+) ou (-). Le groupe AB+ peut recevoir du sang de tous les groupes sanguins et on l'appelle « receveur universel ». Il représente environ 3% en France.",
+      "category": "Sciences"
+    },
+    {
+      "id": 73,
+      "date": "2026-06-12",
+      "question": "Où chante-t-on le fado ?",
+      "choices": [
+        "Argentine",
+        "Espagne",
+        "Portugal",
+        "Brésil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le fado est un chant populaire nostalgique du Portugal.",
+      "category": "Art"
+    },
+    {
+      "id": 74,
+      "date": "2026-06-13",
+      "question": "Quel est le vrai prénom de Lady Gaga ?",
+      "choices": [
+        "Stefania",
+        "Stefani",
+        "Stephanie",
+        "Stéphane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lady Gaga s'appelle Stefani Joanne Angelina Germanotta. Son surnom vient de la chanson Radio Ga Ga de Queen.",
+      "category": "Pop culture"
+    },
+    {
+      "id": 75,
+      "date": "2026-06-14",
+      "question": "D'où vient la Biguine, qui est un style musical et une danse ?",
+      "choices": [
+        "La Louisiane",
+        "Les Antilles françaises",
+        "Le Sénégal",
+        "Le Québec"
+      ],
+      "correctIndex": 1,
+      "explanation": "La biguine est un style musical et une danse née aux Antilles françaises au milieu du XIXe associée à la fin de période esclavagiste. Ce style est principalement connu en Martinique et Guadeloupe.",
+      "category": "Musique"
+    },
+    {
+      "id": 76,
+      "date": "2026-06-15",
+      "question": "En quelle année la loi Veil légalisant l'IVG en France a-t-elle été promulguée ?",
+      "choices": [
+        "1967",
+        "1972",
+        "1975",
+        "1980"
+      ],
+      "correctIndex": 2,
+      "explanation": "La loi Veil a été promulguée le 17 janvier 1975 après un discours historique de Simone Veil devant l'Assemblée nationale.",
+      "category": "Histoire"
+    },
+    {
+      "id": 77,
+      "date": "2026-06-16",
+      "question": "Quelle est la capitale de la Suisse ?",
+      "choices": [
+        "Zurich",
+        "Genève",
+        "Berne",
+        "Lausanne"
+      ],
+      "correctIndex": 2,
+      "explanation": "Berne est la capitale de la Suisse mais est seulement la 5ème ville la plus peuplée de Suisse après Zurich, Genève, Bâle et Lausanne.",
+      "category": "Géo"
+    },
+    {
+      "id": 78,
+      "date": "2026-06-17",
+      "question": "Quel est le fruit du hêtre ?",
+      "choices": [
+        "La faine",
+        "La caroube",
+        "Le disamare",
+        "Le gland"
+      ],
+      "correctIndex": 0,
+      "explanation": "Peu connue, la faine est le fruit du hêtre. Elle a un petit goût de noisette.",
+      "category": "Nature"
+    },
+    {
+      "id": 79,
+      "date": "2026-06-18",
+      "question": "Quelle femme est surnommée « la reine du tricot » ?",
+      "choices": [
+        "Maria Grazia Chiuri",
+        "Donatella Versace",
+        "Sonia Rykiel",
+        "Phoebe Philo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sonia Rykiel révolutionne le tricot en le rendant sexy et confortable, libérant le corps féminin et imposant un style décontracté et intellectuel.",
+      "category": "Mode"
+    },
+    {
+      "id": 80,
+      "date": "2026-06-19",
+      "question": "Quelle actrice/réalisatrice a écrit et incarné le personnage de Fleabag ?",
+      "choices": [
+        "Phoebe Waller-Bridge",
+        "Jodie Comer",
+        "Fiona Shaw",
+        "Sarah Snook"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fleabag est une série britannique, écrite et développée par Phoebe Waller-Bridge et adaptée de son one-woman-show.",
+      "category": "Séries"
+    },
+    {
+      "id": 81,
+      "date": "2026-06-20",
       "question": "La première pizzeria française a ouvert à Paris en :",
       "choices": [
         "1936",
@@ -1835,8 +1135,680 @@
       "category": "Culture G"
     },
     {
-      "id": 132,
-      "date": "2026-05-12",
+      "id": 82,
+      "date": "2026-06-21",
+      "question": "Combien de litres d'eau faut-il pour produire 1 jean?",
+      "choices": [
+        "Entre 500 et 700 L",
+        "Entre 1 000 et 2 000 L",
+        "Entre 3 000 et 5 000 L",
+        "Entre 7 000 et 10 000 L"
+      ],
+      "correctIndex": 3,
+      "explanation": "Il faut en moyenne entre 7 000 et 10 000 litres d'eau pour produire un seul jean, selon l'Ademe. Soit l'équivalent de 285 douches.",
+      "category": "Écologie"
+    },
+    {
+      "id": 83,
+      "date": "2026-06-22",
+      "question": "Quel est le nom du mélange de 7 épices originaire du Liban ?",
+      "choices": [
+        "Le zaatar",
+        "Le dukkah ",
+        "Le colombo",
+        "Le ras el hanout"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le Zaatar, désormais connu de tous grâce à Loulou Kitchen, est un mélange libanais. Les ingrédients principaux sont le thym, le sumac et les graines de sésame grillées, mais il peut également contenir d'autres herbes telles que l'origan, la marjolaine et la sarriette.",
+      "category": "Cuisine"
+    },
+    {
+      "id": 84,
+      "date": "2026-06-23",
+      "question": "Dans quel sport nautique, Tony Estanguet a-t-il remporté 3 titres olympiques ?",
+      "choices": [
+        "Aviron",
+        "Canoë-kayak",
+        "Natation",
+        "Hockey Subaquatique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tony Estanguet est devenu une légende olympique en remportant trois médailles d'or consécutives aux Jeux de Sydney, Athènes et Londres. Après sa carrière sportive, il s'est investi dans l'organisation des Jeux de Paris 2024.",
+      "category": "Sport"
+    },
+    {
+      "id": 85,
+      "date": "2026-06-24",
+      "question": "Quel réalisateur français a réalisé Les Poupées Russes et l'Auberge Espagnole ?",
+      "choices": [
+        "Cédric Klapisch",
+        "François Ozon",
+        "Jacques Audiard",
+        "Jean-Pierre Jeunet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les Poupées Russes et l'Auberge Espagnole ont été réalisés par Cédric Klapisch.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 86,
+      "date": "2026-06-25",
+      "question": "Quelle proposition est incorrecte ?",
+      "choices": [
+        "Hormis",
+        "Volontiers",
+        "Malgrés",
+        "Certes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Malgré.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 87,
+      "date": "2026-06-26",
+      "question": "Qui a rédigé la célèbre Une de L'Aurore \"J'accuse ...!\" ?",
+      "choices": [
+        "Victor Hugo",
+        "Emile Zola",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zola a défendu Dreyfus dans son célèbre « J'accuse…! » à la une de L'Aurore du 13 janvier 1898.",
+      "category": "Littérature"
+    },
+    {
+      "id": 88,
+      "date": "2026-06-27",
+      "question": "Qui est Pina Bausch ?",
+      "choices": [
+        "Une chorégraphe",
+        "Une actrice",
+        "Une chanteuse",
+        "Une réalisatrice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pina Bausch est une danseuse et chorégraphe allemande. Elle a su apporter un souffle novateur dans la chorégraphie de son temps.",
+      "category": "Art"
+    },
+    {
+      "id": 89,
+      "date": "2026-06-28",
+      "question": "Lors des Grammy 2024, quelle artiste a remporté l'Album de l'année ?",
+      "choices": [
+        "Taylor Swift",
+        "SZA",
+        "Miley Cyrus",
+        "Beyoncé"
+      ],
+      "correctIndex": 0,
+      "explanation": "Taylor Swift a remporté l'Album de l'année pour Midnights aux Grammy 2024, la 4e fois pour elle, un record absolu.",
+      "category": "Pop culture"
+    },
+    {
+      "id": 90,
+      "date": "2026-06-29",
+      "question": "Quel célèbre opéra a été composé par Verdi au XIXe siècle ?",
+      "choices": [
+        "Don Giovanni",
+        "La Traviata",
+        "Carmen",
+        "Madame Butterfly"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Traviata est un opéra en trois actes de Giuseppe Verdi créé le 6 mars 1853 d'après le roman La Dame aux camélias d'Alexandre Dumas et son adaptation théâtrale.",
+      "category": "Musique"
+    },
+    {
+      "id": 91,
+      "date": "2026-06-30",
+      "question": "Depuis quand les femmes peuvent-elles gérer leurs biens propres et exercer une activité professionnelle sans le consentement de leur mari ?",
+      "choices": [
+        "8 juillet 1936",
+        "12 juin 1944",
+        "15 mai 1956",
+        "13 juillet 1965"
+      ],
+      "correctIndex": 3,
+      "explanation": "La loi du 13 juillet 1965 portant réforme des régimes matrimoniaux accorde aux femmes le droit d’ouvrir un compte en banque et d’exercer une profession sans le consentement de leur mari. Il faut attendre 1985 pour que l’égalité des époux dans la gestion des biens de la famille et des enfants soit reconnue.",
+      "category": "Histoire"
+    },
+    {
+      "id": 92,
+      "date": "2026-07-01",
+      "question": "Dans quelle ville a eu lieu la 1ère marche des fiertés française ?",
+      "choices": [
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Bordeaux"
+      ],
+      "correctIndex": 2,
+      "explanation": "La 1ère marche des fiertés en France s'est tenue à Paris. Les premières manifestations remontent à 1977, la marche officielle à 1981.",
+      "category": "Géo"
+    },
+    {
+      "id": 93,
+      "date": "2026-07-02",
+      "question": "Qu'est-ce qu'un lambi ?",
+      "choices": [
+        "Un coquillage",
+        "Un champignon",
+        "Un alcool fort",
+        "Un petit agrume"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le lambi est un coquillage. Il peut être utilisé comme un instrument de musique, longtemps pratiqué en Martinique par les pêcheurs pour prévenir de leur arrivée ou annoncer un décès.",
+      "category": "Nature"
+    },
+    {
+      "id": 94,
+      "date": "2026-07-03",
+      "question": "A part Chanel et ses propres marques, de quelle marque Karl Lagerfeld a-t-il été le directeur artistique ?",
+      "choices": [
+        "Gucci",
+        "Fendi",
+        "Dior",
+        "Prada"
+      ],
+      "correctIndex": 1,
+      "explanation": "Karl Lagerfeld a été à la tête de Fendi pendant 54 ans. ",
+      "category": "Mode"
+    },
+    {
+      "id": 95,
+      "date": "2026-07-04",
+      "question": "Dans quelle série policière américaine trouve-t-on l’inspectrice Lilly Rush ?",
+      "choices": [
+        "FBI : Portés disparus",
+        "Esprits Criminels",
+        "Cold Case : Affaires classées",
+        "Les Experts Miami"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lilly Rush est l'héroïne de la série «Cold Case : Affaires classées» et est incarnée par Kathryn Morris.",
+      "category": "Séries"
+    },
+    {
+      "id": 96,
+      "date": "2026-07-05",
+      "question": "Quel est le premier Empereur romain ?",
+      "choices": [
+        "Jules César",
+        "Auguste",
+        "Neron",
+        "Hadrien"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ce n'est pas Jules César mais bien l'empereur Auguste (né environ en 63 av. J.-C. et mort en 14 ap. J.-C) qui est véritablement le premier empereur romain.",
+      "category": "Culture G"
+    },
+    {
+      "id": 97,
+      "date": "2026-07-06",
+      "question": "Dans quelle ville italienne la pizza a-t-elle été inventée ?",
+      "choices": [
+        "Rome",
+        "Florence",
+        "Naples",
+        "Venise"
+      ],
+      "correctIndex": 2,
+      "explanation": "La pizza est née au XVIème siècle dans la ville de Naples, en Italie. Son histoire remonte à l'Antiquité, où les peuples méditerranéens cuisinaient des pains plats garnis d'huile d'olive, d'herbes et parfois de fromage.",
+      "category": "Cuisine"
+    },
+    {
+      "id": 98,
+      "date": "2026-07-07",
+      "question": "Quel sport collectif venu du Quebec se joue avec un ballon de 1m22 ?",
+      "choices": [
+        "Le spike ball",
+        "Le kin-ball",
+        "L'airsoft",
+        "Le slam ball"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un ballon de 1,22 mètres de diamètre sera posé au centre du terrain et 3 équipes de 4 joueurs devront s’affronter. Le but du jeu est relativement simple, les joueurs devront attraper le ballon avec n’importe quelle partie du corps afin d’éviter qu'il ne touche le sol.",
+      "category": "Sport"
+    },
+    {
+      "id": 99,
+      "date": "2026-07-08",
+      "question": "Dans «Portrait de la jeune fille en feu», où se déroule l'histoire ?",
+      "choices": [
+        "Sur la Côte d'Azur",
+        "En Bretagne",
+        "En Normandie",
+        "Au Portugal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le film de Céline Sciamma se déroule dans une île bretonne au XVIIIe siècle. Un chef-d'œuvre du female gaze.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 100,
+      "date": "2026-07-09",
+      "question": "Quelle est la bonne orthographe ?",
+      "choices": [
+        "Obnubiler",
+        "Obnibuler",
+        "Omnubiler",
+        "Omnibuler"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pas facile ! Obnubiler signifie être obsédé par quelque chose.",
+      "category": "Orthographe"
+    },
+    {
+      "id": 101,
+      "date": "2026-07-10",
+      "question": "Quelle notion bell hooks place-t-elle au coeur de son analyse pour décrire l'oppression croisée des femmes noires ?",
+      "choices": [
+        "La sororité universelle",
+        "La matriarcat",
+        "L'imbrication race-classe-genre",
+        "Le plafond de verre"
+      ],
+      "correctIndex": 2,
+      "explanation": "Avant que Kimberlé Crenshaw ne formalise le terme «intersectionnalité», bell hooks analysait dès les années 80 comment race, classe et genre s'imbriquent pour produire des formes d'oppression spécifiques, invisibles si on ne regarde qu'un seul axe à la fois.",
+      "category": "Littérature"
+    },
+    {
+      "id": 102,
+      "date": "2026-07-11",
+      "question": "Qui a peint Impression soleil levant ?",
+      "choices": [
+        "Manet",
+        "Renoir",
+        "Monet",
+        "Degas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Impression soleil levant est un tableau de Claude Monet conservé au musée Marmottan à Paris. Il a donné son nom au mouvement impressionniste.",
+      "category": "Art"
+    },
+    {
+      "id": 103,
+      "date": "2026-07-12",
+      "question": "Quelle icône a déclaré « Ma mère m'a dit : “Tu sais, ma chérie, un jour tu devrais te caser et épouser un homme riche”, et j'ai répondu : “Maman, je suis un homme riche.” » ?",
+      "choices": [
+        "Grace Jones",
+        "Diana Ross",
+        "Cher",
+        "Lady Gaga"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cher, reine absolue et légende vivante, a déclaré cette phrase.",
+      "category": "Pop culture"
+    },
+    {
+      "id": 104,
+      "date": "2026-07-13",
+      "question": "À quel compositeur doit-on les oeuvres «La Flûte enchantée» et «Les Noces de Figaro» ?",
+      "choices": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Chopin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mozart, considéré comme l'un des plus grands compositeurs de l'histoire, a composé ces deux chefs-d'œuvre.",
+      "category": "Musique"
+    },
+    {
+      "id": 105,
+      "date": "2026-07-14",
+      "question": "De quelle dynastie Charlemagne fait-il partie ?",
+      "choices": [
+        "Les Mérovingiens",
+        "Les Capétiens",
+        "Les Bourbons",
+        "Les Carolingiens"
+      ],
+      "correctIndex": 3,
+      "explanation": "Il appartient à la dynastie des Carolingiens. Dans l'ordre : Mérovingiens, Carolingiens, Capétiens, Valois.",
+      "category": "Histoire"
+    },
+    {
+      "id": 106,
+      "date": "2026-07-15",
+      "question": "Avec quel pays la France partage-t-elle sa plus longue frontière terrestre ?",
+      "choices": [
+        "Suriname",
+        "Suisse",
+        "Espagne",
+        "Brésil"
+      ],
+      "correctIndex": 3,
+      "explanation": "La France et le Brésil partagent une frontière de plus de 730 km, ce qui constitue la plus longue frontière terrestre française.",
+      "category": "Géo"
+    },
+    {
+      "id": 107,
+      "date": "2026-07-16",
+      "question": "Lequel de ces aliments pousse dans la terre ?",
+      "choices": [
+        "La rhubarbe",
+        "La goyave",
+        "La cacahuète",
+        "Les gousses de vanille"
+      ],
+      "correctIndex": 2,
+      "explanation": "La cacahuète fleurit à la surface de la terre et produit ses fruits sous terre.",
+      "category": "Nature"
+    },
+    {
+      "id": 108,
+      "date": "2026-07-17",
+      "question": "Quel créateur star a été le directeur artistique de Christian Dior pendant presque 15 ans ?",
+      "choices": [
+        "Marc Jacobs",
+        "Tom Ford",
+        "Karl Lagarfeld",
+        "John Galliano"
+      ],
+      "correctIndex": 3,
+      "explanation": "En 1996, la maison Christian Dior nomme un nouveau directeur artistique pour ses lignes prêt-à-porter et Haute Couture : John Galliano.",
+      "category": "Mode"
+    },
+    {
+      "id": 109,
+      "date": "2026-07-18",
+      "question": "Dans la saga de l'été Dolmen, qui est l'actrice principale ?",
+      "choices": [
+        "Corinne Touzet",
+        "Ingrid Chauvin",
+        "Claire Keimm",
+        "Natacha Amal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marie Kermeur, incarnée par Ingrid Chauvin est une jeune policière qui revient sur son île natale, lorsque d'étranges évènements se produisent.",
+      "category": "Séries"
+    },
+    {
+      "id": 110,
+      "date": "2026-07-19",
+      "question": "Quelle bataille signe la fin de l’épopée napoléonienne ?",
+      "choices": [
+        "Waterloo",
+        "Marignan",
+        "Austerlitz",
+        "Stalingrad"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'empereur abdique définitivement le 7 juillet 1815 après la bataille de Waterloo. Le 1er Empire prend fin et la monarchie est rétablie.",
+      "category": "Culture G"
+    },
+    {
+      "id": 111,
+      "date": "2026-07-20",
+      "question": "Quel ingrédient accompagne la tomate dans la recette du Pan con Tomate espagnol ?",
+      "choices": [
+        "Des oignons",
+        "De l'ail",
+        "De la ciboulette",
+        "DU basilic"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ce plat est constitué de tranches de pain frottées avec une tomate et de l'ail, le tout assaisonné avec de l'huile d'olive et du sel.",
+      "category": "Cuisine"
+    },
+    {
+      "id": 112,
+      "date": "2026-07-21",
+      "question": "Qui est surnommé « l’Eternel Second » du Tour de France ?",
+      "choices": [
+        "Raymond Poulidor",
+        "Bernard Hinault",
+        "Eddy Merckx",
+        "Laurent Fignon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Raymond Poulidor a beau avoir remporté de nombreuses victoires, le Tour de France lui a toujours résisté. Il a terminé deuxième à trois reprises, en 1964, 1965 et 1974.",
+      "category": "Sport"
+    },
+    {
+      "id": 113,
+      "date": "2026-07-22",
+      "question": "Lors du tournage de Titanic, qui était en train de dessiner Kate Winslet ?",
+      "choices": [
+        "Leonardo Di Caprio",
+        "James Cameron",
+        "Billy Zane (qui jouait Cal)",
+        "Kathryn Bigelow (la femme de Cameron)"
+      ],
+      "correctIndex": 1,
+      "explanation": "James Cameron est également un excellent dessinateur. On lui doit les dessins de Rose dans le carnet de croquis de Jack.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 114,
+      "date": "2026-07-23",
+      "question": "Quelle proposition est correcte ?",
+      "choices": [
+        "En son for intérieur",
+        "En son fort intérieur",
+        "En son fore intérieur",
+        "En son fors intérieur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le nom « for » ne subsistant plus que dans l’expression « for intérieur », on a tendance à lui donner l’orthographe de « fort ».",
+      "category": "Orthographe"
+    },
+    {
+      "id": 115,
+      "date": "2026-07-24",
+      "question": "Quel roman raconte l'amitié entre Skeeter, une jeune bourgeoise blanche du Mississippi, et Minny et Aibileen, deux employées de maison noires ?",
+      "choices": [
+        "Là où chantent les écrevisses",
+        "Beignets de tomates vertes",
+        "Ne tirez pas sur l'oiseau moqueur",
+        "La couleur des sentiments"
+      ],
+      "correctIndex": 3,
+      "explanation": "La Couleur des sentiments est un roman de Kathryn Stockett, publié en 2009.",
+      "category": "Littérature"
+    },
+    {
+      "id": 116,
+      "date": "2026-07-25",
+      "question": "Qui a composé «L’Ode à la joie», l’hymne de l’Union européenne depuis 1958 ?",
+      "choices": [
+        "Schubert",
+        "Beethoven",
+        "Bach",
+        "Debussy"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Ode à la joie est un poème de Friedrich von Schiller écrit en 1785 et finale du dernier mouvement de la 9ᵉ Symphonie de Beethoven.",
+      "category": "Musique"
+    },
+    {
+      "id": 117,
+      "date": "2026-07-26",
+      "question": "Quel est l'autre nom du Néolithique ? Âge de la ...",
+      "choices": [
+        "pierre taillée",
+        "pierre polie",
+        "pierre sculptée",
+        "pierre peinte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Défini comme «l'âge de la pierre polie », il est principalement caractérisé actuellement par la domestication de certaines plantes et animaux et le début de l'agriculture.",
+      "category": "Histoire"
+    },
+    {
+      "id": 118,
+      "date": "2026-07-27",
+      "question": "Lequel de ces pays n'est pas un état fédéral ?",
+      "choices": [
+        "Allemagne",
+        "Nouvelle-Zélande",
+        "Brésil",
+        "Canada"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Nouvelle-Zélande est un état unitaire.",
+      "category": "Géo"
+    },
+    {
+      "id": 119,
+      "date": "2026-07-28",
+      "question": "A quel créateur doit-on les légendaires seins en cône ?",
+      "choices": [
+        "Karl Lagarfeld",
+        "Marc Jacobs",
+        "Jean-Paul Gaultier",
+        "Coco Chanel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jean Paul Gaultier a créé ces iconiques et légendaires seins en cône portés notamment par Madonna en 1990 pour son « Blond Ambition Tour ».",
+      "category": "Mode"
+    },
+    {
+      "id": 120,
+      "date": "2026-07-29",
+      "question": "Dans quelle série américaine, le casting est-il presque exclusivement féminin ?",
+      "choices": [
+        "Normal People",
+        "Orange Is the New Black",
+        "Grey's Anatomy",
+        "Fleabag"
+      ],
+      "correctIndex": 1,
+      "explanation": "Orange Is the New Black se déroule principalement dans une prison pour femmes.",
+      "category": "Séries"
+    },
+    {
+      "id": 121,
+      "date": "2026-07-30",
+      "question": "Où se situe en France le plateau de Millevaches ?",
+      "choices": [
+        "Dans les Vosges",
+        "En Bretagne",
+        "En Corse",
+        "Dans le Limousin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le plateau de Millevaches, parfois appelé « Montagne limousine », est un grand plateau granitique français du Massif central, situé dans le Limousin.",
+      "category": "Culture G"
+    },
+    {
+      "id": 122,
+      "date": "2026-07-31",
+      "question": "Quel pilote a remporté le plus de championnat du monde de Formule 1 à partir de l'année 2000 ?",
+      "choices": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Michael Schumacher",
+        "Fernando Alonso"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lewis Hamilton a remporté 7 fois le titre, Michael Schumacher 5 fois (même si au total 7 fois également), Max Verstappen 4 fois et Alonso 2 fois.",
+      "category": "Sport"
+    },
+    {
+      "id": 123,
+      "date": "2026-08-01",
+      "question": "Quel acteur a joué le plus de fois le rôle du célèbre 007 (James Bond) ?",
+      "choices": [
+        "Daniel Craig",
+        "Pierce Brosnan",
+        "Roger Moore",
+        "Sean Connery"
+      ],
+      "correctIndex": 2,
+      "explanation": "Roger Moore a joué James Bond 7 fois, Sean Connery 6 fois, Daniel Craig 5 et Pierce Brosnan 4.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 124,
+      "date": "2026-08-02",
+      "question": "Quel texte de Simone de Beauvoir commence par \"On ne naît pas femme, on le devient\" ?",
+      "choices": [
+        "La Force de l'âge",
+        "Le Deuxième Sexe",
+        "Mémoires d'une jeune fille rangée",
+        "Les Mandarins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Deuxième Sexe (1949) est une œuvre fondatrice du féminisme contemporain. Cette phrase reste l'une des plus citées de la philosophie.",
+      "category": "Littérature"
+    },
+    {
+      "id": 125,
+      "date": "2026-08-03",
+      "question": "En quelle année a été jouée pour la première fois la comédie musicale Notre-Dame de Paris ?",
+      "choices": [
+        "1994",
+        "1998",
+        "2000",
+        "2004"
+      ],
+      "correctIndex": 1,
+      "explanation": "Succès critique et public, la comédie musicale, créée en septembre 1998, est directement inspirée du roman éponyme de Victor Hugo.",
+      "category": "Musique"
+    },
+    {
+      "id": 126,
+      "date": "2026-08-04",
+      "question": "Quelles sont les trois salles officielles parisiennes qui accueillent le théâtre des Lumières, au XVIIIe siècle ? ",
+      "choices": [
+        "La Comédie-Française, l'Odéon et l'Opéra",
+        "Le Théâtre des Champs-Élysées, l'Odéon et l'Opéra",
+        "Le Théâtre du Châtelet, le thétare de la Renaissance et l'Opéra",
+        "L'Opéra de Bastille, le théatre de la Renaissance et le théatre du Palais Royal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les représentations ont lieu dans des foires ou dans des institutions comme la Comédie-Française, l'Odeon et l'Opera. Le Théâtre des Champs-Élysées a été construit en 1913 et celui du Châtelet en 1860.",
+      "category": "Histoire"
+    },
+    {
+      "id": 127,
+      "date": "2026-08-05",
+      "question": "Quelle est la longueur de la frontière entre la France et l'Espagne ?",
+      "choices": [
+        "223 km",
+        "423 km",
+        "623 km",
+        "823 km"
+      ],
+      "correctIndex": 1,
+      "explanation": "La frontière terrestre franco-espagnole s'étend sur 623 kilomètres, au sud-ouest de la France et au nord-est de l'Espagne.",
+      "category": "Géo"
+    },
+    {
+      "id": 128,
+      "date": "2026-08-06",
+      "question": "Quelle créatrice de mode a imaginé la tenue de la cavalière d'argent aux JO de Paris 2024 ?",
+      "choices": [
+        "Marine Serre",
+        "Morgane Sézalory",
+        "Jeanne Friot",
+        "Isabel Marant"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jeanne Friot a créé l'une des silhouettes les plus marquantes de la cérémonie d'ouverture des JO de Paris.",
+      "category": "Mode"
+    },
+    {
+      "id": 129,
+      "date": "2026-08-07",
+      "question": "Dans la série Charmed, quel est le nom de famille des soeurs qui pratiquent la magie ?",
+      "choices": [
+        "Reynolds",
+        "Spencer",
+        "Harrison",
+        "Halliwell"
+      ],
+      "correctIndex": 3,
+      "explanation": "Les soeurs Halliwell apprennent à se servir de leurs nouveaux pouvoirs magiques afin de lutter contre le Mal.",
+      "category": "Séries"
+    },
+    {
+      "id": 130,
+      "date": "2026-08-08",
       "question": "Pourquoi Mstislav Rostropovitch est-il connu ?",
       "choices": [
         "Il a joué du violoncelle au pied du mur de Berlin lors de sa chute en 1989",
@@ -1849,8 +1821,1212 @@
       "category": "Culture G"
     },
     {
+      "id": 131,
+      "date": "2026-08-09",
+      "question": "Quel entraîneur est le plus titré en Ligue des champions ?",
+      "choices": [
+        "Pep Guardiola",
+        "Luis Enrique",
+        "Zinédine Zidane",
+        "Carlo Ancelotti"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carlo Ancelotti a remporté 5 fois la coupe (avec l'AC Milan en 2003 et 2007 puis avec le Real Madrid en 2014, 2022 et 2024)",
+      "category": "Sport"
+    },
+    {
+      "id": 132,
+      "date": "2026-08-10",
+      "question": "Dans quel film peut-on entendre : «Où sont les poulardes ? J'ai faim !» ?",
+      "choices": [
+        "Les tontons flingueurs",
+        "Les visiteurs",
+        "La folie des grandeurs",
+        "Le clan des siciliens"
+      ],
+      "correctIndex": 1,
+      "explanation": "C’est une réplique culte des Visiteurs : «Où sont les poulardes ? J'ai faim ! Où sont les veaux, les rôtis, les saucisses ? Où sont les fèves, les pâtés de cerf ?»",
+      "category": "Cinéma"
+    },
+    {
       "id": 133,
-      "date": "2026-05-13",
+      "date": "2026-08-11",
+      "question": "Qui a créé le personnage de Frankenstein en 1818 ?",
+      "choices": [
+        "Oscar Wilde",
+        "Jane Austen",
+        "Mary Shelley",
+        "Georges Orwell"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mary Shelley n'avait que 19 ans quand elle a écrit ce chef-d’œuvre de la littérature : «Frankenstein ou le Prométhée moderne». Il est considéré comme le premier roman de science-fiction au monde.",
+      "category": "Littérature"
+    },
+    {
+      "id": 134,
+      "date": "2026-08-12",
+      "question": "D'où est originaire le chanteur Bad Bunny ?",
+      "choices": [
+        "Puerto Rico",
+        "Jamaique",
+        "Bahamas",
+        "Cuba"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le rappeur, de son vrai nom Benito Antonio Martínez Ocasio, est originaire de Puerto Rico (ou Porto Rico), un territoire non incorporé des États-Unis.",
+      "category": "Musique"
+    },
+    {
+      "id": 135,
+      "date": "2026-08-13",
+      "question": "Quel est le siècle des Lumières ?",
+      "choices": [
+        "Xe siècle",
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le mouvement des Lumières tire son nom de la volonté des philosophes européens du XVIIIe siècle de combattre les ténèbres de l'ignorance par la diffusion du savoir. ",
+      "category": "Histoire"
+    },
+    {
+      "id": 136,
+      "date": "2026-08-14",
+      "question": "Quelle pays possède la plus superficie forestière du monde ?",
+      "choices": [
+        "Russie ",
+        "Canada",
+        "Brésil",
+        "Chine"
+      ],
+      "correctIndex": 0,
+      "explanation": "La Russie abrite la plus grande superficie forestière au monde, couvrant plus de 815 millions d’hectares, soit près de 20 % de la superficie forestière totale de la planète.",
+      "category": "Géo"
+    },
+    {
+      "id": 137,
+      "date": "2026-08-15",
+      "question": "Qui est la première femme directrice artistique de Dior ?",
+      "choices": [
+        "Maria Grazia Chiuri",
+        "Stella McCartney",
+        "Phoebe Philo",
+        "Madeleine Vionnet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria Grazia Chiuri, née à Rome en février 1964, est une styliste italienne. Après Fendi, elle passe dix-sept ans chez Valentino avant d'être nommée directrice artistique de Dior en 2017, jusqu'à son départ en 2025.",
+      "category": "Mode"
+    },
+    {
+      "id": 138,
+      "date": "2026-08-16",
+      "question": "Quelle série des années 2000 détient le record d'un des pilotes le plus coûteux de l'histoire de la télévision américaine ?",
+      "choices": [
+        "Desperate Housewives",
+        "Fringe",
+        "Heroes",
+        "Lost : Les disparus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cet épisode comprend l'accident d'avion qui est le point de départ de Lost et son coût est estimé à 14 millions de dollars.",
+      "category": "Séries"
+    },
+    {
+      "id": 139,
+      "date": "2026-08-17",
+      "question": "Quelle est cette fleur emblématique de Tahiti ?",
+      "choices": [
+        "Le lotus de Tahiti",
+        "Le bougainviller",
+        "L’oiseau de paradis",
+        "La fleur de tiaré"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le monoï est fabriqué à partir de fleurs de tiaré macérées dans l’huile de coprah.",
+      "category": "Culture G"
+    },
+    {
+      "id": 140,
+      "date": "2026-08-18",
+      "question": "Quel sport équestre argentin est le sport national ?",
+      "choices": [
+        "Le polo",
+        "Le pato",
+        "Le horse-ball",
+        "Le boulingrin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le pato est un sport équestre originaire d'Argentine et déclaré « sport national » en 1953.",
+      "category": "Sport"
+    },
+    {
+      "id": 141,
+      "date": "2026-08-19",
+      "question": "Combien d'entrées a réalisé le film «Astérix et Obélix : Mission Cléopâtre» en France ?",
+      "choices": [
+        "5,5 millions",
+        "8,5 millions",
+        "12,5 millions",
+        "14,5 millions"
+      ],
+      "correctIndex": 3,
+      "explanation": "En 2002, Astérix et Obélix : Mission Cléopâtre a explosé les compteurs avec plus de 14,5 millions d'entrées. À ce jour, il occupe la huitième place dans le box office français (et quatrième place pour un film français).",
+      "category": "Cinéma"
+    },
+    {
+      "id": 142,
+      "date": "2026-08-20",
+      "question": "Dans quel roman Charlotte Brontë s'inspire-t-elle fortement de sa propre vie ?",
+      "choices": [
+        "Lili Hart",
+        "Shirley",
+        "The professor",
+        "Jane Eyre"
+      ],
+      "correctIndex": 3,
+      "explanation": "Publié en 1847 sous le pseudonyme de Currer Bell, Jane Eyre est un roman en partie autobiographique.",
+      "category": "Littérature"
+    },
+    {
+      "id": 143,
+      "date": "2026-08-21",
+      "question": "Quelle chanteuse a sorti le tube «Born This Way» en 2011 ?",
+      "choices": [
+        "Madonna",
+        "Lady Gaga",
+        "Kesha",
+        "Katy Perry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Born This Way de Lady Gaga (2011) est devenu un hymne LGBT mondial, célébrant toutes les identités sans exception.",
+      "category": "Musique"
+    },
+    {
+      "id": 144,
+      "date": "2026-08-22",
+      "question": "Quelle capitale européenne a été anéantie par un terrible séisme en 1755 ?",
+      "choices": [
+        "Madrid",
+        "Lisbonne",
+        "Athènes",
+        "Rome"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le séisme de Lisbonne, survenu le 1er novembre 1755 , est une catastrophe qui fit entre 50 000 et 70 000 morts parmi les 275 000 habitants de Lisbonne.",
+      "category": "Histoire"
+    },
+    {
+      "id": 145,
+      "date": "2026-08-23",
+      "question": "Dans quel département se situe la côte de granit rose ?",
+      "choices": [
+        "Côtes-d'Armor",
+        "Le Finistère",
+        "La Martinique",
+        "Le calvados"
+      ],
+      "correctIndex": 0,
+      "explanation": "La Côte de Granit Rose s'étend sur 30 km entre Perros-Guirec et Trébeurden dans les Côtes d'Armor.",
+      "category": "Géo"
+    },
+    {
+      "id": 146,
+      "date": "2026-08-24",
+      "question": "Qui est la créatrice de la « petite robe noire » devenue iconique ?",
+      "choices": [
+        "Elsa Schiaparelli",
+        "Jeanne Lanvin",
+        "Madeleine Vionnet",
+        "Coco Chanel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Coco Chanel popularise la petite robe noire dans les années 1920, symbole d’élégance intemporelle, de modernité et de libération du corps féminin.",
+      "category": "Mode"
+    },
+    {
+      "id": 147,
+      "date": "2026-08-25",
+      "question": "Quelle quantité d’air une personne adulte consomme en moyenne chaque jour ?",
+      "choices": [
+        "5 000 litres",
+        "8 000 litres",
+        "12 000 litres",
+        "20 000 litres"
+      ],
+      "correctIndex": 2,
+      "explanation": "En moyenne, un adulte respire 12 000 litres d'air chaque jour.",
+      "category": "Culture G"
+    },
+    {
+      "id": 148,
+      "date": "2026-08-26",
+      "question": "Quel club a le plus remporté la Ligue des champions ?",
+      "choices": [
+        "Milan AC",
+        "Real Madrid",
+        "FC Barcelone",
+        "Bayern Munich"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Real Madrid domine le palmarès de la compétition avec 15 titres. Le club espagnol est également celui qui a disputé le plus de finales (18)",
+      "category": "Sport"
+    },
+    {
+      "id": 149,
+      "date": "2026-08-27",
+      "question": "Quelle réalisatrice a signé La Leçon de piano en 1993, Palme d'or à Cannes ?",
+      "choices": [
+        "Sofia Coppola",
+        "Jane Campion",
+        "Agnès Varda",
+        "Kathryn Bigelow"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jane Campion est la première femme à recevoir la Palme d'or pour La Leçon de piano.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 150,
+      "date": "2026-08-28",
+      "question": "Quelle oeuvre n'est pas de Balzac ?",
+      "choices": [
+        "Le Père Goriot",
+        "Les Illusions perdues",
+        "La Bête humaine",
+        "Le Lys dans la vallée"
+      ],
+      "correctIndex": 2,
+      "explanation": "La Bête humaine est un roman d'Emile Zola publié en 1890.",
+      "category": "Littérature"
+    },
+    {
+      "id": 151,
+      "date": "2026-08-29",
+      "question": "Dans quelle ville des États-Unis le rap a-t-il été fondé ?",
+      "choices": [
+        "New York",
+        "Los Angeles",
+        "Miami",
+        "Chicago"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le rap tire ses origines du hip-hop qui est apparu au début des années 1970 dans le sud du Bronx à New York.",
+      "category": "Musique"
+    },
+    {
+      "id": 152,
+      "date": "2026-08-30",
+      "question": "Sous quels empereurs romains le Colisée a-t-il été construit et inauguré en 80 ap. J.-C. ?",
+      "choices": [
+        "César et Auguste",
+        "Caligula et Néron",
+        "Vespasien et Titus",
+        "Marc Aurèle et Commode"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le Colisée (Amphitheatrum Flavium) a été construit sous Vespasien et inauguré par son fils Titus en 80 ap. J.-C.",
+      "category": "Histoire"
+    },
+    {
+      "id": 153,
+      "date": "2026-08-31",
+      "question": "Quel peintre a réalisé le plafond de l'Opéra Garnier à Paris ?",
+      "choices": [
+        "Salvador Dali",
+        "Henri Matisse",
+        "Marc Chagall",
+        "Bernard Buffet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le plafond de l'Opéra Garnier a été totalement rénové et réinventé en 1964 sous l'impulsion du ministre de la Culture André Malraux. La réalisation des fresques sur une superficie de 220 m² a été confiée au peintre Marc Chagall.",
+      "category": "Géo"
+    },
+    {
+      "id": 154,
+      "date": "2026-09-01",
+      "question": "Quel créateur s'est mis à la réalisation avec « A single man » ?",
+      "choices": [
+        "Tom Ford",
+        "Azzedine Alaia",
+        "Marc Jacobs",
+        "Simon Jacquemus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Connu comme directeur artistique de Gucci avant de lancer sa marque éponyme, Tom Ford se lance ensuite dans le cinéma. Il a écrit et réalisé les films A Single Man (2009) et Nocturnal Animals (2016).",
+      "category": "Mode"
+    },
+    {
+      "id": 155,
+      "date": "2026-09-02",
+      "question": "Pourquoi Jacqueline Auriol est-elle célèbre ?",
+      "choices": [
+        "Première européenne à franchir le mur du son",
+        "Première européenne à courir un marathon",
+        "Première femme à recevoir 3 étoiles au guide Michelin",
+        "Première européenne à aller dans l’espace"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jacqueline Auriol est une aviatrice française. En 1953, elle est la première Européenne à franchir le mur du son.",
+      "category": "Culture G"
+    },
+    {
+      "id": 156,
+      "date": "2026-09-03",
+      "question": "En 1967, Muhammad Ali est déchu de son titre de champion du monde de boxe parce qu’il…",
+      "choices": [
+        "refuse de combattre au Vietnam",
+        "est gravement blessé",
+        "milite en faveur de la cause noire",
+        "a critiqué la fédération de boxe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il refuse de combattre au Vietnam.",
+      "category": "Sport"
+    },
+    {
+      "id": 157,
+      "date": "2026-09-04",
+      "question": "Quelle réalisatrice a réalisé Anatomie d'une chute, Palme d'Or du Festival de Cannes 2023 ?",
+      "choices": [
+        "Rebecca Zlotowski",
+        "Jeanne Herry",
+        "Justine Triet",
+        "Valérie Donzelli"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les Poupées Russes et l'Auberge Espagnole ont été réalisés par Cédric Klapisch.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 158,
+      "date": "2026-09-05",
+      "question": "De quelle région le flamenco tire-t-il son origine ?",
+      "choices": [
+        "Andalousie",
+        "Galice",
+        "Asturies",
+        "Catalogne"
+      ],
+      "correctIndex": 0,
+      "explanation": "La tradition du flamenco s'est construite en Andalousie, même si aujourd'hui son origine exacte reste encore un mystère.",
+      "category": "Musique"
+    },
+    {
+      "id": 159,
+      "date": "2026-09-06",
+      "question": "Quelle dynastie a fait bâtir la partie la plus visible et la plus connue de la Grande Muraille de Chine ?",
+      "choices": [
+        "Dynastie Xin",
+        "Dynastie Tang",
+        "Dynastie Qin",
+        "Dynastie Ming"
+      ],
+      "correctIndex": 3,
+      "explanation": "La Grande Muraille Ming construite sous la dynastie Ming (1368-1644), forme aujourd'hui la partie la plus visible et la plus connue de la grande muraille de Chine.",
+      "category": "Histoire"
+    },
+    {
+      "id": 160,
+      "date": "2026-09-07",
+      "question": "Quelle île de Polynésie française est surnommée “la petite sœur de Tahiti” ?",
+      "choices": [
+        "Tikehau",
+        "Moorea",
+        "Fakarava",
+        "Bora Bora"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moorea est considérée comme l’île soeur de Tahiti. C’est la plus proche de Tahiti et est située à 17 km.",
+      "category": "Géo"
+    },
+    {
+      "id": 161,
+      "date": "2026-09-08",
+      "question": "Considérée comme une papesse de la mode, comment s'appelle la rédactrice en chef du Vogue US ?",
+      "choices": [
+        "Suzy Menkes",
+        "Carine Roitfeld",
+        "Emmanuelle Alt",
+        "Anna Wintour"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anna Wintour, à 75 ans, se retire de son poste de patronne de Vogue après 37 ans de service. Cette position a fait d'elle l'une des femmes les plus influentes au monde. Elle a notamment inspiré le rôle de Miranda Priestly dans le film Le Diable s'habille en Prada, incarné par Meryl Streep.",
+      "category": "Mode"
+    },
+    {
+      "id": 162,
+      "date": "2026-09-09",
+      "question": "De quel jeu le trictrac est-il l'ancêtre ?",
+      "choices": [
+        "Les échecs",
+        "Le backgammon",
+        "Le jeu de dames",
+        "Le jeu de l'Oie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le trictrac est un jeu de société de hasard pour deux joueurs qui se joue avec des dés sur un tablier semblable à celui du backgammon.",
+      "category": "Culture G"
+    },
+    {
+      "id": 163,
+      "date": "2026-09-10",
+      "question": "Qu'est ce que le steeple ?",
+      "choices": [
+        "Un art martial",
+        "Un sport équestre",
+        "Une course d'obstacles",
+        "Un sport nautique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le steeple est une course sur piste durant laquelle les athlètes franchissent de larges barrières fixes et des fosses remplies d'eau (« rivières »).",
+      "category": "Sport"
+    },
+    {
+      "id": 164,
+      "date": "2026-09-11",
+      "question": "Quel est le vrai nom de la Mariée cherchant à se venger dans les films «Kill Bill» de Quentin Tarantino ?",
+      "choices": [
+        "Beatrix Kiddo",
+        "Sofie Fatale",
+        "Elle Driver",
+        "Vernita Green"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans les deux volets, sortis en 2004 et 2005, Uma Thurman incarne Beatrix Kiddo, alias la Mariée et Black Mamba. Son nom n'est révélé que dans le deuxième volet.",
+      "category": "Cinéma"
+    },
+    {
+      "id": 165,
+      "date": "2026-09-12",
+      "question": "Combien de temps dura la guerre de Sécession ?",
+      "choices": [
+        "90 jours",
+        "2 ans",
+        "4 ans",
+        "12 ans"
+      ],
+      "correctIndex": 2,
+      "explanation": "La guerre de Sécession est une guerre civile opposant le gouvernement fédéral des États-Unis d'Amérique, dirigés par le président des États-Unis Abraham Lincoln, et les États du Sud confédérés d'Amérique, qui eux étaient esclavagistes.",
+      "category": "Histoire"
+    },
+    {
+      "id": 166,
+      "date": "2026-09-13",
+      "question": "Dans quelle chaine de montagne se trouve le K2 ?",
+      "choices": [
+        "Himalaya",
+        "Karakoram",
+        "Cordillère des andes",
+        "Chaine d'Alaska"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le K2 est un sommet du massif du Karakoram ou Karakorum. Avec une altitude officielle de 8 611 m, c'est le deuxième sommet du monde après l'Everest. Il est surnommé « montagne Sauvage » en raison de la difficulté de son ascension, ou « montagne sans pitié ».",
+      "category": "Géo"
+    },
+    {
+      "id": 167,
+      "date": "2026-09-14",
+      "question": "De quelle marque française une calèche est-elle le logo ?",
+      "choices": [
+        "Dior",
+        "Hermes",
+        "Chanel",
+        "Longchamp"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hermès a choisi le logo du cheval et de la calèche pour se représenter comme l'une des marques les plus luxueuses au monde.",
+      "category": "Mode"
+    },
+    {
+      "id": 168,
+      "date": "2026-09-15",
+      "question": "Quel est le prénom du premier enfant de Kate et William, futur Roi d'Angleterre ?",
+      "choices": [
+        "Alfred",
+        "Georges",
+        "Louis",
+        "Archie"
+      ],
+      "correctIndex": 1,
+      "explanation": "George Alexander Louis, né en 2013, est la premier enfant du couple et est 2ème dans l'ordre de succession au trône.",
+      "category": "Culture G"
+    },
+    {
+      "id": 169,
+      "date": "2026-09-16",
+      "question": "Quelle joueuse de tennis détient le record de 23 titres du Grand Chelem en simple féminin ?",
+      "choices": [
+        "Amélie Mauresmo",
+        "Steffi Graf",
+        "Venus Williams",
+        "Serena Williams"
+      ],
+      "correctIndex": 3,
+      "explanation": "Serena Williams détient le record de 23 titres du Grand Chelem en simple, faisant d'elle la joueuse la plus titrée de l'ère Open.",
+      "category": "Sport"
+    },
+    {
+      "id": 170,
+      "date": "2026-09-17",
+      "question": "Selon l'Article 1er de la Constitution. « La France est une république indivisible, laïque, démocratique et ... »",
+      "choices": [
+        "Morale",
+        "Libérale",
+        "Libre",
+        "Sociale"
+      ],
+      "correctIndex": 3,
+      "explanation": "La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion.",
+      "category": "Histoire"
+    },
+    {
+      "id": 171,
+      "date": "2026-09-18",
+      "question": "Dans quelle région de France métropolitaine, on ne trouve aucun péage ?",
+      "choices": [
+        "La Bretagne",
+        "La Normandie",
+        "La Nouvelle-Aquitaine",
+        "L'Occitanie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il n'y a aucune autoroute payante en Bretagne. Cette décision date de 1969 avec Le Plan Routier Breton pour désenclaver la région, qui était alors très pauvre. Des années plus tard, c'est encore une fierté locale.",
+      "category": "Géo"
+    },
+    {
+      "id": 172,
+      "date": "2026-09-19",
+      "question": "Quelle styliste est associée au style punk dans la mode ?",
+      "choices": [
+        "Stella McCartney",
+        "Vivienne Westwood",
+        "Sonia Rykiel",
+        "Agnès b."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vivienne Westwood révolutionne la mode en intégrant l’esthétique punk, mêlant provocation, politique et créativité et influençant durablement la culture fashion.",
+      "category": "Mode"
+    },
+    {
+      "id": 173,
+      "date": "2026-09-20",
+      "question": "Quelle romancière est connue pour son surnom «reine du suspense» ?",
+      "choices": [
+        "Agatha Christie",
+        "Lisa Gardner",
+        "Patricia Cornwell",
+        "Mary Higgins Clark"
+      ],
+      "correctIndex": 3,
+      "explanation": "La romancière Mary Higgings Clark, surnommée «la reine du suspense», a écrit plus de 50 livres. Agatha Christie est quant à elle la «reine du crime».",
+      "category": "Culture G"
+    },
+    {
+      "id": 174,
+      "date": "2026-09-21",
+      "question": "Quel est le meilleur buteur de l’histoire de la Ligue des champions ?",
+      "choices": [
+        "Lionel Messi",
+        "Kylian Mbappé",
+        "Karim Benzema",
+        "Cristiano Ronaldo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cristiano Ronaldo est le meilleur buteur de tous les temps en Champions League",
+      "category": "Sport"
+    },
+    {
+      "id": 175,
+      "date": "2026-09-22",
+      "question": "Quel pays a légalisé le mariage homosexuel en premier dans le monde ?",
+      "choices": [
+        "Pays-Bas",
+        "Belgique",
+        "Canada",
+        "Espagne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les Pays-Bas ont légalisé le mariage homosexuel en avril 2001, une première mondiale absolue.",
+      "category": "Histoire"
+    },
+    {
+      "id": 176,
+      "date": "2026-09-23",
+      "question": "Dans quel pays se trouve Ushuaïa ?",
+      "choices": [
+        "Argentine",
+        "Chili",
+        "Paraguay",
+        "Bolivie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ushuaïa est une ville touristique argentine. Elle est située sur l'archipel de la Terre de Feu, la pointe la plus méridionale de l'Amérique du Sud, surnommée le bout du monde.",
+      "category": "Géo"
+    },
+    {
+      "id": 177,
+      "date": "2026-09-24",
+      "question": "Que signifie la dernière lettre du sigle : NASA ?",
+      "choices": [
+        "Administration",
+        "Aeronautics",
+        "American",
+        "Authority"
+      ],
+      "correctIndex": 0,
+      "explanation": "La signification est National Aeronautics and Space Administration.",
+      "category": "Culture G"
+    },
+    {
+      "id": 178,
+      "date": "2026-09-25",
+      "question": "Quel est le club le plus titré de la Ligue des champions féminine ?",
+      "choices": [
+        "Olympique lyonnais",
+        "FC Barcelone",
+        "FFC Francfort",
+        "PSG"
+      ],
+      "correctIndex": 0,
+      "explanation": "L’OL a remporté huit fois ce titre depuis sa création en 2001, avec 5 victoires d’affilée entre 2016 et 2020.",
+      "category": "Sport"
+    },
+    {
+      "id": 179,
+      "date": "2026-09-26",
+      "question": "Quelle date est associée à la Bataille de Waterloo ?",
+      "choices": [
+        "18 avril 1802",
+        "18 juin 1815",
+        "18 juillet 1823",
+        "18 septembre 1831"
+      ],
+      "correctIndex": 1,
+      "explanation": "Waterloo est une bataille perdue par Napoléon Bonaparte devant les Anglais et les Prussiens.",
+      "category": "Histoire"
+    },
+    {
+      "id": 180,
+      "date": "2026-09-27",
+      "question": "Sur combien de ces continents trouve-t-on des territoires français ?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "En plus de l'Europe, on retrouve des territoires français en Amérique, Océanie, Afrique et Antarctique (Terre Adélie).",
+      "category": "Géo"
+    },
+    {
+      "id": 181,
+      "date": "2026-09-28",
+      "question": "Quelle ville est surnommée «La ville Ocre» ?",
+      "choices": [
+        "Pékin",
+        "Amman",
+        "Marrakech",
+        "Toulouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "La ville de Marrakech est surnommée « la ville rouge » ou la « ville ocre » en référence à la couleur rouge d'une grande partie de ses immeubles et de ses maisons.",
+      "category": "Culture G"
+    },
+    {
+      "id": 182,
+      "date": "2026-09-29",
+      "question": "Quel club a réussi l'exploit de remporter tous ses matchs lors d'une édition de la Ligue des champions ?",
+      "choices": [
+        "Milan AC",
+        "Real Madrid",
+        "FC Barcelone",
+        "Bayern Munich"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le Bayern Munich est le seul club de l’histoire à avoir remporté la Ligue des champions en gagnant tous ses matchs lors de la saison 2019-2020.",
+      "category": "Sport"
+    },
+    {
+      "id": 183,
+      "date": "2026-09-30",
+      "question": "La préhistoire se termine",
+      "choices": [
+        "à la naissance de Jésus",
+        "à l'invention de la roue",
+        "à l'invention de l'écriture",
+        "à l'invention de l'agriculture"
+      ],
+      "correctIndex": 2,
+      "explanation": "La Préhistoire est la période qui s'étend de l'apparition de l'Homme, il y a 2,8 millions d'années, à l'invention de l'écriture, vers 3300 avant J.C. C'est donc, jusqu'à aujourd'hui, la plus longue période de l'histoire de l'humanité.",
+      "category": "Histoire"
+    },
+    {
+      "id": 184,
+      "date": "2026-10-01",
+      "question": "Où a été observée la plus grosse vague du monde ?",
+      "choices": [
+        "À Nazaré au Portugal",
+        "À Teahupo’o à Tahiti",
+        "À Bidart au Pays-Basque",
+        "À Jaws à Hawaï"
+      ],
+      "correctIndex": 0,
+      "explanation": "En décembre 2014, la vague de Nazaré a atteint 33 mètres soit la hauteur d’un immeuble de 10 étages. La Praia do Norte de Nazaré est connue pour ses vagues adorées des surfeurs.",
+      "category": "Géo"
+    },
+    {
+      "id": 185,
+      "date": "2026-10-02",
+      "question": "Quel ministère est couramment appelé «Le Quai d’Orsay» ?",
+      "choices": [
+        "Ministère de la Justice",
+        "Ministère des Affaires Étrangères",
+        "Ministère de la Culture",
+        "Ministère de l'Économie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Ministère de l'Europe et des Affaires étrangères (MEAE) est souvent surnommé le « Quai d'Orsay » en référence à son emplacement historique.",
+      "category": "Culture G"
+    },
+    {
+      "id": 186,
+      "date": "2026-10-03",
+      "question": "Dans quel sport la France a-t-elle remportée le plus grand nombre de médailles olympiques ?",
+      "choices": [
+        "Escrime",
+        "Judo",
+        "Natation",
+        "Cyclisme"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'escrime est le sport français ayant remporté le plus grand nombre de médailles aux Jeux Olympiques avec un total de 130 médailles.",
+      "category": "Sport"
+    },
+    {
+      "id": 187,
+      "date": "2026-10-04",
+      "question": "Pourquoi Kathrine Switzer est-elle célèbre ?",
+      "choices": [
+        "Première femme à obtenir le divorce sans le consentement de son mari",
+        "Première femme à avoir couru un marathon",
+        "Première femme à avoir voté aux États-Unis",
+        "Première américaine à aller dnas l'espace"
+      ],
+      "correctIndex": 1,
+      "explanation": "La femme n’a pas été repérée au départ du marathon de Boston de 1967. Les organiseurs ont tenté de la stopper au milieu de la course, mais d’autres coureurs se sont interposés pour l’aider à finir la course. 5 ans plus tard, les femmes pouvaient officiellement participer au marathon.",
+      "category": "Histoire"
+    },
+    {
+      "id": 188,
+      "date": "2026-10-05",
+      "question": "Dans quel département se trouve la ville de Schœlcher ?",
+      "choices": [
+        "La Haute-Vienne",
+        "La Martinique",
+        "L'Alsace",
+        "La Lorraine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Schœlcher est une commune française, située dans le département de la Martinique. Elle est nommée en hommage à Victor Schœlcher (1804-1893), initiateur de l'abolition définitive de l'esclavage en France et dans ses colonies. ",
+      "category": "Géo"
+    },
+    {
+      "id": 189,
+      "date": "2026-10-06",
+      "question": "Que signifie la locution latine “homo homini lupus est” ?",
+      "choices": [
+        "Heureux l'homme qui a trouvé la sagesse.",
+        "L’homme est un loup pour l’homme.",
+        "Le bon vin réjouit le coeur des hommes.",
+        "Il arrive à tout homme de se tromper."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cette locution signifie que l'homme est le pire ennemi de l'homme lui-même.",
+      "category": "Culture G"
+    },
+    {
+      "id": 190,
+      "date": "2026-10-07",
+      "question": "Qui est la première femme à avoir remporté le Tour de France Femmes relancé en 2022 ?",
+      "choices": [
+        "Annemiek van Vleuten",
+        "Demi Vollering",
+        "Marianne Vos",
+        "Elisa Longo Borghini"
+      ],
+      "correctIndex": 0,
+      "explanation": "Annemiek van Vleuten a remporté la 1ère édition relancée en 2022... avec une fracture au coude contractée pendant la course !",
+      "category": "Sport"
+    },
+    {
+      "id": 191,
+      "date": "2026-10-08",
+      "question": "Comment s'appelait la place publique chez les Athéniens ?",
+      "choices": [
+        "L'acropole",
+        "Le forum",
+        "Le temple",
+        "L'agora"
+      ],
+      "correctIndex": 3,
+      "explanation": "​L'Agora d'Athènes est le lieu de rencontre et de discussion des citoyens de la cité.",
+      "category": "Histoire"
+    },
+    {
+      "id": 192,
+      "date": "2026-10-09",
+      "question": "Quel pays a pour capitale Bamako ?",
+      "choices": [
+        "Mali",
+        "Sénégal",
+        "Cameroun",
+        "Côte d'Ivoire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bamako est la plus grande ville du Mali et sa capitale depuis 1960.",
+      "category": "Géo"
+    },
+    {
+      "id": 193,
+      "date": "2026-10-10",
+      "question": "Qui était opposé à Nicolas Sarkozy au second tour de l'élection présidentielle française de 2007 ?",
+      "choices": [
+        "Lionel Jospin",
+        "François Hollande",
+        "Ségolène Royal",
+        "Emmanuel Macron"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le candidat de l'UMP, Nicolas Sarkozy, l'emporte au second tour avec 53,06 % des suffrages exprimés, contre 46,94 % pour Ségolène Royal, candidate du Parti socialiste. Il succède ainsi à Jacques Chirac.",
+      "category": "Culture G"
+    },
+    {
+      "id": 194,
+      "date": "2026-10-11",
+      "question": "Quel est le sport proche du hockey sur glace mais se jouant en intérieur ?",
+      "choices": [
+        "Le boulingrin",
+        "La ringuette",
+        "Le gouret de salon",
+        "Le bandy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le gouret de salon (ou hockey de salon) est un sport collectif récréatif d'intérieur qui est un proche parent du hockey sur glace.",
+      "category": "Sport"
+    },
+    {
+      "id": 195,
+      "date": "2026-10-12",
+      "question": "Le feu a été découvert par ...",
+      "choices": [
+        "L'homme de Cro-Magnon",
+        "L'Homo erectus",
+        "L'Homo sapiens",
+        "L'homo habilis"
+      ],
+      "correctIndex": 1,
+      "explanation": "La découverte du feu est un tournant majeur dans l'Histoire de l'humanité. Difficile à dater, elle s'est faite de manière progressive à plusieurs endroits à la fois. On sait qu'Homo erectus le domestiquait vers 400.000 ans avant notre ère, et qu'Homo sapiens a développé son usage.",
+      "category": "Histoire"
+    },
+    {
+      "id": 196,
+      "date": "2026-10-13",
+      "question": "Laquelle de ces villes n’est pas située en Polynésie française ?",
+      "choices": [
+        "Papeete",
+        "Vaitape",
+        "Nouméa",
+        "Punaauia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nouméa est la capitale de la Nouvelle-Calédonie qui est indépendante de la Polynésie française.",
+      "category": "Géo"
+    },
+    {
+      "id": 197,
+      "date": "2026-10-14",
+      "question": "Dans le film d’animation japonais «Le voyage de Chihiro» de 2001, en quels animaux la sorcière Yubaba transforme-t-elle les parents de Chihiro ?",
+      "choices": [
+        "Serpents",
+        "Vaches",
+        "Cafards",
+        "Cochons"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dans «Le voyage de Chihiro», les parents de Chihiro se transforment en cochons après avoir goûté aux mets raffinés d’un restaurant vide sans y avoir été invités.",
+      "category": "Culture G"
+    },
+    {
+      "id": 198,
+      "date": "2026-10-15",
+      "question": "Quel est le temps record féminin pour courir les 42 km d’un marathon ?",
+      "choices": [
+        "2 heures 1 minute et 9 secondes",
+        "2 heures 9 minutes et 56 secondes",
+        "2 heures 17 minutes et 38 secondes",
+        "2 heures 29 minutes et 5 secondes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le 13 octobre 2024, dans les rues de Chicago, Ruth Chepngetich 30 ans à l'époque explosait le record du monde du marathon en 2h09'56.",
+      "category": "Sport"
+    },
+    {
+      "id": 199,
+      "date": "2026-10-16",
+      "question": "Parmi ces métaux, quel fut le premier a être utilisé ?",
+      "choices": [
+        "Cuivre",
+        "Bronze",
+        "Fer",
+        "Or"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le cuivre fut probablement le premier métal extrait et travaillé par l'homme.",
+      "category": "Histoire"
+    },
+    {
+      "id": 200,
+      "date": "2026-10-17",
+      "question": "Quelles sont les 2 langues officielles de la Finlande ?",
+      "choices": [
+        "Le finnois et l’anglais",
+        "Le finnois et le norvégien",
+        "Le finnois et le suédois",
+        "Le finnois et le russe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le finnois et le suédois sont les deux langues officielles.",
+      "category": "Géo"
+    },
+    {
+      "id": 201,
+      "date": "2026-10-18",
+      "question": "En France, qui remplace le président de la République en cas de décès, de démission ou de destitution ?",
+      "choices": [
+        "Le président de l'Assemblée Nationale",
+        "Le président du Sénat",
+        "Le Premier Ministre",
+        "Le ministre de l'Intérieur"
+      ],
+      "correctIndex": 1,
+      "explanation": "C'est le président du Sénat qui est chargé de l'intérim.",
+      "category": "Culture G"
+    },
+    {
+      "id": 202,
+      "date": "2026-10-19",
+      "question": "Quel match de la Ligue des champions, surnommé la remontada, a marqué l’histoire du football ?",
+      "choices": [
+        "Liverpool-FC Barcelone",
+        "PSG-Manchester United",
+        "FC Barcelone–PSG",
+        "Real Madrid–PSG"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le 8 mars 2017, le FC Barcelone, battu 4-0 par le Paris Saint-Germain lors du match aller, sort vainqueur de ces huitièmes de finale en battant le Paris Saint-Germain 6-1.",
+      "category": "Sport"
+    },
+    {
+      "id": 203,
+      "date": "2026-10-20",
+      "question": "Qui a percé le mystère des hiéroglyphes ? ",
+      "choices": [
+        "Champollion",
+        "Carnot",
+        "Howard Carter",
+        "Napoléon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le secret des hiéroglyphes fut percé par Jean-François Champollion grâce à la pierre de Rosette, en s'appuyant sur les travaux d'autres chercheurs.",
+      "category": "Histoire"
+    },
+    {
+      "id": 204,
+      "date": "2026-10-21",
+      "question": "Comment appelle-t-on ces fêtes bretonnes durant lesquelles on pratique danses et chants traditionnels ?",
+      "choices": [
+        "Le bagad",
+        "Le biniou",
+        "Le kastell",
+        "Le fest-noz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le fest-noz est un rassemblement festif basé sur la pratique collective des danses traditionnelles de Bretagne, accompagnées de chants ou musiques instrumentales.",
+      "category": "Géo"
+    },
+    {
+      "id": 205,
+      "date": "2026-10-22",
+      "question": "Quel ministère est couramment appelé «La place Beauvau» ?",
+      "choices": [
+        "Ministère de la Justice",
+        "Ministère de la Santé",
+        "Ministère de l'Éducation",
+        "Ministère de l'Intérieur"
+      ],
+      "correctIndex": 3,
+      "explanation": "Par métonymie, la Place Beauvau désigne le Ministère de l’Intérieur, qui est installé à l'hôtel de Beauvau.",
+      "category": "Culture G"
+    },
+    {
+      "id": 206,
+      "date": "2026-10-23",
+      "question": "Quelle institution fonde de Gaulle pour promouvoir l'art ?",
+      "choices": [
+        "Le Musée d'Orsay",
+        "Le ministère de la Culture",
+        "La fondation pour l'Art",
+        "La pyramide du Louvre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Créé en 1959, le ministère de la Culture est confié à André Malraux et a pour ambition de rendre accessibles les œuvres capitales de l'humanité à tous les Français.",
+      "category": "Histoire"
+    },
+    {
+      "id": 207,
+      "date": "2026-10-24",
+      "question": "Comment l’archipel comptant les îles de Rhodes, de Kalmynos ou de Leros se nomme-t-il ?",
+      "choices": [
+        "Les îles Ioniennes",
+        "Les Cyclades",
+        "Les îles Sporades",
+        "Le Dodécanèse"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le Dodécanèse est un groupe d'îles grecques dans le sud-est de la mer Égée. Le mot Dodécanèse vient du grec ancien et signifie « douze îles ». Ainsi, on parle souvent de douze îles principales, mais au total, l'archipel compte environ 160 îles.",
+      "category": "Géo"
+    },
+    {
+      "id": 208,
+      "date": "2026-10-25",
+      "question": "Qui a écrit les paroles de La Marseillaise ?",
+      "choices": [
+        "Paul Paray",
+        "Rouget de Lisle",
+        "Hector Berlioz",
+        "Victor Hugo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les six premiers couplets ont été écrits par Rouget de Lisle sous le titre de Chant de guerre pour l'armée du Rhin à Strasbourg en 1792.",
+      "category": "Culture G"
+    },
+    {
+      "id": 209,
+      "date": "2026-10-26",
+      "question": "Qui a été la seconde épouse du roi Louis XIV ?",
+      "choices": [
+        "Marie-Thérèse d'Autriche",
+        "Madame de Maintenon",
+        "Madame de Montespan",
+        "Madame du Barry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Louis XIV a été marié 2 fois, d'abord avec la reine Marie-Thérèse puis avec Madame de Maintenon (de son vrai nom Françoise d'Aubigné).",
+      "category": "Histoire"
+    },
+    {
+      "id": 210,
+      "date": "2026-10-27",
+      "question": "Quelle est la superficie du continent africain ?",
+      "choices": [
+        "10 millions km²",
+        "20 millions km²",
+        "30 millions km²",
+        "40 millions km²"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'Afrique est un continent qui couvre 6 % de la surface de la Terre et 20 % de la surface des terres émergées. Sa superficie est exactement de 30 415 873 km2 avec les îles, ce qui en fait la troisième mondiale si l'on compte l'Amérique comme un seul continent.",
+      "category": "Géo"
+    },
+    {
+      "id": 211,
+      "date": "2026-10-28",
+      "question": "Combien d’archipels composent la Polynésie française ?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les 5 archipels sont : l’archipel de la Société avec les îles Sous-le-Vent et les îles du Vent, l’archipel des Tuamotu, l’archipel des Australes, les îles Marquises et l’archipel des Gambiers.",
+      "category": "Culture G"
+    },
+    {
+      "id": 212,
+      "date": "2026-10-29",
+      "question": "Quel est le premier pays du monde où les femmes ont obtenu le droit de vote ?",
+      "choices": [
+        "France",
+        "Nouvelle-Zélande",
+        "Finlande",
+        "Norvège"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Nouvelle-Zélande est le 1er pays à avoir accordé le droit de vote aux femmes, en 1893. La France n'y viendra qu'en 1944.",
+      "category": "Histoire"
+    },
+    {
+      "id": 213,
+      "date": "2026-10-30",
+      "question": "Quel est le chef-lieu de la Guadeloupe ?",
+      "choices": [
+        "Fort-de-France",
+        "Point-à-Pitre",
+        "Basse-Terre",
+        "Le François"
+      ],
+      "correctIndex": 2,
+      "explanation": "Basse-Terre, chef-lieu de la Guadeloupe, est avant tout le pôle administratif de l'île. Point-à-Pitre est quant à elle la capitale économique.",
+      "category": "Géo"
+    },
+    {
+      "id": 214,
+      "date": "2026-10-31",
+      "question": "À quel archipel appartient l'île de Bora-Bora ?",
+      "choices": [
+        "L'archipel des Gambiers",
+        "L'archipel des Australes",
+        "L'archipel de la Société",
+        "L'archipel des Marquises"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bora-Bora est située dans les îles-sous-le-Vent, dans l'archipel de la Société.",
+      "category": "Culture G"
+    },
+    {
+      "id": 215,
+      "date": "2026-11-01",
+      "question": "Quel événement de 1969 à New York est le point de départ du mouvement LGBTQIA+ moderne ?",
+      "choices": [
+        "La marche de Central Park",
+        "Les émeutes de Stonewall",
+        "La fondation d'Act Up",
+        "Le festival de Woodstock"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les émeutes de Stonewall Inn (juin 1969) sont l'acte fondateur du mouvement LGBTQIA+ moderne. Marsha P. Johnson y joua un rôle central.",
+      "category": "Histoire"
+    },
+    {
+      "id": 216,
+      "date": "2026-11-02",
+      "question": "Quel tropique traverse le golfe du Mexique et le Mali ?",
+      "choices": [
+        "Tropique du Bélier",
+        "Tropique du Capricorne",
+        "Tropique du Scorpion",
+        "Tropique du Cancer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Les tropiques sont des cercles imaginaires, parallèles à l'équateur. Celui de l'hémisphère Nord s'appelle le tropique du Cancer et celui de l'hémisphère Sud, le tropique du Capricorne.",
+      "category": "Géo"
+    },
+    {
+      "id": 217,
+      "date": "2026-11-03",
       "question": "Dans Titanic, qu'apprend Jack à Rose ?",
       "choices": [
         "À cracher comme un homme",
@@ -1861,6 +3037,202 @@
       "correctIndex": 3,
       "explanation": "Jack apprend bien evidemment à cracher comme un homme.",
       "category": "Culture G"
+    },
+    {
+      "id": 218,
+      "date": "2026-11-04",
+      "question": "Combien d’années a duré la guerre de Cent Ans ?",
+      "choices": [
+        "95 ans",
+        "99 ans",
+        "103 ans",
+        "116 ans"
+      ],
+      "correctIndex": 3,
+      "explanation": "Malgré son nom, la Guerre de Cent Ans a duré 116 ans. La France et l'Angleterre se sont fait la guerre de 1337 à 1453. C'est finalement la France qui gagne avec l'aide de Jeanne d'Arc.",
+      "category": "Histoire"
+    },
+    {
+      "id": 219,
+      "date": "2026-11-05",
+      "question": "Dans quel pays seraient situés aujourd'hui les célèbres jardins suspendus de Babylone, une des sept merveilles du monde ?",
+      "choices": [
+        "Iran",
+        "Irak",
+        "Turquie",
+        "Syrie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les jardins suspendus de Babylone se situaient en Mésopotamie, actuellement Irak.",
+      "category": "Géo"
+    },
+    {
+      "id": 220,
+      "date": "2026-11-06",
+      "question": "Le pic d'Aneto est un point culminant, mais de quelle chaîne de montagne ?",
+      "choices": [
+        "Les Pyrénées",
+        "L'Atlas",
+        "L’Oural",
+        "Les Rocheuses"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le pic d'Aneto est le point culminant de la chaîne des Pyrénées avec une altitude de 3 404 m. Il se situe en Espagne.",
+      "category": "Culture G"
+    },
+    {
+      "id": 221,
+      "date": "2026-11-07",
+      "question": "De quelle époque datent la plupart des châteaux de la Loire ?",
+      "choices": [
+        "Du haut Moyen Âge",
+        "Du bas Moyen Âge",
+        "De la Renaissance",
+        "Du XVIIIème siècle"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les châteaux de la Loire ont pour la plupart été construits entre le XVème et le XVIIème siècle, pendant la période de la Renaissance. Les rois de France et la noblesse ont commencé à construire ces châteaux pour échapper à la Cour de Paris et à la vie politique.",
+      "category": "Histoire"
+    },
+    {
+      "id": 222,
+      "date": "2026-11-08",
+      "question": "Combien de départements compte-t-on en France métropolitaine et départements d’outre-mer ?",
+      "choices": [
+        "96",
+        "99",
+        "101",
+        "105"
+      ],
+      "correctIndex": 2,
+      "explanation": "On compte 96 départements en métropole et 5 DOM.",
+      "category": "Géo"
+    },
+    {
+      "id": 223,
+      "date": "2026-11-09",
+      "question": "Quel est le nom de cette institutrice anarchiste ayant participé aux combats durant la Commune de Paris ?",
+      "choices": [
+        "Louise François",
+        "Louise Michel",
+        "Louise Guy",
+        "Louise Germain"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pendant la Commune de Paris, Louise Michel lutte pour une République sociale et démocratique et contre l’armée d’Adolphe Thiers en 1871. Elle demeure une figure révolutionnaire et anarchiste de premier plan dans l'imaginaire collectif.",
+      "category": "Culture G"
+    },
+    {
+      "id": 224,
+      "date": "2026-11-10",
+      "question": "Cléopâtre VII était contemporaine de quels personnages historiques romains ?",
+      "choices": [
+        "Auguste et Jules César",
+        "Néron et Caligula",
+        "Trajan et Hadrien",
+        "Titus et Vespasien"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cléopâtre VII fut la maîtresse de Jules César puis de Marc Antoine, dans les dernières décennies de la République romaine.",
+      "category": "Histoire"
+    },
+    {
+      "id": 225,
+      "date": "2026-11-11",
+      "question": "Quelles noces fête-t-on au bout de 30 ans de mariage ?",
+      "choices": [
+        "Perle",
+        "Orchidée",
+        "Porcelaine",
+        "Émeraude"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les 30 ans de mariage sont également appelés les noces de perle.",
+      "category": "Culture G"
+    },
+    {
+      "id": 226,
+      "date": "2026-11-12",
+      "question": "Quelle pierre a permis de déchiffrer l'écriture égyptienne ?",
+      "choices": [
+        "Pierre de Rosette",
+        "Pierre de Josette",
+        "Pierre de Rose",
+        "Pierre d'Alexandrie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Découverte lors de l'expédition d'Égypte de Napoléon Bonaparte, la pierre de Rosette a permis à Jean-François Champollion de déchiffrer pour la première fois les hiéroglyphes, perçant ainsi le mystère de cette écriture égyptienne",
+      "category": "Histoire"
+    },
+    {
+      "id": 227,
+      "date": "2026-11-13",
+      "question": "Quel roi d'Angleterre créa l'Église anglicane pour pouvoir divorcer de Catherine d'Aragon ?",
+      "choices": [
+        "Richard III",
+        "Édouard VI",
+        "Henri VIII",
+        "Charles Ier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Henri VIII a rompu avec Rome en 1534 pour épouser Anne Boleyn. Il aura au total 6 épouses.",
+      "category": "Histoire"
+    },
+    {
+      "id": 228,
+      "date": "2026-11-14",
+      "question": "Quel dramaturge s'illustre particulièrement dans la comédie au XVIIIe siècle ? ",
+      "choices": [
+        "Molière",
+        "Marivaux",
+        "Corneille",
+        "Racine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le 18e siècle se passionne pour le théâtre avec une production très abondante. Un nouveau genre apparaît entre la tragédie et la comédie : le drame bourgeois. Marivaux est surtout connu pour ses pièces qui traitent de \"la métaphysique du coeur\", ce qu'on a appelé le marivaudage : La Surprise de l'amour (1722), la Double Inconstance (1723), le Jeu de l'amour et du hasard (1730), les Fausses confidences (1737).",
+      "category": "Histoire"
+    },
+    {
+      "id": 229,
+      "date": "2026-11-15",
+      "question": "Qui est André Malraux ?",
+      "choices": [
+        "Un écrivain et homme politique",
+        "Un dramaturge",
+        "Un musicien",
+        "Un peintre"
+      ],
+      "correctIndex": 0,
+      "explanation": "André Malraux est un écrivain, critique d'art et homme politique. Il joue un rôle important dans la culture française du XXe siècle. Il croit que l'art doit être accessible à tous les citoyens, indépendamment de leur classe sociale ou de leur éducation.",
+      "category": "Histoire"
+    },
+    {
+      "id": 230,
+      "date": "2026-11-16",
+      "question": "Qui a écrit l’ouvrage nommé “Déclaration des droits de la femme et de la citoyenne” ?",
+      "choices": [
+        "Olympe de Gouges",
+        "George Sand",
+        "Germaine de Staël",
+        "Madame de Sévigné"
+      ],
+      "correctIndex": 0,
+      "explanation": "Olympe de Gouges est une femme de lettres et femme politique, longtemps considérée comme une des pionnières du féminisme. En 1791, elle rédige une Déclaration des droits de la femme et de la citoyenne. Elle sera guillotinée en 1793 sur ordre de Robespierre.",
+      "category": "Histoire"
+    },
+    {
+      "id": 231,
+      "date": "2026-11-17",
+      "question": "Quelle ville actuelle se faisait appeler Byzance ?",
+      "choices": [
+        "Rome",
+        "Athènes",
+        "Istanbul",
+        "Bagdad"
+      ],
+      "correctIndex": 2,
+      "explanation": "La cité grecque de Byzance a été créée vers 667 avant notre ère, au carrefour de l'Europe et de l'Asie. Cette ville a ensuite porté le nom de Constantinople. Elle a été à la tête de l'Empire byzantin, puis de l'Empire ottoman, avant d'être nommée Istanbul en 1930.",
+      "category": "Histoire"
     }
   ]
 }
