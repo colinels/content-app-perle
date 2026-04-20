@@ -465,8 +465,8 @@
       "song": "Bambino",
       "year": 1956,
       "lyrics": [
-        "Je sais bien que tu l’adores, ( Bambino, bambino ) Et qu’elle a de jolis yeux",
-        "( Bambino, bambino ) Mais tu es trop jeune encore, ( Bambino, bambino ) Pour jouer les amoureux",
+        "Je sais bien que tu l’adores, Et qu’elle a de jolis yeux",
+        "Mais tu es trop jeune encore, Pour jouer les amoureux",
         "E gratta, gratta sul tuo mandolino, mon petit Bambino, Ta musique est plus jolie, que tout le ciel de l’Italie",
         "Et canta, canta de ta voix câline, mon petit Bambino, Tu peux chanter tant que tu veux, elle ne te prend pas au sérieux"
       ],
@@ -478,7 +478,7 @@
         "Charles Aznavour",
         "Barbara",
         "Dalida",
-        "Léo Ferré"
+        "Laura Pausini"
       ],
       "correctIndex": 2,
       "date": "2026-04-21"
@@ -498,8 +498,8 @@
       "style": "variété française",
       "origin": "France",
       "choices": [
-        "Boris",
-        "Larusso",
+        "Pascal Obispo",
+        "Céline Dion",
         "Calogero",
         "Enzo Enzo"
       ],
@@ -521,10 +521,10 @@
       "style": "variété internationale",
       "origin": "Belgique",
       "choices": [
-        "Faudel",
+        "Tina Arena",
         "Lara Fabian",
-        "Les Innocents",
-        "Axel Bauer"
+        "Hélène Ségara",
+        "Isabelle Boulay"
       ],
       "correctIndex": 1,
       "date": "2026-04-23"
@@ -545,7 +545,7 @@
       "origin": "Royaume-Uni",
       "choices": [
         "Dire Straits",
-        "Kim Carnes",
+        "Sting",
         "Bruce Springsteen",
         "Queen"
       ],
@@ -569,7 +569,7 @@
       "choices": [
         "Florent Pagny",
         "Vanessa Paradis",
-        "Gérard Blanc",
+        "Zazie",
         "Marc Lavoine"
       ],
       "correctIndex": 1,
@@ -603,10 +603,10 @@
       "song": "Que je t'aime",
       "year": 1977,
       "lyrics": [
-        "Et des îles au trésor, Que je t'aime, que je t'aime, que je t'aime",
-        "Que je t'aime, que je t'aime, que je t'aime, Quand ta bouche se fait douce",
+        "Et des îles au trésor, Quand ta bouche se fait douce",
         "Quand ton corps se fait dur, Quand le ciel dans tes yeux",
-        "D'un seul coup n'est plus pur, Quand tes mains voudraient bien"
+        "D'un seul coup n'est plus pur, Quand tes mains voudraient bien",
+        "Que je t'aime, que je t'aime, que je t'aime"
       ],
       "lang": "Français",
       "decades": "1960s-2010s",
@@ -683,7 +683,7 @@
       "origin": "France",
       "choices": [
         "OrelSan",
-        "Kamini",
+        "Gringe",
         "Youssoupha",
         "Sexion d'Assaut"
       ],
@@ -729,7 +729,7 @@
       "origin": "Canada",
       "choices": [
         "Céline Dion",
-        "Shakira",
+        "Shania Twain",
         "Alphaville",
         "Spice Girls"
       ],
@@ -752,7 +752,7 @@
       "origin": "France",
       "choices": [
         "Florent Pagny",
-        "Corynne Charby",
+        "Carla Bruni",
         "Thierry Hazard",
         "Pascal Obispo"
       ],

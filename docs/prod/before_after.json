@@ -238,7 +238,7 @@
       "itemYear": 1936,
       "correctAnswer": "before",
       "referenceExplanation": "Pour se venger des Etats-Unis qui est alors un allié de la Chine, le Japon envoie des avions et des sous-marins pour bombarder la base de Pearl Harbor. Cette attaque marque l'entrée des États-Unis dans la seconde Guerre Mondiale.",
-      "itemExplanation": "En 1936, les premiers congés payés des Français, acquis des grèves du Front populaire."
+      "itemExplanation": "En 1936, les premiers congés payés des Français, acquis des grèves du Front populaire.."
     },
     {
       "date": "2026-04-21",
@@ -262,12 +262,12 @@
       "itemYear": 2007,
       "correctAnswer": "after",
       "referenceExplanation": "En décembre 1997, Titanic sort au cinéma. Il restera numéro 1 du box-office mondial pendant plus de 10 ans et remportera 11 Oscars.",
-      "itemExplanation": "Depuis 2007, la charte olympique rend obligatoire leur présence dans tout sport. Depuis 1991, tout sport qui souhaite être inclus au programme des JO doit obligatoirement comporter des épreuves féminines."
+      "itemExplanation": "Depuis 2007, la charte olympique rend obligatoire leur présence dans tous les sports. Depuis 1991, tout sport qui souhaite être inclus au programme des JO doit obligatoirement comporter des épreuves féminines."
     },
     {
       "date": "2026-04-23",
-      "referenceTitle": "La sortie de la Play Station",
-      "referenceYear": 2020,
+      "referenceTitle": "La sortie de la PlayStation",
+      "referenceYear": 1994,
       "referenceTag": "POP CULTURE",
       "itemTitle": "Le mariage de Kate et William",
       "itemTag": "POP CULTURE",
@@ -314,7 +314,7 @@
     },
     {
       "date": "2026-04-27",
-      "referenceTitle": "Le début du mouvement de la « Nouvelle Vague »",
+      "referenceTitle": "Le début du mouvement de la «Nouvelle Vague» (Cinéma)",
       "referenceYear": 1959,
       "referenceTag": "CINÉMA",
       "itemTitle": "L'assassinat de JFK",
@@ -350,7 +350,7 @@
     },
     {
       "date": "2026-04-30",
-      "referenceTitle": "Le début du mouvement Metoo",
+      "referenceTitle": "Le début du mouvement #MeToo",
       "referenceYear": 2017,
       "referenceTag": "HISTOIRE",
       "itemTitle": "La présence des femmes obligatoire dans tous les sports aux JO",
@@ -2513,9 +2513,9 @@
       "referenceTitle": "Le lancement de Game of Thrones",
       "referenceYear": 2011,
       "referenceTag": "POP CULTURE",
-      "itemTitle": "La sortie de la Play Station",
+      "itemTitle": "La sortie de la PlayStation",
       "itemTag": "POP CULTURE",
-      "itemYear": 2020,
+      "itemYear": 1994,
       "correctAnswer": "after",
       "referenceExplanation": "Le 17 avril 2011, HBO diffuse le premier épisode de « Game of Thrones »",
       "itemExplanation": "La PlayStation sort le 3 décembre 1994 au Japon (puis en 1995 en Europe). Elle popularise le jeu vidéo en 3D et marque l’entrée de Sony dans l’industrie du gaming."
@@ -2966,7 +2966,7 @@
     },
     {
       "date": "2026-12-07",
-      "referenceTitle": "Le début du mouvement Metoo",
+      "referenceTitle": "Le début du mouvement #MeToo",
       "referenceYear": 2017,
       "referenceTag": "HISTOIRE",
       "itemTitle": "La sortie du premier film Avengers",
@@ -3374,12 +3374,12 @@
     },
     {
       "date": "2027-01-12",
-      "referenceTitle": "Le début du mouvement Metoo",
+      "referenceTitle": "Le début du mouvement #MeToo",
       "referenceYear": 2017,
       "referenceTag": "HISTOIRE",
-      "itemTitle": "La sortie de la Play Station",
+      "itemTitle": "La sortie de la PlayStation",
       "itemTag": "POP CULTURE",
-      "itemYear": 2020,
+      "itemYear": 1994,
       "correctAnswer": "after",
       "referenceExplanation": "Le mouvement #MeToo en France émerge en 2017, peu de temps après celui aux États-Unis,",
       "itemExplanation": "La PlayStation sort le 3 décembre 1994 au Japon (puis en 1995 en Europe). Elle popularise le jeu vidéo en 3D et marque l’entrée de Sony dans l’industrie du gaming."
@@ -3737,7 +3737,7 @@
       "referenceTitle": "Obama devient président",
       "referenceYear": 2008,
       "referenceTag": "HISTOIRE",
-      "itemTitle": "Le début du mouvement Metoo",
+      "itemTitle": "Le début du mouvement #MeToo",
       "itemTag": "HISTOIRE",
       "itemYear": 2017,
       "correctAnswer": "after",
@@ -3917,7 +3917,7 @@
       "referenceTitle": "La sortie du premier film Avengers",
       "referenceYear": 2012,
       "referenceTag": "CINÉMA",
-      "itemTitle": "Le début du mouvement Metoo",
+      "itemTitle": "Le début du mouvement #MeToo",
       "itemTag": "HISTOIRE",
       "itemYear": 2017,
       "correctAnswer": "after",

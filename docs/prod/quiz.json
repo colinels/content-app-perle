@@ -291,7 +291,7 @@
         "Somewhere"
       ],
       "correctIndex": 2,
-      "explanation": "Lost in Translation a valu à Sofia Coppola l'Oscar du meilleur scénario en 2004, une première pour une femme dans cette catégorie.",
+      "explanation": "Lost in Translation a valu à Sofia Coppola l'Oscar du meilleur scénario en 2004.",
       "category": "Cinéma"
     },
     {
@@ -305,13 +305,13 @@
         "Les après-midi"
       ],
       "correctIndex": 1,
-      "explanation": "Les nouveau-nés.",
+      "explanation": "«Les nouveau-nés» : Dans ce cas, seul « né » s’accorde, le premier mot reste invariable. Cependant, on dit «Les premiers-nés». Bon courage avec la langue française !",
       "category": "Orthographe"
     },
     {
       "id": 23,
       "date": "2026-04-23",
-      "question": "Quel est l'intrus ?",
+      "question": "Parmi ces quatre livres, lequel n'a pas été écrit par Dumas père ?",
       "choices": [
         "La Reine Margot",
         "Les Trois Mousquetaires",
@@ -319,7 +319,7 @@
         "La Dame aux camélias"
       ],
       "correctIndex": 3,
-      "explanation": "La Reine Margot, Les Trois Mousquetaires et Le Comte de Monte-Cristo ont été écrits par Alexandre Dumas (Père) alors que La Dame aux camélias a été écrit par Alexandre Dumas fils. Le moins qu'on puisse dire, c'est qu'il y avait du talent dans la famille.",
+      "explanation": "La Reine Margot, Les Trois Mousquetaires et Le Comte de Monte-Cristo ont été écrits par Alexandre Dumas père alors que La Dame aux camélias a été écrit par Alexandre Dumas fils. Le moins qu'on puisse dire, c'est qu'il y avait du talent dans la famille.",
       "category": "Littérature"
     },
     {
@@ -333,7 +333,7 @@
         "2064° C"
       ],
       "correctIndex": 1,
-      "explanation": "le point de fusion de l'or pur se situe à 1064 degrés Celsius.",
+      "explanation": "Le point de fusion de l'or pur se situe à 1064 degrés Celsius.",
       "category": "Sciences"
     },
     {
@@ -367,7 +367,7 @@
     {
       "id": 27,
       "date": "2026-04-27",
-      "question": "Dans quelle comédie musicale française peut-on entendre la chanson «Vérone»?",
+      "question": "Dans quelle comédie musicale française peut-on entendre la chanson «Vérone» ?",
       "choices": [
         "Roméo et Juliette : De l’amour à la haine",
         "Le Roi Soleil",
@@ -416,7 +416,7 @@
         "Deux fois la France",
         "Trois fois la France"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La « soupe plastique » de l'océan Pacifique nord, encore appelée « vortex de déchets », s'étend entre le Japon et les États-Unis sur une surface d'environ trois fois la France (1,6 million de km2).",
       "category": "Nature"
     },
@@ -460,7 +460,7 @@
       ],
       "correctIndex": 0,
       "explanation": "Cléopâtre, dernière reine d’Égypte, règne sur l'Égypte entre 51 et 30 av. J.-C.",
-      "category": "Culture G"
+      "category": "Histoire"
     },
     {
       "id": 34,
@@ -493,7 +493,7 @@
     {
       "id": 36,
       "date": "2026-05-06",
-      "question": "Paris 2024 a été les premiers JO à atteindre la parité parfaite. Quel pourcentage d'athlètes féminines y participaient ?",
+      "question": "Quel pourcentage d'athlètes féminines participaient aux JO de Paris ?",
       "choices": [
         "Moins de 30 %",
         "Environ 40 %",
@@ -535,7 +535,7 @@
     {
       "id": 39,
       "date": "2026-05-09",
-      "question": "Dans Les Misérables de Hugo, qui est Fantine ?",
+      "question": "Dans Les Misérables de Victor Hugo, qui est Fantine ?",
       "choices": [
         "La mère de Cosette",
         "La femme de Jean Valjean",
