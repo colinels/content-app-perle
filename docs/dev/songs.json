@@ -928,17 +928,17 @@
         "When the clouds come, we go, we Roc-A-Fella ( Ayy-ayy-ayy, ayy )",
         "We fly higher than weather, in G5's or better",
         "You know me (You know me), In anticipation for precipitation, stack chips for the rainy day",
-        "Jay, Rain Man is back ( Ayy-ayy-ayy, ayy ), With Little Miss Sunshine , Rihanna, where you at? ( Ayy-ayy-ayy, ayy )"
+        "Jay, Rain Man is back ( Ayy-ayy-ayy, ayy ), With Little Miss Sunshine , where you at? ( Ayy-ayy-ayy, ayy )"
       ],
       "lang": "International",
       "decades": "2000s-2020s",
       "style": "r&b / soul",
       "origin": "Barbade",
       "choices": [
-        "Corneille",
+        "Beyoncé",
         "Rihanna",
-        "Erykah Badu",
-        "Norah Jones"
+        "Jennifer Lopez",
+        "Alicia Keys"
       ],
       "correctIndex": 1,
       "date": "2026-05-11"
@@ -983,7 +983,7 @@
       "choices": [
         "Bibie",
         "Zazie",
-        "Yannick Noah",
+        "Calogero",
         "Julie Pietri"
       ],
       "correctIndex": 1,
@@ -1005,7 +1005,7 @@
       "origin": "Égypte",
       "choices": [
         "Dalida",
-        "Georges Brassens",
+        "Nicoletta",
         "Jeanne Moreau",
         "Jacques Brel"
       ],
@@ -1017,10 +1017,10 @@
       "song": "En apesanteur",
       "year": 2002,
       "lyrics": [
-        "Je suis en tête-à-tête avec un ange, (Ah, ah, ah, ah, ah)",
-        "En apesanteur (Ah, ah, ah, ah, ah), Pourvu que les secondes soient des heures",
-        "(Ah, ah, ah, ah, ah), En apesanteur (Ah, ah, ah, ah, ah)",
-        "Pourvu qu'on soit les seuls, Dans cet ascenseur Elle arrange ses cheveux"
+        "Je suis en tête-à-tête avec un ange",
+        "Pourvu que les secondes soient des heures, Pourvu qu'on soit les seuls, Dans cet ascenseur",
+        "Elle arrange ses cheveux, J'ai le cœur juste au bord des yeux",
+        "Et sans la regarder je sens la chaleur, D'un autre langage"
       ],
       "lang": "Français",
       "decades": "2000s-2020s",
@@ -1028,9 +1028,9 @@
       "origin": "France",
       "choices": [
         "Calogero",
-        "Alizée",
-        "Leslie",
-        "Boris"
+        "Vincent Delerm",
+        "Benjamin Biolay",
+        "Raphaël"
       ],
       "correctIndex": 0,
       "date": "2026-05-15"
@@ -1075,8 +1075,8 @@
       "choices": [
         "Jeanne Mas",
         "Michel Berger",
-        "Alain Souchon",
-        "Florent Pagny"
+        "Daniel Balavoine",
+        "France Gall"
       ],
       "correctIndex": 1,
       "date": "2026-05-17"
@@ -1098,7 +1098,7 @@
       "choices": [
         "Shania Twain",
         "Britney Spears",
-        "Gala",
+        "Alanis Morissette",
         "Taylor Swift"
       ],
       "correctIndex": 3,
@@ -1144,8 +1144,8 @@
       "choices": [
         "Enzo Enzo",
         "Vanessa Paradis",
-        "Gérard Blanc",
-        "Hélène Ségara"
+        "Pomme",
+        "Jane Birkin"
       ],
       "correctIndex": 1,
       "date": "2026-05-20"
@@ -1166,9 +1166,9 @@
       "origin": "Belgique",
       "choices": [
         "Angèle",
-        "Helmut Fritz",
+        "Yoa",
         "Yael Naim",
-        "Benjamin Biolay"
+        "Yseult"
       ],
       "correctIndex": 0,
       "date": "2026-05-21"

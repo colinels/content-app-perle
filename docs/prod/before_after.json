@@ -509,12 +509,12 @@
       "referenceTitle": "Céline Dion remporte l'Eurovision",
       "referenceYear": 1988,
       "referenceTag": "MUSIQUE",
-      "itemTitle": "La première femme élue à l'Académie française",
+      "itemTitle": "La sortie de l'album Ray of Light de Madonna",
       "itemTag": "FEMMES",
-      "itemYear": 1980,
-      "correctAnswer": "before",
+      "itemYear": 1998,
+      "correctAnswer": "after",
       "referenceExplanation": "En 1988, Céline Dion arrive première avec la chanson Ne partez pas sans moi. Elle représentait alors la Suisse.",
-      "itemExplanation": "Marguerite Yourcenar devient la première femme élue à l'Académie française en 1980, après 345 années d'existence. Il était temps ! Seulement 11 femmes ont été élues au total."
+      "itemExplanation": "Ray of Light est le septième album studio de Madonna. Sorti en 1998, il a été vendu à plus de 20 millions d'exemplaires."
     },
     {
       "date": "2026-05-14",
@@ -617,7 +617,7 @@
       "referenceTitle": "La Loi Veil",
       "referenceYear": 1975,
       "referenceTag": "HISTOIRE",
-      "itemTitle": "Le walkman",
+      "itemTitle": "Le premier walkman",
       "itemTag": "TECH",
       "itemYear": 1979,
       "correctAnswer": "after",
