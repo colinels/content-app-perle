@@ -1742,7 +1742,7 @@
       "choices": [
         "Madonna",
         "Kylie Minogue",
-        "Alphaville",
+        "Sheryl Crow",
         "Elton John"
       ],
       "correctIndex": 0,
@@ -1753,8 +1753,8 @@
       "song": "Holidays",
       "year": 1972,
       "lyrics": [
-        "Que fait-il le Dieu qu'ils aiment?, Qui vit dans l'espace Que la terre est basse",
-        "Holidays Holidays, oh holidays De l'avion, l'ombre prend la mer, La mer comme une préface",
+        "Que fait-il le Dieu qu'ils aiment? Qui vit dans l'espace, Que la terre est basse",
+        "Holidays Holidays, oh holidays. De l'avion, l'ombre prend la mer, La mer comme une préface",
         "Avant le désert Que la mer est basse, Holidays Holidays, oh holidays Tant de ciel et tant de nuages",
         "Tu ne sais pas à ton âge, Toi que la vie lasse"
       ],
@@ -1786,10 +1786,10 @@
       "style": "pop",
       "origin": "Canada",
       "choices": [
-        "Daft Punk",
-        "Les Rita Mitsouko",
+        "Lara Fabian",
+        "Liane Foly",
         "Céline Dion",
-        "2 Be 3"
+        "Patricia Kass"
       ],
       "correctIndex": 2,
       "date": "2026-06-17"
@@ -1800,7 +1800,7 @@
       "year": 2011,
       "lyrics": [
         "J’rêvais d’être connu en jouant aux p'tites voitures, Maintenant les labels et les groupies veulent ma signature",
-        "Oui j’assure, j’suis l'génie qu’a écrit \"Sale pute\", J’aimais pas l’adolescence : laisse-moi kiffer ma vie d’adulte",
+        "J’aimais pas l’adolescence : laisse-moi kiffer ma vie d’adulte",
         "Des bises, des poignées d'mains, des sourires hypocrites, Reprends une bouteille : les deux premières sont parties trop vite",
         "Sous champagne, personne n’écoute mais les gens parlent, Dis-moi qui tu connais, j’te dirai si t’es fréquentable"
       ],
@@ -1812,7 +1812,7 @@
         "GIMS",
         "OrelSan",
         "Gaël Faye",
-        "Diam's"
+        "Stromae"
       ],
       "correctIndex": 1,
       "date": "2026-06-18"
